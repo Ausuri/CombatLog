@@ -1,0 +1,33 @@
+CHECKING START TIME FOR: Focused Modulated Medium Energy Beam I : 28/07/2004 01:07:14 vs. 01/01/9999 00:00:00
+CHECKING END TIME FOR: Focused Modulated Medium Energy Beam I : 28/07/2004 01:07:14 vs. 01/01/0001 00:00:00
+CHECKING END TIME FOR: Focused Modulated Medium Energy Beam I : 28/07/2004 01:07:26 vs. 28/07/2004 01:07:14
+CHECKING END TIME FOR: Focused Modulated Medium Energy Beam I : 28/07/2004 01:07:30 vs. 28/07/2004 01:07:26
+CHECKING END TIME FOR: Focused Modulated Medium Energy Beam I : 28/07/2004 01:07:40 vs. 28/07/2004 01:07:36
+CHECKING END TIME FOR: Focused Modulated Medium Energy Beam I : 28/07/2004 01:07:44 vs. 28/07/2004 01:07:40
+CHECKING END TIME FOR: Focused Modulated Medium Energy Beam I : 28/07/2004 01:07:57 vs. 28/07/2004 01:07:44
+CHECKING END TIME FOR: Focused Modulated Medium Energy Beam I : 28/07/2004 01:07:36 vs. 28/07/2004 01:07:30
+CHECKING END TIME FOR: Focused Modulated Medium Energy Beam I : 28/07/2004 01:08:01 vs. 28/07/2004 01:07:57
+
+Focused Modulated Medium Energy Beam I - 01:07:15 -> 01:08:01 (46 seconds)
+
+CHECKING START TIME FOR: Focused Anode Medium Particle Stream I : 28/07/2004 01:07:15 vs. 01/01/9999 00:00:00
+CHECKING END TIME FOR: Focused Anode Medium Particle Stream I : 28/07/2004 01:07:15 vs. 01/01/0001 00:00:00
+CHECKING END TIME FOR: Focused Anode Medium Particle Stream I : 28/07/2004 01:07:27 vs. 28/07/2004 01:07:15
+CHECKING END TIME FOR: Focused Anode Medium Particle Stream I : 28/07/2004 01:07:32 vs. 28/07/2004 01:07:27
+CHECKING END TIME FOR: Focused Anode Medium Particle Stream I : 28/07/2004 01:07:49 vs. 28/07/2004 01:07:32
+CHECKING END TIME FOR: Focused Anode Medium Particle Stream I : 28/07/2004 01:07:53 vs. 28/07/2004 01:07:49
+CHECKING END TIME FOR: Focused Anode Medium Particle Stream I : 28/07/2004 01:07:55 vs. 28/07/2004 01:07:53
+CHECKING END TIME FOR: Focused Anode Medium Particle Stream I : 28/07/2004 01:07:59 vs. 28/07/2004 01:07:55
+
+Focused Anode Medium ParticleStream I - 01:07:15 -> 01:07:58 (43 seconds)
+
+CHECKING START TIME FOR: Focused Medium Beam Laser I : 28/07/2004 01:07:28 vs. 01/01/9999 00:00:00
+CHECKING END TIME FOR: Focused Medium Beam Laser I : 28/07/2004 01:07:28 vs. 01/01/0001 00:00:00
+CHECKING END TIME FOR: Focused Medium Beam Laser I : 28/07/2004 01:07:32 vs. 28/07/2004 01:07:28
+CHECKING END TIME FOR: Focused Medium Beam Laser I : 28/07/2004 01:07:37 vs. 28/07/2004 01:07:32
+CHECKING END TIME FOR: Focused Medium Beam Laser I : 28/07/2004 01:07:41 vs. 28/07/2004 01:07:37
+
+Focused Medium Beam Laser I - 01:07:28 -> 01:07:41 (13 seconds)
+
+
+

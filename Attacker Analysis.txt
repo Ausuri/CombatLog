@@ -1,0 +1,14 @@
+Turrets
+=======
+
+[ aims well at you, inflicting] [#.##] damage.
+[ places and excellent hit on you, inflicting] [#.##] damage.
+[ lightly hits you, doing] [#.##] damage.
+[ hits you, doing] [#.##] damage.
+[ barely scratches you, causing ] [#.##] damage.
+[ lands a hit on you which glances off, causing] [no real] damage.
+[ strikes you  perfectly, wrecking for ] [#.##] damage.
+Missiles
+========
+
+[ Weapon Name] [ belonging to ] [ Agressor name ] [hits you, ] doing [#.##] damage.

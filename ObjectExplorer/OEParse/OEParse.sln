@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OEParse", "OEParse.csproj", "{5ACE1239-C945-48D9-A3E6-A7763A607922}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OEParser", "..\OEParser\OEParser.csproj", "{0967EA84-3CAD-43A3-92FA-99B32401183A}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{5ACE1239-C945-48D9-A3E6-A7763A607922}.Debug.ActiveCfg = Debug|.NET
+		{5ACE1239-C945-48D9-A3E6-A7763A607922}.Debug.Build.0 = Debug|.NET
+		{5ACE1239-C945-48D9-A3E6-A7763A607922}.Release.ActiveCfg = Release|.NET
+		{5ACE1239-C945-48D9-A3E6-A7763A607922}.Release.Build.0 = Release|.NET
+		{0967EA84-3CAD-43A3-92FA-99B32401183A}.Debug.ActiveCfg = Debug|.NET
+		{0967EA84-3CAD-43A3-92FA-99B32401183A}.Debug.Build.0 = Debug|.NET
+		{0967EA84-3CAD-43A3-92FA-99B32401183A}.Release.ActiveCfg = Release|.NET
+		{0967EA84-3CAD-43A3-92FA-99B32401183A}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

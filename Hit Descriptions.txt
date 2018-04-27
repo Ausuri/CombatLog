@@ -1,0 +1,10 @@
+
+misses				Miss
+barely misses			Close Miss
+barely scratches		Scratches
+glances off			Glance
+lightly hits			Light
+hits				Hits
+is well aimed at		Well Aimed
+places an excellent hit on	Excellent
+perfectly strikes		Wreck

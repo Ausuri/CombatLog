@@ -1,0 +1,385 @@
+  Never give out your password or credit card number in an instant message conversation.
+  
+adrian@rudnik24.de says:
+hi there... kreischweide here
+Hurg says:
+lo m8. I guessed that might be u  
+adrian@rudnik24.de says:
+heh i hope so   just send you a second mail asking for a compiled binary, because i havent vs right on this machine
+Hurg says:
+no problem, I'll send a binary thru in a few mins, just making sure the installer works ok.
+Hurg says:
+need to put a short readme together as well so probably be about 10 or 15 mins b4 u receive something
+adrian@rudnik24.de says:
+its okay, busy a bit... will setup forums and so on now. whats your eve-i loginname?
+Hurg says:
+hurg  
+adrian@rudnik24.de says:
+ah... hard to guess *g* k
+Hurg says:
+lol
+adrian@rudnik24.de says:
+made any other game tools? or your first for a online game?
+Hurg says:
+I've got a few more EVE related tools that r not really ready for distribution atm. The only other game related thing I've done in the past was a character stats tracker for Planetside
+adrian@rudnik24.de says:
+oh   how comes a planetsider comes to eve?
+Hurg says:
+heh, I gave up PlanetSide a _long_ time ago. Shortly after it went live actually. I was in the beta test and was throughly bored and frustrated a month into go-live
+adrian@rudnik24.de says:
+hmm never played it, though dancer told me it had much potential... just to loose it with all same things over and over again.
+Hurg says:
+yep, it suffered from two big problems, level grind and repitition... the huge battle for territory never changed... ever. But, to this day, I've still had some of my most memorable team playing experiences with it..
+adrian@rudnik24.de says:
+the idea was nice... well... 2 forums are ready, just assigning the moderation rights to it
+Hurg says:
+u want 2 c an interesting screenshot b4 u go?
+adrian@rudnik24.de says:
+sure   i will be here for an hour, so dont hurry *g*
+Hurg says:
+1 sec..
+adrian@rudnik24.de says:
+just chatting with my gf, has some rl probs currently and working on an other app... so its a bit messy around here *g*
+Hurg says:
+I can imagine m8, my wife is trying to talk to me atm..
+  
+  Waiting for adrian@rudnik24.de to accept the file "marketspy.JPG" (255 Kb, less than 3 minutes with a 28.8 modem). Please wait for a response or Cancel (Alt+Q) the file transfer.
+  
+Hurg says:
+jpeg img u might be interested in
+  
+  Transfer of file "marketspy.JPG" has been accepted by adrian@rudnik24.de. Starting transfer...
+  
+adrian@rudnik24.de says:
+try http://www.eve-i.com/forum/admin/login.php?Cat= for forum administration
+Hurg says:
+rgr
+Hurg says:
+cool. seems to work  
+adrian@rudnik24.de says:
+oh your are character manager beta tester too?
+  
+  Transfer of "marketspy.JPG" is complete.
+  
+adrian@rudnik24.de says:
+to give users acces rights to the beta forum:
+Hurg says:
+I applied. nvr checked to c if I had access
+adrian@rudnik24.de says:
+show / edit users. pull down search for username, than go for the groups and assign the beta tester one
+Hurg says:
+trying it now
+adrian@rudnik24.de says:
+try with islay  
+Hurg says:
+just waiting for it to come back to me..
+adrian@rudnik24.de says:
+whats not coming back?
+
+Hurg says:
+searching for a specific username
+Hurg says:
+trying but taking a long time
+adrian@rudnik24.de says:
+hmm ah...
+Hurg says:
+my bad, selected the wrong option
+Hurg says:
+trying again
+adrian@rudnik24.de says:
+it may hang sometimes...
+adrian@rudnik24.de says:
+at least it does for me. response should be fast
+adrian@rudnik24.de says:
+well next is the ftp account
+Hurg says:
+r usernames case sensitive?
+adrian@rudnik24.de says:
+hmmm
+Hurg says:
+can't find Islay
+adrian@rudnik24.de says:
+try lower case
+Hurg says:
+did..  
+Hurg says:
+just found some1 else tho
+adrian@rudnik24.de says:
+hmmm.
+adrian@rudnik24.de says:
+ah right
+adrian@rudnik24.de says:
+moderators cant edit moderators *sigh*
+Hurg says:
+lol
+adrian@rudnik24.de says:
+try Kreischweide5
+adrian@rudnik24.de says:
+or just kreischweide
+adrian@rudnik24.de says:
+you should find one entry
+Hurg says:
+yep, got u
+adrian@rudnik24.de says:
+ok, click on the name, than click on groups
+Hurg says:
+ok, Edit Groups?
+Hurg says:
+hey, very cool  
+Hurg says:
+u have access now  
+adrian@rudnik24.de says:
+its sometimes hard to find what youre looking for... but it is easy if you get the hints *g*
+adrian@rudnik24.de says:
+cool  
+adrian@rudnik24.de says:
+now take them away again *ggg*
+Hurg says:
+  will do
+Hurg says:
+done
+adrian@rudnik24.de says:
+thanks   thats the way you assign it. now go to the forums and create a topic... like "looking for beta testers". i will show you how you sticky topics
+Hurg says:
+rgr. 1 sec
+adrian@rudnik24.de says:
+i will ready your ftp account
+Hurg says:
+using the Edit Forum link yes?
+adrian@rudnik24.de says:
+nahhh just normal posting  
+Hurg says:
+ah, ok
+adrian@rudnik24.de says:
+you can edit your own forums description and so on, what you should do
+adrian@rudnik24.de says:
+but try to leave the other settings as they are. may get messy otherwise  
+Hurg says:
+cool, I can see the forums... lemme post something on the non-beta 1
+adrian@rudnik24.de says:
+hmmm damn, its soooo long ago i created ftp accounts *g*
+Hurg says:
+ 
+adrian@rudnik24.de says:
+yeah... post something like "looking for betatesters" so you get the people interessted
+adrian@rudnik24.de says:
+when the post is ready, give me a tell
+Hurg says:
+will do. it'll take me a couple of mins to come up with some appropriate words  
+adrian@rudnik24.de says:
+no problem, maybe you get a working ftp account as reward *lol*
+Hurg says:
+lol
+adrian@rudnik24.de says:
+you need any eve-i.com email adress?
+Hurg says:
+would be useful, yes
+adrian@rudnik24.de says:
+just forwarding or pop3?
+Hurg says:
+pop3 if that's ok
+adrian@rudnik24.de says:
+need to recheck, but i guess it would be okay... just dont send large files over it *g*
+Hurg says:
+rgr  
+Hurg says:
+I have a question for u..
+adrian@rudnik24.de says:
+oh and there is something you could help me with. a direct link to the microsoft downloadpage for the .net files, where users can download the latest version
+adrian@rudnik24.de says:
+sure whats up
+Hurg says:
+yes, link to .NET coming up in a min  
+adrian@rudnik24.de says:
+pop3 and smtp server:  eve-i.com
+adrian@rudnik24.de says:
+username:  web6p5
+Hurg says:
+I want to give people a link to the overview page in the Looking for beta testers post. I can point them at my own site but am worried about my limited bandwidth. r u planning on putting that page onthe eve-i site? If so, do u have the link?
+adrian@rudnik24.de says:
+that page goes up and will get his own point in the navigation   you can upload and download the site and files... as islay does
+adrian@rudnik24.de says:
+so you use our bandwith. you know how to operate ftp?
+adrian@rudnik24.de says:
+mail password: 66hurgeve
+Hurg says:
+ftp, yes, I've used it b4  
+adrian@rudnik24.de says:
+emailadress: hurg@eve-i.com
+Hurg says:
+got it
+adrian@rudnik24.de says:
+be sure to enable md5 or no encryption for smtp, but you need to pop3 before smtp
+adrian@rudnik24.de says:
+otherwise you get a relay denied
+Hurg says:
+rgr
+Hurg says:
+just looking for .Net framework download link...
+adrian@rudnik24.de says:
+you can read emails through web here: https://confixx.p15135288.pureserver.info/user
+adrian@rudnik24.de says:
+just use username and pass. you can also configure autoresponder there
+Hurg says:
+cool  
+adrian@rudnik24.de says:
+hmmm okay... rechecking ftp now
+adrian@rudnik24.de says:
+ftp ready
+Hurg says:
+rgr
+adrian@rudnik24.de says:
+server: eve-i.com
+port: 21
+username: web6f7
+passwort is the same as email
+adrian@rudnik24.de says:
+login will get you the directory content of http://www.eve-i.com/home/hurg
+adrian@rudnik24.de says:
+you can use your own php scripts there
+adrian@rudnik24.de says:
+to count downloads and so on if you wish
+Hurg says:
+hmm, maybe l8r on I'll think about d/l counters
+Hurg says:
+trying ftp login now
+adrian@rudnik24.de says:
+you may ask islay, as he has some scripts already for it
+adrian@rudnik24.de says:
+you can upload the binary there
+Hurg says:
+good idea, thx..
+Hurg says:
+ftp login works  
+Hurg says:
+finally found a link to the .NET Framework download page too  
+adrian@rudnik24.de says:
+cool   will need to put it somewhere in the news and on the download page as link
+Hurg says:
+ok. Give me a few minutes to digest all of this and sort myself out.
+Hurg says:
+news article would be very cool   
+adrian@rudnik24.de says:
+i will put site templates with the content of your current homepage online, as soon as i can get them ready. you can then download them and you will see how you can alter the content directly on the eve-i.com homepage
+Hurg says:
+rgr that
+Hurg says:
+hey, can I send u an installer to try?
+adrian@rudnik24.de says:
+sure. just upload it... i can directly download it from there  
+Hurg says:
+cool. give me a sec to u/l it
+adrian@rudnik24.de says:
+you need to upload new versions and beta versions yourself. though i advise you to keep about 5-6 old versions on the server and use numering the file names for the installer. also provide alternative zip files for easy updates, not using the installer again
+Hurg says:
+That all seems very sensible. Will do
+Hurg says:
+hmm, the installer binary is 744K. I'll look at reducing that
+Hurg says:
+it's also a Microsoft MSI install file atm, I'll change that to a standard Setup.exe
+Hurg says:
+it's there now  
+adrian@rudnik24.de says:
+doh *g* yeah would be better to make an exe of it. if its an msi, we need an download link for the most recent version of the windows installer service for win98 to winxp  
+Hurg says:
+yep
+Hurg says:
+my thoughts exactly
+Hurg says:
+just a build switch in vs so no problem (I hope)
+adrian@rudnik24.de says:
+tried also msi first, but i went to rar... just doesnt need that much of requirements
+Hurg says:
+if I have problems with a setup.exe I'll look into a rar sfx
+adrian@rudnik24.de says:
+oh and something else
+Hurg says:
+go ahead
+adrian@rudnik24.de says:
+you know upx?
+Hurg says:
+nope
+Hurg says:
+ah, exe packer
+Hurg says:
+remember now
+adrian@rudnik24.de says:
+upx is an exe packer. not for the setup.exe, but for your main exe
+adrian@rudnik24.de says:
+http://upx.sourceforge.net/
+Hurg says:
+not sure how well it works with .net exe's but will check
+adrian@rudnik24.de says:
+just an idea... dunno if it works with .nets
+Hurg says:
+just looking at it now..
+adrian@rudnik24.de says:
+okay, installer installs fine on a normal, non vs, system with latest .net 1.1
+Hurg says:
+excellent. that's a good start
+adrian@rudnik24.de says:
+app also works
+Hurg says:
+btw, startup time on first run will take a while with lots of gamelogs. Everything gets cached so subsequent start-ups r a lot quicker
+adrian@rudnik24.de says:
+yeah just noticed... but im aware of it  =
+Hurg says:
+I may add an info dialog for "First time running" cases
+adrian@rudnik24.de says:
+you might put it into the readme... 2-3 third line or so   users can be so... shy *g*
+Hurg says:
+ 
+Hurg says:
+upx doesn't work
+Hurg says:
+with .net binaries
+adrian@rudnik24.de says:
+damn... well... *g*
+Hurg says:
+no problem.. I'm going afk for about 10 mins now. Got some rl stuff to do. Will talk when I get back
+adrian@rudnik24.de says:
+k
+adrian@rudnik24.de says:
+will create the homepage meanwhile
+adrian@rudnik24.de says:
+will also need to recompress and resize the images
+Hurg says:
+back
+Hurg says:
+images.. ok. let me know the required dimensions and I'll resize
+adrian@rudnik24.de says:
+just resizing currently   almost finished... meanwhile, take a look at your homepage
+adrian@rudnik24.de says:
+just look in the tools navigation left on eve-i.com
+Hurg says:
+cool    
+Hurg says:
+some Char Manager bits need removing obviously but it's looking very cool indeed  
+adrian@rudnik24.de says:
+yeah... working on it right now  
+adrian@rudnik24.de says:
+oh and thanks for the great work youve done before... makes it easy to implement  
+Hurg says:
+no need to thank me. I wanted to make it as easy as possible for u guys to agree to host it  
+Hurg says:
+regarding the installer, Visual Studio will not create a setup.exe style installer. However, the msi it generates includes the latest version of the msi installer package so no additional downloads necessary
+Hurg says:
+first time I've come across that..
+adrian@rudnik24.de says:
+hmmm
+adrian@rudnik24.de says:
+well lets hope everyone can execute msi files i guess :/
+
+Hurg says:
+yep. According to the VS documentation, the msi executable it generates includes a bootstrap that will install the necessary MSI bits before the installation begins so if it works as it says it does, it shouldn't be a problem
+Hurg says:
+/me crosses fingers...  
+adrian@rudnik24.de says:
+okay   can you upload the current msi again? avoid case sensitive names... its still just a linux machine  
+
+Hurg says:
+will do, I'll shorten the filename too  
+  
+  The following message could not be delivered to all recipients:
+will do, I'll shorten the filename too  
+  

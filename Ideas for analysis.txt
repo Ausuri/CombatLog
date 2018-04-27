@@ -1,0 +1,26 @@
+Summary By Weapon
+
+	Breakdown
+		Number of hits by type
+		Damage by type
+
+		Average Damage By Type
+
+		Normalized damage by type
+
+For each weapon
+	list the number of hits by hit type
+	list the total damage by damage type
+	Show the proportion of damage by type
+
+Performance
+	Build indexes when adding items
+	Build unique lists when adding items
+
+Usability
+	File List - Only display entries with actual combat entries
+
+
+
+Weapon Name	Shots Fired	Total Damage	Average Damage	Percentage Hit	Percentage Missed
+

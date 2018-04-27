@@ -1,0 +1,81 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+
+<html>
+<head>
+	<title>EVE Combat Analyser</title>
+</head>
+
+<body>
+	<table border=0 cellpadding=5 cellspacing=2 width=100%>
+	<tr>
+		<td width="100%" valign="top">
+		<p><b>Introduction</b></p>
+		<p>The EVE Combat Log Analyser (CLA) was written with a single purpose in mind, to provide me with easy means of analysing my EVE combat logs, in particular, how much damage I'm doing, to whom and when.</p>
+		<p>As you probably know, the EVE Client generates logs for just about everything that happens in the game, in particular, acts of aggression (such as firing your weapon(s) at a target). These log files can be found in the Program Files\CCP\EVE\capture\Gamelogs drectory. Stored as plain text, they can be loaded into a text editor for  for your viewing pleasure. Unfortunately, this is not the ideal solution if you want to see how much damage your shiny new 40M ISK 425mm Proto Gauss is doing comprared with it's unnamed counterpart. Even fishing out the wrecking hit entries can be quite a pain. Want to see how much damage a gun is inflicting on average? No chance..</p>
+<p>This is where the CLA comes in. By extracting all of the relevant data from your combat log files, (date/time, weapon fired, target fired on, type of hit scored and damage done) and presenting you with lists that can be ordered, filtered and summarised, the CLA allows you to instantly dissect, slice and dice the information whichever way you like. It'll even draw graphs! And... if there's some other aggregation that you'd like see that's not supported by the application, no probem, just use the CLA to export the log file in csv format, load it into something like Excel have your wicked way with it.</p>
+		<p><b>Release Status</b></p>
+		<p>The application is currently considered in alpha test phase. It's quite literally hot off the printing press and as such has been subjected to very limited end-user testing. So, it may be fragile, it may be functionally incomplete, it may (but it's not likely to) cause your hair to fall out. However, now is the time to exert some influence over it's development. If there's some feature you would like to see added or a change to the way it does something, speak now while the to-do list is short. See the <strong>Comments</strong> section below for details on how to do this.</p>
+		<p><b>What does it do?</b></p>
+		<p>Key Features</p>
+		<ul>
+			<li>Parses and extracts combat data from EVE Gamelog files</li>
+			<li>Provides various breakdowns of damage information including:
+			<uL>
+				<li>Damage by weapon (or multiple weapons)
+				<li>Damage by hit type (or multiple hit types)
+				<li>Damage by target (or multiple targets)
+			</li>
+			</ul>
+			<li>Provides aggregate damage data including:
+			<ul>
+				<li>Total damage by weapon(s), hit type(s), target(s)
+				<li>Average damage by weapon(s), hit type(s), target(s)
+				<li>Hit rates e.g. actual and percentage ratings for hit vs. misses
+				<li>DoT (Damage over Time) is coming Soon&trade;
+			</ul>
+			<li>It draws purdy pictures - Okay, maybe not pretty but does produce some basic graphs showing damage by weapon by hit type
+			<li>Very basic integration with EVE-I's object explorer e.g. Targets and Weapons can be cross referenced in the OE
+			<li>Combat logs can be filtered by Character (useful if you have multiple accounts/characters) and Age (Today, last 7 days, last Month etc) hopefully making it easier to locate specific log files. See <strong>To-Do</strong> for further enhancements
+			<li>Multiple log files open simultaneously for side by side comparison
+		</ul>
+		</p>
+		<p><b>Exports</b></p>
+		<p>As mentioned above, there are bound to be situations where you want to look at the data in a particular way that is not supported by the app. In this case, combat logs can be exported in CSV format suitable for import into a tool like Excel or even into a database of your choosing.</p>
+
+		<p><b>I don't trust EVE utilities, they'll steal my login details and mutilate my Gerbil</b></p>
+		<p>Truth is, the vast majority are perfectly safe and trustworthy. However, this tool does not require your EVE Login details, it does not require an internet connection and it most certainly does not require your banking details :). Let me re-iterate: you don't have to be logged in to EVE, you don't have to be connected to the internet and you certainly don't need to provide any login (or otherwise) details. The only time the app will make use of an internet connection is when you request information on a Target or Weapon in which case, it will open a web browser window pointing at the EVE-I Object Explorer page. I may, if I ever get around to it, put in a "latest version check" feature.</p>
+
+		<p><b>To-Do aka Future Additions</b></p>
+		<ul>
+		<li>Filter log files by Weapon and Target name</li>
+		<li>DoT analysis</li>
+		<li>Favourites list for log files and log file entries - for keeping an organised record of a specific battle (log file) or wrecking shot (log file entry)</li>
+		<li>Ability to annotate log files - The ability to add notes to a log file, possibly useful for recording key information such as installed modules, battle situation, location etc.</li>
+		<li>Extract top damage shots - produce a list of the highest damage dealing shots for every weapon across all of your log files</li>
+		</ul>
+		<p><b>Limitations</b></p>
+		The combat information provided in EVE log files is pretty limited. It is not, for example, possible to distinguish between multiple instances of the same weapon type i.e. If you have 4x425 Rails and 2x250's I can't tell which of the 425's or 250's fired a particular shot (it may be possible to infer some of this based on RoF vs. shot time but let's no go there just yet). In the same way, it is not possible to distinguish between multiple instances of the same target type e.g. I may attack and kill 5 Sansha's Butchers but this is impossible to determine from the log file. And finally, the log file does not contain information on which modules were fitted/active during the fight so there is no way for me to tell how many damage/tracking/cap mods you were using at a particular point in time.</p>
+Applying pressure to CCP to augment the log file output with this information along with weapon and target instance ID's would, in my somewhat biased opinion, be a Good Thing&trade; (although, in fairness, I'm not sure that they've ever been asked to do this before). :)
+		<p><b>Comments & Suggestions</b></p>
+		<p>Please post any comments and suggestions on the <a href="#">forum</a>. I do actually play EVE quite frequently so if you run into me (Hurg), remember that when I shoot you, I'm just collecting more data to test the app so stay nice and still and don't shoot back - you'll be helping development... honest :)</p>
+
+		<p><b>thanks to</b></p>
+		<p>
+		<ul>
+			<li>CCP for obvious reasons</li>
+			<li>The EVE-I team for providing such a supremely excellent site</li>
+			<li>"Mister C" for testing and ideas</li>
+			<li>Islay and Megacyte (EVE Character Manager and EVE Skill Monitor respective authors) for producing such excellent tools.</li>
+		</ul>
+		</p>
+
+		</td>
+		<td class=titletext valign=top bgcolor="#DFDFDF" align="center"><b>Screenshots</b><br><br>
+		<p><a href="main1.jpg" target="_blank"><img src="main1_thumb.jpg" border="0"></a><br>Main screen</p>
+		<p><a href="main2.jpg" target="_blank"><img src="main2_thumb.jpg" border="0"></a><br>Filtering</p>
+	</tr>
+	</table>
+
+
+</body>
+</html>

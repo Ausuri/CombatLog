@@ -1,0 +1,171 @@
+<?xml version="1.0"?>
+<ArrayOfWeaponSummary xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <WeaponSummary>
+    <HitSummary>
+      <HitTypeInfo>
+        <DamagePercentage>10.5263157</DamagePercentage>
+        <HitPercentage>5.55555534</HitPercentage>
+        <DisplayName>Well Aimed</DisplayName>
+        <HitTypeString>is well aimed at</HitTypeString>
+        <HitCount>1</HitCount>
+        <DamageCaused>41.8</DamageCaused>
+        <Rank>70</Rank>
+      </HitTypeInfo>
+      <HitTypeInfo>
+        <DamagePercentage>67.51448</DamagePercentage>
+        <HitPercentage>38.88889</HitPercentage>
+        <DisplayName>Hit</DisplayName>
+        <HitTypeString>hits</HitTypeString>
+        <HitCount>7</HitCount>
+        <DamageCaused>268.1</DamageCaused>
+        <Rank>60</Rank>
+      </HitTypeInfo>
+      <HitTypeInfo>
+        <DamagePercentage>6.06900024</DamagePercentage>
+        <HitPercentage>5.55555534</HitPercentage>
+        <DisplayName>Light Hit</DisplayName>
+        <HitTypeString>lightly hits</HitTypeString>
+        <HitCount>1</HitCount>
+        <DamageCaused>24.1</DamageCaused>
+        <Rank>50</Rank>
+      </HitTypeInfo>
+      <HitTypeInfo>
+        <DamagePercentage>15.8902044</DamagePercentage>
+        <HitPercentage>16.666666</HitPercentage>
+        <DisplayName>Scratch</DisplayName>
+        <HitTypeString>barely scratches</HitTypeString>
+        <HitCount>3</HitCount>
+        <DamageCaused>63.1</DamageCaused>
+        <Rank>40</Rank>
+      </HitTypeInfo>
+      <HitTypeInfo>
+        <DamagePercentage>0</DamagePercentage>
+        <HitPercentage>22.2222214</HitPercentage>
+        <DisplayName>Glancing</DisplayName>
+        <HitTypeString>glances off</HitTypeString>
+        <HitCount>4</HitCount>
+        <DamageCaused>0</DamageCaused>
+        <Rank>30</Rank>
+      </HitTypeInfo>
+      <HitTypeInfo>
+        <DamagePercentage>0</DamagePercentage>
+        <HitPercentage>5.55555534</HitPercentage>
+        <DisplayName>Close Miss</DisplayName>
+        <HitTypeString>barely misses</HitTypeString>
+        <HitCount>1</HitCount>
+        <DamageCaused>0</DamageCaused>
+        <Rank>20</Rank>
+      </HitTypeInfo>
+      <HitTypeInfo>
+        <DamagePercentage>0</DamagePercentage>
+        <HitPercentage>5.55555534</HitPercentage>
+        <DisplayName>Miss</DisplayName>
+        <HitTypeString>misses</HitTypeString>
+        <HitCount>1</HitCount>
+        <DamageCaused>0</DamageCaused>
+        <Rank>10</Rank>
+      </HitTypeInfo>
+    </HitSummary>
+    <FiringStartedDTM>2004-07-28T00:55:31.0000000+01:00</FiringStartedDTM>
+    <FiringEndedDTM>2004-07-28T00:56:33.0000000+01:00</FiringEndedDTM>
+    <TotalDamage>397.10000000000008</TotalDamage>
+    <PercentageShotsHit>0.6666667</PercentageShotsHit>
+    <PercentageShotsMissed>0.333333343</PercentageShotsMissed>
+    <AverageDamage>22.061111111111117</AverageDamage>
+    <WeaponName>Focused Anode Medium Particle Stream I</WeaponName>
+    <ShotsFired>18</ShotsFired>
+    <ShotsHit>12</ShotsHit>
+    <ShotsMissed>6</ShotsMissed>
+  </WeaponSummary>
+  <WeaponSummary>
+    <HitSummary>
+      <HitTypeInfo>
+        <DamagePercentage>100</DamagePercentage>
+        <HitPercentage>25</HitPercentage>
+        <DisplayName>Scratch</DisplayName>
+        <HitTypeString>barely scratches</HitTypeString>
+        <HitCount>1</HitCount>
+        <DamageCaused>23.6</DamageCaused>
+        <Rank>40</Rank>
+      </HitTypeInfo>
+      <HitTypeInfo>
+        <DamagePercentage>0</DamagePercentage>
+        <HitPercentage>75</HitPercentage>
+        <DisplayName>Close Miss</DisplayName>
+        <HitTypeString>barely misses</HitTypeString>
+        <HitCount>3</HitCount>
+        <DamageCaused>0</DamageCaused>
+        <Rank>20</Rank>
+      </HitTypeInfo>
+    </HitSummary>
+    <FiringStartedDTM>2004-07-28T00:55:35.0000000+01:00</FiringStartedDTM>
+    <FiringEndedDTM>2004-07-28T00:56:08.0000000+01:00</FiringEndedDTM>
+    <TotalDamage>23.6</TotalDamage>
+    <PercentageShotsHit>0.25</PercentageShotsHit>
+    <PercentageShotsMissed>0.75</PercentageShotsMissed>
+    <AverageDamage>5.9</AverageDamage>
+    <WeaponName>Focused Medium Beam Laser I</WeaponName>
+    <ShotsFired>4</ShotsFired>
+    <ShotsHit>1</ShotsHit>
+    <ShotsMissed>3</ShotsMissed>
+  </WeaponSummary>
+  <WeaponSummary>
+    <HitSummary>
+      <HitTypeInfo>
+        <DamagePercentage>45.351757</DamagePercentage>
+        <HitPercentage>20</HitPercentage>
+        <DisplayName>Hit</DisplayName>
+        <HitTypeString>hits</HitTypeString>
+        <HitCount>2</HitCount>
+        <DamageCaused>72.2</DamageCaused>
+        <Rank>60</Rank>
+      </HitTypeInfo>
+      <HitTypeInfo>
+        <DamagePercentage>20.2889442</DamagePercentage>
+        <HitPercentage>10</HitPercentage>
+        <DisplayName>Light Hit</DisplayName>
+        <HitTypeString>lightly hits</HitTypeString>
+        <HitCount>1</HitCount>
+        <DamageCaused>32.3</DamageCaused>
+        <Rank>50</Rank>
+      </HitTypeInfo>
+      <HitTypeInfo>
+        <DamagePercentage>34.3592949</DamagePercentage>
+        <HitPercentage>20</HitPercentage>
+        <DisplayName>Scratch</DisplayName>
+        <HitTypeString>barely scratches</HitTypeString>
+        <HitCount>2</HitCount>
+        <DamageCaused>54.7</DamageCaused>
+        <Rank>40</Rank>
+      </HitTypeInfo>
+      <HitTypeInfo>
+        <DamagePercentage>0</DamagePercentage>
+        <HitPercentage>30</HitPercentage>
+        <DisplayName>Glancing</DisplayName>
+        <HitTypeString>glances off</HitTypeString>
+        <HitCount>3</HitCount>
+        <DamageCaused>0</DamageCaused>
+        <Rank>30</Rank>
+      </HitTypeInfo>
+      <HitTypeInfo>
+        <DamagePercentage>0</DamagePercentage>
+        <HitPercentage>20</HitPercentage>
+        <DisplayName>Close Miss</DisplayName>
+        <HitTypeString>barely misses</HitTypeString>
+        <HitCount>2</HitCount>
+        <DamageCaused>0</DamageCaused>
+        <Rank>20</Rank>
+      </HitTypeInfo>
+    </HitSummary>
+    <FiringStartedDTM>2004-07-28T00:55:30.0000000+01:00</FiringStartedDTM>
+    <FiringEndedDTM>2004-07-28T00:56:31.0000000+01:00</FiringEndedDTM>
+    <TotalDamage>159.2</TotalDamage>
+    <PercentageShotsHit>0.5</PercentageShotsHit>
+    <PercentageShotsMissed>0.5</PercentageShotsMissed>
+    <AverageDamage>15.919999999999998</AverageDamage>
+    <WeaponName>Focused Modulated Medium Energy Beam I</WeaponName>
+    <ShotsFired>10</ShotsFired>
+    <ShotsHit>5</ShotsHit>
+    <ShotsMissed>5</ShotsMissed>
+  </WeaponSummary>
+</ArrayOfWeaponSummary>

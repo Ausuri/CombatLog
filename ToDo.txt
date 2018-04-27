@@ -1,0 +1,81 @@
+ToDo
+====
+
+Updated on 14/Dec/2004
+
+Report to list all attackers and all victims in a given period
+
+	I'd like a quick snapshot of all of those players I engaged and was engaged by on a given day
+	
+
+Updated on 16/Aug/2004
+	
+Filter Additions
+
+	Make it possible to show all with HT greater or less than Hit Type
+	Filter shots by damage value
+	
+File Browser
+
+	+ Add Filter by Weapon / Target Options
+	+ Auto-scan configured directories i.e. auto-detect of new log files
+	+ Ability to analyse more than 1 file in the same window (log merge) [http://www.eve-i.com/forum/showflat.php?Cat=&Board=tool13&Number=126591&page=0&view=collapsed&sb=5&o=&fpart=1]
+	
+	
+Configuration
+
+	User configurable Hit Type coloring
+	
+	
+Analysis
+
+	+ Extract location information from combat logs [http://www.eve-i.com/forum/showflat.php?Cat=&Board=tool13&Number=126264&page=0&view=collapsed&sb=5&o=&fpart=1]
+	+ Draw damage type graph by percentage of damage done e.g.
+	
+		Excellent	10%
+		Good		27%
+		etc.
+	
+	+ Analysis of damage received
+	
+	
+Export
+	
+	Export analysis as HTML
+	Export raw combat log entrries from analysis
+	Drag and drop analysis entries into external apps
+	Export Graphs
+		
+Object Explorer
+
+	Tighter integration with OE
+		+ Use OE information to show ship/weapon classes?
+		+ Optimal weapon for NPC analysis? [http://www.eve-i.com/forum/showflat.php?Cat=&Board=tool13&Number=126170&page=1&view=collapsed&sb=5&o=&fpart=1]
+
+
+Automatic Updates
+	+ Application to check for newer versions available on start-up 
+	
+UI
+
+	+ Ability to annotate log files
+	+ Favourites list for log files
+	
+Complete
+
+	+ All Time Best Shot Report completed - Done 17/Aug (need to look at using LogDir as an additional element of the primary key as users will be using the same account/weapon on multiple servers e.g. Tranq / Chaos)
+	
+	+ Summary data now includes duration information 18/Aug
+		
+	+ Make main combat list view sortable - Done 16/Aug [http://www.eve-i.com/forum/showflat.php?Cat=&Board=tool13&Number=126214&page=0&view=collapsed&sb=5&o=&fpart=all]
+	+ Minimise to system tray [http://www.eve-i.com/forum/showflat.php?Cat=&Board=tool13&Number=126339&page=0&view=collapsed&sb=5&o=&fpart=1]
+
+	+ Hit Types Sortable by priority - Done 15/7
+	
+	+ Make it possible to use non-enum names - Done 15/7
+
+	+ Optimise start-up times - Startup overhauled completely. Should be much faster starting up with a decent cache 16/7
+
+	+ Values in graph don't fit into small bars - Fixed 16/Aug
+	+ Use embedded IE to render analysis description data - Done in 0.2 22/Aug
+	+ Locale format weapon summary and analysis description numbers - Done in 0.2 22/Aug

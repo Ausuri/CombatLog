@@ -1,0 +1,2 @@
+http://msdn.microsoft.com/netframework/technologyinfo/default.aspx - Framework Overview
+http://msdn.microsoft.com/netframework/downloads/framework1_1/ - Download link

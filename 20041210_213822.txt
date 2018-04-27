@@ -1,0 +1,103 @@
+
+
+------------------------------------------------------------
+
+  Gamelog
+  Listener:        Hurg
+  Session started: 2004.12.10 21:38:22
+
+------------------------------------------------------------
+
+[ 2004.12.10 21:38:22 ] (notify) Autopilot disabled   - waypoint reached
+[ 2004.12.10 21:38:22 ] (notify) Autopilot disabled - Waypoint reached
+[ 2004.12.10 21:43:06 ] (notify) Warping to Stargate (Lustrevik)
+[ 2004.12.10 21:44:34 ] (notify) Ship stopping
+[ 2004.12.10 21:44:34 ] (notify) Ship stopping
+[ 2004.12.10 21:44:37 ] (notify) Interference from the warp Realy Annoyed's Tempest is preventing your sensors from getting a target lock on them.
+[ 2004.12.10 21:44:39 ] (notify) Interference from the warp Realy Annoyed's Tempest is preventing your sensors from getting a target lock on them.
+[ 2004.12.10 21:44:40 ] (notify) Target is invulnerable.
+[ 2004.12.10 21:44:42 ] (notify) Target is invulnerable.
+[ 2004.12.10 21:44:47 ] (notify) Target is invulnerable.
+[ 2004.12.10 21:44:48 ] (notify) Target is invulnerable.
+[ 2004.12.10 21:44:53 ] (notify) Ro Jaws [CLS] has started trying to warp scramble the Battleship, "Realy Annoyed [UAI]"
+[ 2004.12.10 21:44:55 ] (notify) Realy Annoyed's Tempest is too far away to use your Warp Disruptor I on, it needs to be closer than 20000.0 meters.
+[ 2004.12.10 21:44:56 ] (notify) Gossip [CLS] has started trying to warp scramble the Battleship, "Realy Annoyed [UAI]"
+[ 2004.12.10 21:44:56 ] (notify) Coreantes [-HC-] has started trying to target jam the Battleship, "Realy Annoyed [UAI]".
+[ 2004.12.10 21:44:56 ] (notify) Coreantes [-HC-] has started trying to target jam the Battleship, "Realy Annoyed [UAI]".
+[ 2004.12.10 21:44:56 ] (notify) Sundri Elaption [-HC-] has started trying to warp scramble the Battleship, "Realy Annoyed [UAI]"
+[ 2004.12.10 21:44:56 ] (notify) Coreantes [-HC-] has started trying to target jam the Battleship, "Realy Annoyed [UAI]".
+[ 2004.12.10 21:44:57 ] (notify) Coreantes [-HC-] has started trying to target jam the Battleship, "Realy Annoyed [UAI]".
+[ 2004.12.10 21:44:57 ] (notify) Coreantes [-HC-] has started trying to target jam the Battleship, "Realy Annoyed [UAI]".
+[ 2004.12.10 21:44:58 ] (notify) Onslow [CORM] has started trying to warp scramble the Battleship, "Realy Annoyed [UAI]"
+[ 2004.12.10 21:44:58 ] (notify) Realy Annoyed's Tempest is too far away to use your Warp Disruptor I on, it needs to be closer than 20000.0 meters.
+[ 2004.12.10 21:45:02 ] (notify) Boll: You have foolishly engaged in criminal activity within sight of sentry guns and must suffer the consequences.
+[ 2004.12.10 21:45:03 ] (notify) Boll [-HC-] has started trying to warp scramble the Elite Frigate, "Ro Jaws [CLS]"
+[ 2004.12.10 21:45:11 ] (combat) <color=0xffbbbb00>Your Medium Pulse Laser II is well aimed at Realy Annoyed [UAI], inflicting 39.1 damage.
+[ 2004.12.10 21:45:11 ] (combat) <color=0xffbbbb00>Your Medium Pulse Laser II hits Realy Annoyed [UAI], doing 36.4 damage.
+[ 2004.12.10 21:45:13 ] (combat) <color=0xffbbbb00>Your Medium Pulse Laser II hits Realy Annoyed [UAI], doing 29.1 damage.
+[ 2004.12.10 21:45:14 ] (notify) You have started trying to warp scramble the Battleship, "Realy Annoyed [UAI]".
+[ 2004.12.10 21:45:14 ] (notify) Onslow: You have foolishly engaged in criminal activity within sight of sentry guns and must suffer the consequences.
+[ 2004.12.10 21:45:15 ] (combat) <color=0xffbbbb00>Your Medium Pulse Laser II places an excellent hit on Realy Annoyed [UAI], inflicting 49.8 damage.
+[ 2004.12.10 21:45:16 ] (combat) <color=0xffbbbb00>Your Medium Pulse Laser II hits Realy Annoyed [UAI], doing 29.3 damage.
+[ 2004.12.10 21:45:18 ] (combat) <color=0xffbbbb00>Your Medium Pulse Laser II is well aimed at Realy Annoyed [UAI], inflicting 44.8 damage.
+[ 2004.12.10 21:45:19 ] (combat) <color=0xffbbbb00>Your Medium Pulse Laser II is well aimed at Realy Annoyed [UAI], inflicting 34.9 damage.
+[ 2004.12.10 21:45:21 ] (combat) <color=0xffbbbb00>Your Medium Pulse Laser II lightly hits Realy Annoyed [UAI], doing 7.5 damage.
+[ 2004.12.10 21:45:23 ] (notify) Sjoor [CLS] has started trying to warp scramble the Battleship, "Realy Annoyed [UAI]"
+[ 2004.12.10 21:45:27 ] (combat) Your Medium Pulse Laser II glances off Realy Annoyed [UAI], causing no real damage.
+[ 2004.12.10 21:45:27 ] (notify) Realy Annoyed's Tempest is too far away to use your Warp Disruptor I on, it needs to be closer than 20000.0 meters.
+[ 2004.12.10 21:45:30 ] (combat) Your Medium Pulse Laser II barely misses Realy Annoyed [UAI].
+[ 2004.12.10 21:45:31 ] (notify) Warp Disruptor I deactivates because it's target, Realy Annoyed's Tempest, is not locked.
+[ 2004.12.10 21:45:32 ] (notify) The Realy Annoyed's Tempest is too far away, you need to be within 54000.0 meters of it but are actually 54640.1192274 meters away.
+[ 2004.12.10 21:45:33 ] (notify) Medium Pulse Laser II deactivates because it's target, Realy Annoyed's Tempest, is not locked.
+[ 2004.12.10 21:45:33 ] (notify) Medium Pulse Laser II deactivates because it's target, Realy Annoyed's Tempest, is not locked.
+[ 2004.12.10 21:45:40 ] (notify) The Realy Annoyed's Tempest is too far away, you need to be within 54000 meters of it but are actually 76140 meters away.
+[ 2004.12.10 21:45:47 ] (notify) The Realy Annoyed's Tempest is too far away, you need to be within 54000 meters of it but are actually 82289 meters away.
+[ 2004.12.10 21:45:55 ] (notify) Ro Jaws [CLS] has started trying to warp scramble the Battleship, "Realy Annoyed [UAI]"
+[ 2004.12.10 21:45:56 ] (notify) The Realy Annoyed's Tempest is too far away, you need to be within 54000 meters of it but are actually 81332 meters away.
+[ 2004.12.10 21:46:00 ] (notify) Gossip [CLS] has started trying to warp scramble the Battleship, "Realy Annoyed [UAI]"
+[ 2004.12.10 21:46:07 ] (notify) Ro Jaws [CLS] has started trying to warp scramble the Battleship, "Realy Annoyed [UAI]"
+[ 2004.12.10 21:46:10 ] (notify) The Realy Annoyed's Tempest is too far away, you need to be within 54000 meters of it but are actually 70036 meters away.
+[ 2004.12.10 21:46:11 ] (notify) Sjoor [CLS] has started trying to warp scramble the Battleship, "Realy Annoyed [UAI]"
+[ 2004.12.10 21:46:19 ] (notify) Sundri Elaption [-HC-] has started trying to warp scramble the Battleship, "Realy Annoyed [UAI]"
+[ 2004.12.10 21:46:20 ] (notify) The Realy Annoyed's Tempest is too far away, you need to be within 54000 meters of it but are actually 60292 meters away.
+[ 2004.12.10 21:46:40 ] (combat) Your Medium Pulse Laser II misses Realy Annoyed [UAI] completely.
+[ 2004.12.10 21:46:41 ] (combat) Your Medium Pulse Laser II glances off Realy Annoyed [UAI], causing no real damage.
+[ 2004.12.10 21:46:44 ] (combat) Your Medium Pulse Laser II glances off Realy Annoyed [UAI], causing no real damage.
+[ 2004.12.10 21:46:45 ] (notify) Realy Annoyed's Tempest is too far away to use your Warp Disruptor I on, it needs to be closer than 20000.0 meters.
+[ 2004.12.10 21:46:45 ] (combat) Your Medium Pulse Laser II misses Realy Annoyed [UAI] completely.
+[ 2004.12.10 21:46:46 ] (combat) Your Medium Pulse Laser II misses Realy Annoyed [UAI] completely.
+[ 2004.12.10 21:46:47 ] (combat) Your Medium Pulse Laser II misses Realy Annoyed [UAI] completely.
+[ 2004.12.10 21:46:48 ] (combat) Your Medium Pulse Laser II misses Realy Annoyed [UAI] completely.
+[ 2004.12.10 21:46:49 ] (combat) Your Medium Pulse Laser II barely misses Realy Annoyed [UAI].
+[ 2004.12.10 21:46:50 ] (combat) Your Medium Pulse Laser II misses Realy Annoyed [UAI] completely.
+[ 2004.12.10 21:46:51 ] (combat) Your Medium Pulse Laser II barely misses Realy Annoyed [UAI].
+[ 2004.12.10 21:46:52 ] (combat) Your Medium Pulse Laser II misses Realy Annoyed [UAI] completely.
+[ 2004.12.10 21:46:54 ] (combat) Your Medium Pulse Laser II barely misses Realy Annoyed [UAI].
+[ 2004.12.10 21:46:55 ] (combat) <color=0xffbbbb00>Your Medium Pulse Laser II hits Realy Annoyed [UAI], doing 9.2 damage.
+[ 2004.12.10 21:46:56 ] (notify) Sundri Elaption [-HC-] has started trying to warp scramble the Battleship, "Realy Annoyed [UAI]"
+[ 2004.12.10 21:46:56 ] (combat) <color=0xffbbbb00>Your Medium Pulse Laser II hits Realy Annoyed [UAI], doing 35.0 damage.
+[ 2004.12.10 21:46:57 ] (combat) <color=0xffbbbb00>Your Medium Pulse Laser II hits Realy Annoyed [UAI], doing 30.2 damage.
+[ 2004.12.10 21:46:58 ] (combat) <color=0xffbbbb00>Your Medium Pulse Laser II barely scratches Realy Annoyed [UAI], causing 21.2 damage.
+[ 2004.12.10 21:46:59 ] (combat) <color=0xffbbbb00>Your Medium Pulse Laser II is well aimed at Realy Annoyed [UAI], inflicting 44.8 damage.
+[ 2004.12.10 21:47:00 ] (combat) <color=0xffbbbb00>Your Medium Pulse Laser II hits Realy Annoyed [UAI], doing 30.4 damage.
+[ 2004.12.10 21:47:02 ] (combat) <color=0xffbbbb00>Your Medium Pulse Laser II hits Realy Annoyed [UAI], doing 34.2 damage.
+[ 2004.12.10 21:47:03 ] (notify) Realy Annoyed's Tempest is too far away to use your 'Langour' Drive Disruptor I on, it needs to be closer than 10000.0 meters.
+[ 2004.12.10 21:47:03 ] (combat) <color=0xffbbbb00>Your Medium Pulse Laser II is well aimed at Realy Annoyed [UAI], inflicting 39.3 damage.
+[ 2004.12.10 21:47:05 ] (notify) You have started trying to warp scramble the Battleship, "Realy Annoyed [UAI]".
+[ 2004.12.10 21:47:05 ] (combat) <color=0xffbbbb00>Your Medium Pulse Laser II places an excellent hit on Realy Annoyed [UAI], inflicting 51.6 damage.
+[ 2004.12.10 21:47:06 ] (combat) <color=0xffbbbb00>Your Medium Pulse Laser II is well aimed at Realy Annoyed [UAI], inflicting 46.0 damage.
+[ 2004.12.10 21:47:07 ] (combat) <color=0xffbbbb00>Your Medium Pulse Laser II lightly hits Realy Annoyed [UAI], doing 25.4 damage.
+[ 2004.12.10 21:47:08 ] (combat) <color=0xffbbbb00>Your Medium Pulse Laser II lightly hits Realy Annoyed [UAI], doing 26.1 damage.
+[ 2004.12.10 21:47:53 ] (notify) Warping to Stargate (Tourier)
+[ 2004.12.10 21:49:22 ] (notify) Warping to Stargate (Lustrevik)
+[ 2004.12.10 21:51:33 ] (notify) Ship stopping
+[ 2004.12.10 21:51:33 ] (notify) Ship stopping
+[ 2004.12.10 21:52:51 ] (notify) Warping to Yulai X - DED Assembly Plant prior to making docking attempt
+[ 2004.12.10 21:53:37 ] (notify) Requested to dock at Yulai X - DED Assembly Plant station
+[ 2004.12.10 21:53:38 ] (notify) Setting course to docking perimeter
+[ 2004.12.10 21:53:39 ] (notify) Warping to Yulai IX
+[ 2004.12.10 21:54:34 ] (notify) Warping to Yulai XI
+[ 2004.12.10 21:55:18 ] (notify) Warping to Yulai X - DED Assembly Plant prior to making docking attempt
+[ 2004.12.10 21:56:06 ] (notify) Requested to dock at Yulai X - DED Assembly Plant station
+[ 2004.12.10 21:56:06 ] (notify) Setting course to docking perimeter
+[ 2004.12.10 21:56:26 ] (notify) Your docking request has been accepted. Your ship will be towed into station.

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified">
+  <xs:element name="Cache">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="LastUpdated"/>
+        <xs:element ref="CacheData"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="LastUpdated" type="xs:date"/>
+  <xs:element name="CacheData">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element maxOccurs="unbounded" ref="CombatLogCache"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="CombatLogCache">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="IsCombatLog"/><xs:element ref="FileName"/><xs:element ref="FileSize"/><xs:element ref="CreationTime"/><xs:element minOccurs="0" ref="DirAlias"/>
+        <xs:sequence minOccurs="0">
+          <xs:element ref="TargetsAttacked"/>
+          <xs:element ref="HitTypes"/>
+        </xs:sequence><xs:sequence minOccurs="0">
+          <xs:element ref="WeaponsUsed"/>
+          <xs:element ref="Character"/>
+        </xs:sequence><xs:element ref="WeaponStatsSummary"/>
+        
+        
+        
+        
+        
+        
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="WeaponsUsed">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element maxOccurs="unbounded" ref="string"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element><xs:element name="TargetsAttacked">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element maxOccurs="unbounded" ref="string"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element><xs:element name="DirAlias" type="xs:NCName"/>
+  <xs:element name="WeaponStatsSummary">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" maxOccurs="unbounded" ref="WeaponStats"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="WeaponStats">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="WeaponName"/><xs:element ref="TotalShots"/><xs:element ref="TotalHit"/><xs:element ref="TotalMissed"/><xs:element ref="TotalDamage"/><xs:element ref="HigestDamage"/><xs:element ref="HighestDamageDTM"/>
+        <xs:element ref="HighestDamageHitType"/><xs:element ref="HighestDamageAgainstTarget"/><xs:element ref="HighestDamagePositionInFile"/>
+        
+        
+        
+        
+        
+        
+        
+        
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="HighestDamageDTM" type="xs:date"/>
+  <xs:element name="HighestDamagePositionInFile" type="xs:integer"/>
+  <xs:element name="HighestDamageHitType" type="xs:string"/>
+  <xs:element name="HighestDamageAgainstTarget" type="xs:string"/>
+  <xs:element name="TotalDamage" type="xs:decimal"/>
+  <xs:element name="TotalMissed" type="xs:integer"/>
+  <xs:element name="TotalShots" type="xs:integer"/>
+  <xs:element name="WeaponName" type="xs:string"/>
+  <xs:element name="HigestDamage" type="xs:decimal"/>
+  <xs:element name="TotalHit" type="xs:integer"/>
+  <xs:element name="CreationTime" type="xs:date"/>
+  
+  <xs:element name="HitTypes">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element maxOccurs="unbounded" ref="string"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="FileName" type="xs:string"/>
+  
+  <xs:element name="Character" type="xs:NCName"/>
+  <xs:element name="FileSize" type="xs:integer"/>
+  <xs:element name="IsCombatLog" type="xs:boolean"/>
+  <xs:element name="string" type="xs:string"/>
+</xs:schema>

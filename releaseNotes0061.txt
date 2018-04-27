@@ -1,0 +1,158 @@
+EVE Combat Log Analyser
+=======================
+
+Version 0.061 07/September/2004
+===============================
+
++ Attacker data analysis implemented
++ Analysis window split into multiple tabs to support attack data
++ Application now remembers and restores page layout - Includes Docking windows and column sixe and positions for all of the lists
++ Summary panels now auto-resize so information will always be visible
++ Ditched the location info tab, took up to much space and didn't add much value. Current location is now shown instead in the log window title bar.
++ Sorting by HitType column in all list views now sorts by hit type rank/priority rather than hit type name i.e Wrecking has a higher rank than Excellent etc.
+
+
+Version 0.06 06/September/2004
+==============================
+
++ Auto-detection of new log files implemented along with funky fading window user notification option.
++ Filter drop down lists (Character, Log Dir, Weapon and Target) are now constrained by other filter selections i.e. Selecting Weapon type X will mean that the target list will only contain entries where Weapon type X was used.
++ Web based version checker introduced.
++ Option to minimize application to the System Tray.
++ Cache Diagnostics Report added.
++ Option to clear the cache added (Pretty much a debugging aid in case of suspected cache corruption).
++ Target names containing dots (aka periods aka full stops) were causing the parser problems. Now fixed.
+
+
+Version 0.05 25/August/2004
+===========================
+
++ Massive (and this time I really mean it) reduction in startup times
+
++ Added Filter By Target and Filter By Weapon options to the File Browser (very cool feature, should have done it earlier)
+
++ Minor bug fix. Summary stats ignoring filters (weapon, target, damage type) when user selected some combat entries then cleared the selection.
+
+
+Version 0.04 24/August/2004
+===========================
+
++ Return key in "Add Folder" now OK's the dialog.
+
++ Fixed bug with Hit Type analysis data breaking once filters were applied.
+
++ Scroll bars now appear when necessary in Graph panel
+
++ Total Average Damage value was calculated incorrectly, fixed now.
+
++ Location information now displayed (Not completely reliable as it is dependent on the right information being available in the log files. The application does it's best however to sniff out any "travel" related messages in the log being analysed, if none are found, it regresses back through a number (max 5) of preceding files until it does find location messages.
+
++ Fixed bug in the filebrowser which caused filesystem dates (instead of the Session Created date from the log file) to be displayed in the Date column. This meant log files could end up in the wrong order if the log files had been copied/moved (or otherwise "touched" by filing system).
+
++ Stats can now be calculated on user selections of log file entries i.e. selecting multiple entries log entries will result in all stats being re-calculated for that selection. Useful if you want a quick view of just a handful of entries. (Easier to use than it is to explain :) )
+
++ Status bar now gives more information during start-up phase
+
++ Minor UI bug (bottom of listview obscured by Log Text window) in Best Shots Report fixed
+
++ Added a Shots Per Min Column to the summary report (if anything shows up EVE's tendency to not log data properly, this is it. Expect to see weird numbers here).
+
+
+Version 0.03 22/August/2004
+===========================
+
+Bug Fix
+
+Hit Type Summary no longer disappears when filters are applied to analysis data.
+
+
+Version 0.02 22/August/2004
+===========================
+
+Changes
+
++ The application no longer attempts to locate the EVE installation directory from the registry entry so all Log Dir paths must be configured manually!
+
+Enhancements
+
++ Start up time for both cache creation and cache load significantly reduced
+
++ All Time Best Shot Report implemented (See Reports menu)
+
+	Showing best shot by Weapon by Character by Log Directory
+		+ Can cope with multiple characters on multiple servers (Tranq, Chaos etc.) e.g. Heavy Beam Laser for Hurg on Tranq vs. Heavy Beam Laser for <Alt name> on Tranq vs. Heavy Beam Laser for Hurg on Chaos
+		+ Sortable by any column
+		+ Individual entries or a selection of entries can be exported using Drag and Drop of Right-Click->Copy Log Text context menu
+		
++ Weapon Summary List (bottom of analysis window) now includes:
+    Duration (how long the weapon was active)
+    DoT (Damage Over Time) Summary
+	Double clicking a Weapon will filter the main analysis window by that Weapon
+
++ Main log window list is now sortable by any column
+
++ Log entries can be dragged from the main log window into a text editor (copying the original log file entry)
+
++ Log entries can be copied to the clipboard (for pasting into EVE Chat windows) using Right Click->Copy Log Text option
+
++ Damage By Hit Type Graphs now a little better at dealing with widths (still needs a lot of luvin tho)
+
++ Summary Description Panel now gives a well formatted damage by Hit Type break down showing for each hit type
+	Hits per hit type
+	Hits percentage per hit type
+	Damage per hit type
+	Damage percentage per hit type
+
++ Help menu now includes some other useful links
+
++ About Box -> Version number now a bit more useful, includes build and revision numbers
+
++ Log file generated (in the application installation directory) to aid future bug tracking. Log file is reset on application startup.
+
++ An absolute ton of internal data changes
+
+
+Version 0.01e 14/August/2004
+============================
+
+Minor maintenance release.
+
+Fixes
+
++ Yet another startup bug found (invalid directory path associated with EVE installation registry key).
++ Added some debug output to help track down future problems. Look in Program Files\Combat Log Analyser\DEBUG_LOG.log. The file can get quite big but is cleared on startup so shouldn't be a problem.
+
+
+Version 0.01d 13/August/2004
+============================
+
+Minor maintenance release.
+
+Fixes
+
++ No longer hangs on startup when the EVE registry key does not exist.
++ File.IO error messages when closing the Options dialog fixed.
+
+
+Version 0.01c 13/August/2004
+============================
+
+Fixes
+
++ Fix for the "all damage values appearing as 0.0"/"all damage values increased by a factor of 10"
++ Fix for the "unable to find EVE installation" crash on startup
++ Target names including the word "completely" have been fixed i.e. "Sansha's Minion completely" will no longer appear
+
+Enhancements
+
++ Options dialog box
+
+	Now possible to configure CLA to look in several user specified locations for gamelogs
+	New column added to File Browser window to show which location the log file is from
+	New Filter Option added to File Browser - Filter By Location
+	
+	
+Version 0.01b 11/August/2004
+============================
+	
+First release

@@ -1,0 +1,51 @@
+<?xml version="1.0"?>
+<ArrayOfWeaponSummary xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <WeaponSummary>
+    <FiringStartedDTM>2004-07-30T01:04:13.0000000+01:00</FiringStartedDTM>
+    <FiringEndedDTM>2004-07-30T01:07:32.0000000+01:00</FiringEndedDTM>
+    <TotalDamage>237</TotalDamage>
+    <PercentageShotsHit>0.06666667</PercentageShotsHit>
+    <PercentageShotsMissed>0.933333337</PercentageShotsMissed>
+    <AverageDamage>7.9</AverageDamage>
+    <WeaponName>Heavy Neutron Blaster I</WeaponName>
+    <ShotsFired>30</ShotsFired>
+    <ShotsHit>2</ShotsHit>
+    <ShotsMissed>28</ShotsMissed>
+  </WeaponSummary>
+  <WeaponSummary>
+    <FiringStartedDTM>2004-07-30T01:01:53.0000000+01:00</FiringStartedDTM>
+    <FiringEndedDTM>2004-07-30T01:10:22.0000000+01:00</FiringEndedDTM>
+    <TotalDamage>2429.2000000000003</TotalDamage>
+    <PercentageShotsHit>0.477272719</PercentageShotsHit>
+    <PercentageShotsMissed>0.522727251</PercentageShotsMissed>
+    <AverageDamage>55.209090909090918</AverageDamage>
+    <WeaponName>425mm Compressed Coil Gun I</WeaponName>
+    <ShotsFired>44</ShotsFired>
+    <ShotsHit>21</ShotsHit>
+    <ShotsMissed>23</ShotsMissed>
+  </WeaponSummary>
+  <WeaponSummary>
+    <FiringStartedDTM>2004-07-30T01:01:51.0000000+01:00</FiringStartedDTM>
+    <FiringEndedDTM>2004-07-30T01:10:20.0000000+01:00</FiringEndedDTM>
+    <TotalDamage>1254.7</TotalDamage>
+    <PercentageShotsHit>0.416666657</PercentageShotsHit>
+    <PercentageShotsMissed>0.5833333</PercentageShotsMissed>
+    <AverageDamage>34.852777777777781</AverageDamage>
+    <WeaponName>425mm Prototype I Gauss Gun</WeaponName>
+    <ShotsFired>36</ShotsFired>
+    <ShotsHit>15</ShotsHit>
+    <ShotsMissed>21</ShotsMissed>
+  </WeaponSummary>
+  <WeaponSummary>
+    <FiringStartedDTM>2004-07-30T01:01:59.0000000+01:00</FiringStartedDTM>
+    <FiringEndedDTM>2004-07-30T01:10:14.0000000+01:00</FiringEndedDTM>
+    <TotalDamage>110.7</TotalDamage>
+    <PercentageShotsHit>0.2857143</PercentageShotsHit>
+    <PercentageShotsMissed>0.714285731</PercentageShotsMissed>
+    <AverageDamage>15.814285714285715</AverageDamage>
+    <WeaponName>425mm Railgun I</WeaponName>
+    <ShotsFired>7</ShotsFired>
+    <ShotsHit>2</ShotsHit>
+    <ShotsMissed>5</ShotsMissed>
+  </WeaponSummary>
+</ArrayOfWeaponSummary>

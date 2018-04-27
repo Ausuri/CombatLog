@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE dotfuscator SYSTEM "http://www.preemptive.com/dotfuscator/dtd/dotfuscator_v1.1.dtd">
+<dotfuscator version="1.1">
+  <!--This is application generated code. Do not edit manually.-->
+  <global>
+    <option>verbose</option>
+  </global>
+  <trigger>
+    <filelist>
+      <file dir="C:\Projects\Eve\CombatLog2\bin\Release\" name="CombatLog.exe" />
+      <file dir="C:\Projects\Eve\CombatLog2\bin\Release\" name="VersionManager.dll" />
+    </filelist>
+  </trigger>
+  <output>
+    <file dir="C:\Projects\Eve\CombatLog2\Obsfucation" />
+  </output>
+</dotfuscator>

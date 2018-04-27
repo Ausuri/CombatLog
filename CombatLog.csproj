@@ -1,0 +1,500 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="12.0">
+  <PropertyGroup>
+    <ProjectType>Local</ProjectType>
+    <ProductVersion>8.0.50727</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{84CBE4D4-A0BD-4263-9678-A710031BB667}</ProjectGuid>
+    <SccProjectName>SAK</SccProjectName>
+    <SccLocalPath>SAK</SccLocalPath>
+    <SccAuxPath>SAK</SccAuxPath>
+    <SccProvider>SAK</SccProvider>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ApplicationIcon>App.ico</ApplicationIcon>
+    <AssemblyKeyContainerName>
+    </AssemblyKeyContainerName>
+    <AssemblyName>CombatLog</AssemblyName>
+    <AssemblyOriginatorKeyFile>
+    </AssemblyOriginatorKeyFile>
+    <DefaultClientScript>JScript</DefaultClientScript>
+    <DefaultHTMLPageLayout>Grid</DefaultHTMLPageLayout>
+    <DefaultTargetSchema>IE50</DefaultTargetSchema>
+    <DelaySign>false</DelaySign>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>CombatLog</RootNamespace>
+    <RunPostBuildEvent>OnBuildSuccess</RunPostBuildEvent>
+    <StartupObject>
+    </StartupObject>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <IsWebBootstrapper>true</IsWebBootstrapper>
+    <TargetFrameworkVersion>v4.7.1</TargetFrameworkVersion>
+    <OldToolsVersion>2.0</OldToolsVersion>
+    <PublishUrl>http://localhost/CombatLog/</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Web</InstallFrom>
+    <UpdateEnabled>true</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <TargetCulture>en-GB</TargetCulture>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <OutputPath>bin\Debug\</OutputPath>
+    <AllowUnsafeBlocks>false</AllowUnsafeBlocks>
+    <BaseAddress>285212672</BaseAddress>
+    <CheckForOverflowUnderflow>false</CheckForOverflowUnderflow>
+    <ConfigurationOverrideFile>
+    </ConfigurationOverrideFile>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <DocumentationFile>
+    </DocumentationFile>
+    <DebugSymbols>true</DebugSymbols>
+    <FileAlignment>4096</FileAlignment>
+    <NoStdLib>false</NoStdLib>
+    <NoWarn>
+    </NoWarn>
+    <Optimize>true</Optimize>
+    <RegisterForComInterop>false</RegisterForComInterop>
+    <RemoveIntegerChecks>false</RemoveIntegerChecks>
+    <TreatWarningsAsErrors>false</TreatWarningsAsErrors>
+    <WarningLevel>4</WarningLevel>
+    <DebugType>full</DebugType>
+    <ErrorReport>prompt</ErrorReport>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <OutputPath>bin\Release\</OutputPath>
+    <AllowUnsafeBlocks>false</AllowUnsafeBlocks>
+    <BaseAddress>285212672</BaseAddress>
+    <CheckForOverflowUnderflow>false</CheckForOverflowUnderflow>
+    <ConfigurationOverrideFile>
+    </ConfigurationOverrideFile>
+    <DefineConstants>TRACE</DefineConstants>
+    <DocumentationFile>
+    </DocumentationFile>
+    <DebugSymbols>false</DebugSymbols>
+    <FileAlignment>4096</FileAlignment>
+    <NoStdLib>false</NoStdLib>
+    <NoWarn>
+    </NoWarn>
+    <Optimize>true</Optimize>
+    <RegisterForComInterop>false</RegisterForComInterop>
+    <RemoveIntegerChecks>false</RemoveIntegerChecks>
+    <TreatWarningsAsErrors>false</TreatWarningsAsErrors>
+    <WarningLevel>4</WarningLevel>
+    <DebugType>none</DebugType>
+    <ErrorReport>prompt</ErrorReport>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="AxInterop.SHDocVw">
+      <Name>AxInterop.SHDocVw</Name>
+      <HintPath>..\..\BrowserTest\obj\AxInterop.SHDocVw.dll</HintPath>
+    </Reference>
+    <Reference Include="Interop.SHDocVw">
+      <Name>Interop.SHDocVw</Name>
+      <HintPath>..\..\BrowserTest\obj\Interop.SHDocVw.dll</HintPath>
+    </Reference>
+    <Reference Include="nspring">
+      <Name>nspring</Name>
+      <HintPath>..\..\NSpring\bin\nspring.dll</HintPath>
+    </Reference>
+    <Reference Include="SandBar">
+      <Name>SandBar</Name>
+      <HintPath>..\..\Divil\SandBar\SandBar.dll</HintPath>
+    </Reference>
+    <Reference Include="SandDock">
+      <Name>SandDock</Name>
+      <HintPath>..\..\Divil\SandDock\SandDock.dll</HintPath>
+    </Reference>
+    <Reference Include="SourceGrid2">
+      <Name>SourceGrid2</Name>
+      <HintPath>..\..\SourceGrid2\SourceGrid\bin\Release\SourceGrid2.dll</HintPath>
+    </Reference>
+    <Reference Include="SourceLibrary">
+      <Name>SourceLibrary</Name>
+      <HintPath>..\..\SourceGrid2\SourceGrid\bin\Release\SourceLibrary.dll</HintPath>
+    </Reference>
+    <Reference Include="System">
+      <Name>System</Name>
+    </Reference>
+    <Reference Include="System.Data">
+      <Name>System.Data</Name>
+    </Reference>
+    <Reference Include="System.Design">
+      <Name>System.Design</Name>
+    </Reference>
+    <Reference Include="System.Drawing">
+      <Name>System.Drawing</Name>
+    </Reference>
+    <Reference Include="System.Windows.Forms">
+      <Name>System.Windows.Forms</Name>
+    </Reference>
+    <Reference Include="System.Xml">
+      <Name>System.XML</Name>
+    </Reference>
+    <Reference Include="ZedGraph">
+      <Name>ZedGraph</Name>
+      <HintPath>..\..\ZedGraph_Source_4.3.4\obj\Release\ZedGraph.dll</HintPath>
+    </Reference>
+    <ProjectReference Include="EVEAttributeTypeHelper\EVEAttributeTypeHelper.csproj">
+      <Name>EVEAttributeTypeHelper</Name>
+      <Project>{AB6B95F6-460F-4241-8D2D-22510256439B}</Project>
+      <Package>{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</Package>
+    </ProjectReference>
+    <ProjectReference Include="ListViewSettings\ListViewSettings\ListViewSettings.csproj">
+      <Name>ListViewSettings</Name>
+      <Project>{B893060A-44CE-4C4B-8F63-867DCB38B503}</Project>
+      <Package>{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</Package>
+    </ProjectReference>
+    <ProjectReference Include="ObjectExplorer\OEParser\OEParser.csproj">
+      <Name>OEParser</Name>
+      <Project>{0967EA84-3CAD-43A3-92FA-99B32401183A}</Project>
+      <Package>{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</Package>
+    </ProjectReference>
+    <ProjectReference Include="Proxy\WebProxy.cs\WebProxy.csproj">
+      <Name>WebProxy</Name>
+      <Project>{99ABE65E-C10A-4831-8C58-9046FE233479}</Project>
+      <Package>{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</Package>
+    </ProjectReference>
+    <ProjectReference Include="UserConfig\UserConfig\UserConfig.csproj">
+      <Name>UserConfig</Name>
+      <Project>{3CAEE857-43F0-418C-A751-DDBDA8F5D97C}</Project>
+      <Package>{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</Package>
+    </ProjectReference>
+    <ProjectReference Include="VersionManager\VersionManager.csproj">
+      <Name>VersionManager</Name>
+      <Project>{C0DEE3CE-77AC-40FF-86E3-CA70A94002CA}</Project>
+      <Package>{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</Package>
+    </ProjectReference>
+    <ProjectReference Include="WeaponDataDB\WeaponDataDB.csproj">
+      <Name>WeaponDataDB</Name>
+      <Project>{D61B5F3E-9E39-4D15-98C1-2E5118CF6FB7}</Project>
+      <Package>{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</Package>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AboutForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddFolder.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="App\VersionChecker.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="AssemblyInfo.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="BestShotReport\BestShotListViewSorter.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="BestShotReport\BestShotStruct.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="BestShotReport\BestShotSummary.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="BestShots.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Cache.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Cache\CacheReport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ChartItem.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="ChartItemCollection.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Collections\AttackEntry.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Collections\AttackEntryCollection.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Collections\AttackerSummary.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Collections\HitType.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Collections\HitTypeCollection.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Collections\HitTypeInfo.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Collections\HitTypeInfoCollection.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Collections\Location.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Collections\LocationCollection.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="CombatLogCache.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="CombatLogCacheCollection.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="CombatLogEntry.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="CombatLogEntryCollection.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="CombatLogLVSorter.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Controls\Chart.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="FileViewListItemComparer.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GameLog.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="GameLogCollection.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="GraphItem.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="GraphItemCollection.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Graphs\DmgOutputGraph.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HitTypeLib.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Images\Images.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="NewVersionForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NotifyForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="OEResults.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Options.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Panes\ChartPane.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Panes\Notify.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Panes\PaneCaption.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ProgStat.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+      <DependentUpon>Settings.settings</DependentUpon>
+    </Compile>
+    <Compile Include="Sort\AttackLogLVSorter.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Sort\CombatLogCacheCollectionSort.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Sort\GameLogCollectionSorter.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Sort\HitTypeInfoCollectionSorter.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Sort\LocationCollectionSorter.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Sort\WSCByWeaponName.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Summary\CombatSummary.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="TextForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Timer\HiPerfTimer.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Utils\ImageFromWeb.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Utils\LogFile.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="WeaponBrowser\WeaponDataColChooser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WeaponData\WeaponStats.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="WeaponData\WeaponStatsCollection.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="WeaponForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WeaponSummary.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="WeaponSummaryCollection.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <EmbeddedResource Include="AboutForm.resx">
+      <DependentUpon>AboutForm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AddFolder.resx">
+      <DependentUpon>AddFolder.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BestShots.resx">
+      <DependentUpon>BestShots.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Cache\CacheReport.resx">
+      <DependentUpon>CacheReport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\Chart.resx">
+      <DependentUpon>Chart.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form2.resx">
+      <DependentUpon>Form2.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Graphs\DmgOutputGraph.resx">
+      <DependentUpon>DmgOutputGraph.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Images\App.ico" />
+    <EmbeddedResource Include="Images\icon26_01.png" />
+    <EmbeddedResource Include="NewVersionForm.resx">
+      <DependentUpon>NewVersionForm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NotifyForm.resx">
+      <DependentUpon>NotifyForm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="OEResults.resx">
+      <DependentUpon>OEResults.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Options.resx">
+      <DependentUpon>Options.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Panes\ChartPane.resx">
+      <DependentUpon>ChartPane.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Panes\Notify.resx">
+      <DependentUpon>Notify.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Panes\PaneCaption.resx">
+      <DependentUpon>PaneCaption.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ProgStat.resx">
+      <DependentUpon>ProgStat.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TextForm.resx">
+      <DependentUpon>TextForm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WeaponBrowser\WeaponDataColChooser.resx">
+      <DependentUpon>WeaponDataColChooser.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WeaponForm.resx">
+      <DependentUpon>WeaponForm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Content Include="App.ico" />
+    <Content Include="ReleaseNotes.txt" />
+    <Content Include="Static\Weapons.xml" />
+    <Content Include="ToDo.txt" />
+    <Content Include="XSLTemplates\WeaponSummary.xsl">
+      <SubType>Designer</SubType>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+    <None Include="ClassDiagram1.cd" />
+    <None Include="ClassDiagram2.cd" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="FileBrowser\" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.2.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 2.0</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.VisualBasic.PowerPacks.10.0">
+      <Visible>False</Visible>
+      <ProductName>Microsoft Visual Basic PowerPacks 10.0</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <PropertyGroup>
+    <PreBuildEvent>
+    </PreBuildEvent>
+    <PostBuildEvent>
+    </PostBuildEvent>
+  </PropertyGroup>
+</Project>
