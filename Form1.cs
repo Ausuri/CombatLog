@@ -1918,23 +1918,26 @@ namespace CombatLog
 		{
 			int days = -1;
 
-			switch ( comboBoxLogAge.SelectedItem.ToString() )
-			{
-				case "All":
-					days = -1;
-					break;
-				case "Today":
-					days = 0;
-					break;
+            if (comboBoxLogAge.SelectedItem != null)
+            {
+                switch (comboBoxLogAge.SelectedItem.ToString())
+                {
+                    case "All":
+                        days = -1;
+                        break;
+                    case "Today":
+                        days = 0;
+                        break;
 
-				case "Last 7 Days":
-					days = 7;
-					break;
+                    case "Last 7 Days":
+                        days = 7;
+                        break;
 
-				case "Last 30 Days":
-					days = 30;
-					break;
-			}
+                    case "Last 30 Days":
+                        days = 30;
+                        break;
+                }
+            }
 
 			return days;
 		}
@@ -1955,7 +1958,10 @@ namespace CombatLog
 	
 		private void RedrawFileList()
 		{
-			listView1.Items.Clear();
+            if (listView1.Items.Count > 0)
+            {
+                listView1.Items.Clear();
+            }
 
 			int Days = GetDaysFromAgeCombo();
 
@@ -2634,15 +2640,6 @@ namespace CombatLog
 			cbWeaponClass.SelectedIndexChanged		-= new System.EventHandler(this.comboBoxLogDir_SelectedIndexChanged);
 			comboBoxWeapon.SelectedIndexChanged		-= new System.EventHandler(this.comboBoxLogDir_SelectedIndexChanged);
 			comboBoxAttackers.SelectedIndexChanged	-= new System.EventHandler(this.comboBoxLogDir_SelectedIndexChanged);
-
-			comboBoxLogAge.SelectedIndex = 0;
-			comboBoxLogDir.SelectedIndex = 0;
-			comboBoxListener.SelectedIndex = 0;
-			comboBoxTarget.SelectedIndex = 0;
-			cbWeaponType.SelectedIndex = 0;
-			cbWeaponClass.SelectedIndex = 0;
-			comboBoxWeapon.SelectedIndex = 0;
-			comboBoxAttackers.SelectedIndex = 0;
 
 			comboBoxLogAge.SelectedIndexChanged		+= new System.EventHandler(this.comboBoxLogDir_SelectedIndexChanged);
 			comboBoxLogDir.SelectedIndexChanged		+= new System.EventHandler(this.comboBoxLogDir_SelectedIndexChanged);
