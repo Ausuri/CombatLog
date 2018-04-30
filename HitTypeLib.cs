@@ -66,26 +66,12 @@ namespace CombatLog
 
             _HitTypes.Clear();
             _HitTypes.Add(new HitTypeLookup(10, "misses", "Miss"));
-            _HitTypes.Add(new HitTypeLookup(20, "barely misses", "Close Miss"));
-            _HitTypes.Add(new HitTypeLookup(30, "glances off", "Glancing"));
-            _HitTypes.Add(new HitTypeLookup(40, "barely scratches", "Scratch"));
-            _HitTypes.Add(new HitTypeLookup(50, "lightly hits", "Light Hit"));
-            _HitTypes.Add(new HitTypeLookup(60, "hits", "Hit"));
-            _HitTypes.Add(new HitTypeLookup(60, "hit", "Hit"));
-            _HitTypes.Add(new HitTypeLookup(70, "is well aimed at", "Well Aimed"));
-            _HitTypes.Add(new HitTypeLookup(80, "places an excellent hit on", "Excellent"));
-            _HitTypes.Add(new HitTypeLookup(90, "perfectly strikes", "Wrecking"));
-            _HitTypes.Add(new HitTypeLookup(90, "Wrecking!", "Wrecking"));
-            _HitTypes.Add(new HitTypeLookup(30, "lands a hit on you which glances off, causing ", "Glancing"));
-            _HitTypes.Add(new HitTypeLookup(40, "barely scratches you, causing ", "Scratch"));
-            _HitTypes.Add(new HitTypeLookup(50, "lightly hits you, doing ", "Light Hit"));
-            _HitTypes.Add(new HitTypeLookup(60, "hits you, doing ", "Hit"));
-            _HitTypes.Add(new HitTypeLookup(60, "hits you for ", "Hit"));
-            _HitTypes.Add(new HitTypeLookup(70, "aims well at you, inflicting ", "Well Aimed"));
-            _HitTypes.Add(new HitTypeLookup(0x4b, "heavily hits you, inflicting ", "Heavy"));
-            _HitTypes.Add(new HitTypeLookup(80, "places an excellent hit on you, inflicting ", "Excellent"));
-            _HitTypes.Add(new HitTypeLookup(90, "strikes you  perfectly, wrecking for ", "Wrecking"));
-
+            _HitTypes.Add(new HitTypeLookup(20, "Grazes", "Graze"));
+            _HitTypes.Add(new HitTypeLookup(30, "Glances", "Glance"));
+            _HitTypes.Add(new HitTypeLookup(40, "Hits", "Hit"));
+            _HitTypes.Add(new HitTypeLookup(50, "Penetrates", "Penetrating"));
+            _HitTypes.Add(new HitTypeLookup(60, "Smashes", "Smashing"));
+            _HitTypes.Add(new HitTypeLookup(70, "Wrecks", "Wrecking"));
 		}
 
 		public static int Count()

@@ -1482,8 +1482,8 @@ namespace CombatLog
 			AttackSelectedIndexTimer.Tick += new EventHandler(AttackSelectedIndexTimer_Tick);
 
             //TODO: Fix This.
-			//DoAnalysisSummary();
-			tbPlayerNotes.Text = ThisGameLog.UserComment;
+            //DoAnalysisSummary();
+            tbPlayerNotes.Text = ThisGameLog.UserComment;
 		}
 
 		private void DoAnalysisSummary()
@@ -1880,19 +1880,19 @@ namespace CombatLog
 			{
 				Entries = cc.GetUniqueTargets();
 			}
-		    
+
             //TODO: Fix this
-			//int itemCount = 0;
-			//foreach (string s in Entries)
-			//{
-			//	newItem = contextMenuTarget.MenuItems.Add(new TD.SandBar.MenuButtonItem(s, new System.EventHandler(this.contextMenu_Activate)));
-		
-			//	if ( itemCount == 0)
-			//		contextMenuTarget.MenuItems[newItem].BeginGroup = true;
-						
-			//	itemCount++;
-			//}
-		}
+            int itemCount = 0;
+            foreach (string s in Entries)
+            {
+                newItem = contextMenuTarget.MenuItems.Add(new TD.SandBar.MenuButtonItem(s, new System.EventHandler(this.contextMenu_Activate)));
+
+                if (itemCount == 0)
+                    contextMenuTarget.MenuItems[newItem].BeginGroup = true;
+
+                itemCount++;
+            }
+        }
 		
 		private void PrepareWeaponContextMenu(CombatLogEntryCollection cc, GameLog g)
 		{
@@ -1956,19 +1956,19 @@ namespace CombatLog
 			}
 
             //TODO: Fix this.
-			//string[] sortedEntries = HitTypeLib.Sort(Entries, SortOrder.Descending);
+            string[] sortedEntries = HitTypeLib.Sort(Entries, SortOrder.Descending);
 
-			//int itemCount = 0;
-			//foreach ( string s in sortedEntries )
-			//{
-			//	newItem = contextMenuHitTypes.MenuItems.Add(new TD.SandBar.MenuButtonItem(s, new System.EventHandler(this.contextMenu_Activate)));
-		
-			//	if ( itemCount == 0 )
-			//		contextMenuHitTypes.MenuItems[newItem].BeginGroup = true;
-		
-			//	itemCount++;
-			//}
-		}
+            int itemCount = 0;
+            foreach (string s in sortedEntries)
+            {
+                newItem = contextMenuHitTypes.MenuItems.Add(new TD.SandBar.MenuButtonItem(s, new System.EventHandler(this.contextMenu_Activate)));
+
+                if (itemCount == 0)
+                    contextMenuHitTypes.MenuItems[newItem].BeginGroup = true;
+
+                itemCount++;
+            }
+        }
 
 		private void DoCombatLog(GameLog g)
 		{
@@ -2620,7 +2620,14 @@ namespace CombatLog
 		//
 		private void btnHitTypeMenu_Click(object sender, System.EventArgs e)
 		{
-			contextMenuHitTypes.Show(btnHitTypeMenu, new Point(btnHitTypeMenu.Width, 0));
+            //try
+            //{
+            //    contextMenuHitTypes.Show(btnHitTypeMenu, new Point(btnHitTypeMenu.Width, 0));
+            //}
+            //catch (Exception ex)
+            //{
+
+            //}
 		}
 
 		//
