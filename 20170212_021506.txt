@@ -1,0 +1,1027 @@
+------------------------------------------------------------
+  Gamelog
+  Listener: Neptonio
+  Session Started: 2017.02.12 02:15:06
+------------------------------------------------------------
+[ 2017.02.12 02:18:00 ] (question) You currently have unsubmitted edits. Exiting planet mode will cancel those edits. Do you want to proceed?
+[ 2017.02.12 02:23:53 ] (None) Undocking from Dodixie IX - Moon 20 - Federation Navy Assembly Plant to Dodixie solar system.
+[ 2017.02.12 02:24:05 ] (notify) You cannot do that while warping.
+[ 2017.02.12 02:24:06 ] (notify) You are unable to align or warp to the selected object because your warp drive is unable to lock onto it.
+[ 2017.02.12 02:25:02 ] (None) Jumping from Dodixie to Botane
+[ 2017.02.12 02:25:28 ] (notify) You cannot do that while warping.
+[ 2017.02.12 02:26:19 ] (None) Jumping from Botane to Erme
+[ 2017.02.12 02:27:16 ] (None) Jumping from Erme to Grinacanne
+[ 2017.02.12 02:27:25 ] (notify) You cannot do that while warping.
+[ 2017.02.12 02:28:10 ] (None) Jumping from Grinacanne to Renyn
+[ 2017.02.12 02:29:15 ] (notify) Session change already in progress.
+[ 2017.02.12 02:29:15 ] (notify) Session change already in progress.
+[ 2017.02.12 02:29:15 ] (None) Jumping from Renyn to Algogille
+[ 2017.02.12 02:29:25 ] (notify) You cannot do that while warping.
+[ 2017.02.12 02:30:20 ] (None) Jumping from Algogille to Kassigainen
+[ 2017.02.12 02:30:32 ] (notify) You cannot do that while warping.
+[ 2017.02.12 02:31:19 ] (None) Jumping from Kassigainen to Hatakani
+[ 2017.02.12 02:31:30 ] (notify) You cannot do that while warping.
+[ 2017.02.12 02:32:20 ] (notify) Session change already in progress.
+[ 2017.02.12 02:32:21 ] (notify) Session change already in progress.
+[ 2017.02.12 02:32:22 ] (None) Jumping from Hatakani to Sivala
+[ 2017.02.12 02:32:31 ] (notify) You cannot do that while warping.
+[ 2017.02.12 02:33:21 ] (None) Jumping from Sivala to Uedama
+[ 2017.02.12 02:33:29 ] (notify) You cannot do that while warping.
+[ 2017.02.12 02:33:29 ] (notify) You are unable to align or warp to the selected object because your warp drive is unable to lock onto it.
+[ 2017.02.12 02:33:30 ] (notify) You are unable to align or warp to the selected object because your warp drive is unable to lock onto it.
+[ 2017.02.12 02:34:24 ] (None) Jumping from Uedama to Ikao
+[ 2017.02.12 02:34:38 ] (notify) You cannot do that while warping.
+[ 2017.02.12 02:34:38 ] (notify) You are unable to align or warp to the selected object because your warp drive is unable to lock onto it.
+[ 2017.02.12 02:35:42 ] (notify) Session change already in progress.
+[ 2017.02.12 02:35:43 ] (notify) Session change already in progress.
+[ 2017.02.12 02:35:44 ] (None) Jumping from Ikao to Kamio
+[ 2017.02.12 02:35:54 ] (notify) You cannot do that while warping.
+[ 2017.02.12 02:35:54 ] (notify) You are unable to align or warp to the selected object because your warp drive is unable to lock onto it.
+[ 2017.02.12 02:36:40 ] (notify) Session change already in progress.
+[ 2017.02.12 02:36:40 ] (notify) Session change already in progress.
+[ 2017.02.12 02:36:40 ] (None) Jumping from Kamio to Kaaputenen
+[ 2017.02.12 02:36:40 ] (notify) Session change already in progress.
+[ 2017.02.12 02:36:40 ] (notify) Session change already in progress.
+[ 2017.02.12 02:36:41 ] (notify) Session change already in progress.
+[ 2017.02.12 02:36:41 ] (notify) Session change already in progress.
+[ 2017.02.12 02:36:41 ] (notify) Session change already in progress.
+[ 2017.02.12 02:36:56 ] (notify) You cannot do that while warping.
+[ 2017.02.12 02:36:57 ] (notify) You cannot do that while warping.
+[ 2017.02.12 02:36:57 ] (notify) You cannot do that while warping.
+[ 2017.02.12 02:38:00 ] (notify) Session change already in progress.
+[ 2017.02.12 02:38:00 ] (notify) Session change already in progress.
+[ 2017.02.12 02:38:00 ] (notify) Session change already in progress.
+[ 2017.02.12 02:38:00 ] (notify) Session change already in progress.
+[ 2017.02.12 02:38:00 ] (notify) Session change already in progress.
+[ 2017.02.12 02:38:01 ] (None) Jumping from Kaaputenen to Niarja
+[ 2017.02.12 02:38:10 ] (notify) You cannot do that while warping.
+[ 2017.02.12 02:39:10 ] (None) Jumping from Niarja to Madirmilire
+[ 2017.02.12 02:39:12 ] (notify) Session change already in progress.
+[ 2017.02.12 02:39:12 ] (notify) Session change already in progress.
+[ 2017.02.12 02:40:22 ] (notify) Session change already in progress.
+[ 2017.02.12 02:40:22 ] (notify) Session change already in progress.
+[ 2017.02.12 02:40:22 ] (None) Jumping from Madirmilire to Ashab
+[ 2017.02.12 02:40:33 ] (notify) You cannot do that while warping.
+[ 2017.02.12 02:41:42 ] (None) Jumping from Ashab to Amarr
+[ 2017.02.12 02:41:53 ] (notify) You cannot do that while warping.
+[ 2017.02.12 02:41:55 ] (notify) Autopilot engaged
+[ 2017.02.12 02:42:41 ] (notify) Requested to dock at Amarr VI (Zorast) - Moon 2 - Theology Council Tribunal station
+[ 2017.02.12 02:42:41 ] (notify) Your docking request has been accepted. Your ship will be towed into station.
+[ 2017.02.12 02:42:45 ] (notify) Autopilot disabled - Waypoint reached
+[ 2017.02.12 02:55:01 ] (None) Undocking from Amarr VI (Zorast) - Moon 2 - Theology Council Tribunal to Amarr solar system.
+[ 2017.02.12 02:55:12 ] (notify) You cannot do that while warping.
+[ 2017.02.12 02:56:03 ] (notify) Session change already in progress.
+[ 2017.02.12 02:56:03 ] (None) Jumping from Amarr to Irnin
+[ 2017.02.12 02:56:03 ] (notify) Session change already in progress.
+[ 2017.02.12 02:56:22 ] (notify) You cannot do that while warping.
+[ 2017.02.12 02:56:51 ] (None) Jumping from Irnin to Toshabia
+[ 2017.02.12 02:57:43 ] (notify) Session change already in progress.
+[ 2017.02.12 02:57:43 ] (notify) Session change already in progress.
+[ 2017.02.12 02:58:23 ] (combat) <color=0xffcc0000><b>14</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Tower Sentry Gallente I</b><font size=10><color=0x77ffffff> - Glances Off
+[ 2017.02.12 02:58:23 ] (combat) <color=0xffcc0000><b>27</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Tower Sentry Gallente I</b><font size=10><color=0x77ffffff> - Penetrates
+[ 2017.02.12 02:58:25 ] (combat) <color=0xffcc0000><b>11</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Tower Sentry Gallente I</b><font size=10><color=0x77ffffff> - Grazes
+[ 2017.02.12 02:58:25 ] (combat) <color=0xffcc0000><b>14</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Tower Sentry Gallente I</b><font size=10><color=0x77ffffff> - Grazes
+[ 2017.02.12 02:58:28 ] (combat) <color=0xffcc0000><b>116</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Gallente Light Missile Battery</b><font size=10><color=0x77ffffff> - Inferno Light Missile - Hits
+[ 2017.02.12 02:58:28 ] (combat) <color=0xffcc0000><b>17</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Tower Sentry Gallente I</b><font size=10><color=0x77ffffff> - Hits
+[ 2017.02.12 02:58:28 ] (combat) <color=0xffcc0000><b>13</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Tower Sentry Gallente I</b><font size=10><color=0x77ffffff> - Grazes
+[ 2017.02.12 02:58:29 ] (combat) <color=0xffcc0000><b>116</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Gallente Light Missile Battery</b><font size=10><color=0x77ffffff> - Inferno Light Missile - Hits
+[ 2017.02.12 02:58:30 ] (combat) <color=0xffcc0000><b>22</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Tower Sentry Gallente I</b><font size=10><color=0x77ffffff> - Hits
+[ 2017.02.12 02:58:30 ] (combat) <color=0xffcc0000><b>19</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Tower Sentry Gallente I</b><font size=10><color=0x77ffffff> - Hits
+[ 2017.02.12 02:58:33 ] (combat) <color=0xffcc0000><b>18</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Tower Sentry Gallente I</b><font size=10><color=0x77ffffff> - Hits
+[ 2017.02.12 02:58:33 ] (combat) <color=0xffcc0000><b>24</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Tower Sentry Gallente I</b><font size=10><color=0x77ffffff> - Penetrates
+[ 2017.02.12 02:58:35 ] (combat) <color=0xffcc0000><b>30</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Tower Sentry Gallente I</b><font size=10><color=0x77ffffff> - Smashes
+[ 2017.02.12 02:58:35 ] (combat) <color=0xffcc0000><b>21</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Tower Sentry Gallente I</b><font size=10><color=0x77ffffff> - Hits
+[ 2017.02.12 02:58:38 ] (combat) <color=0xffcc0000><b>24</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Tower Sentry Gallente I</b><font size=10><color=0x77ffffff> - Penetrates
+[ 2017.02.12 02:58:38 ] (combat) <color=0xffcc0000><b>20</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Tower Sentry Gallente I</b><font size=10><color=0x77ffffff> - Hits
+[ 2017.02.12 02:58:40 ] (notify) You cannot launch Hammerhead II because you are already controlling 5 drones, as much as you have skill to.
+[ 2017.02.12 02:58:40 ] (combat) <color=0xffcc0000><b>17</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Tower Sentry Gallente I</b><font size=10><color=0x77ffffff> - Hits
+[ 2017.02.12 02:58:40 ] (combat) <color=0xffcc0000><b>20</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Tower Sentry Gallente I</b><font size=10><color=0x77ffffff> - Hits
+[ 2017.02.12 02:58:43 ] (combat) <color=0xffcc0000><b>19</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Tower Sentry Gallente I</b><font size=10><color=0x77ffffff> - Hits
+[ 2017.02.12 02:58:43 ] (combat) <color=0xffcc0000><b>32</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Tower Sentry Gallente I</b><font size=10><color=0x77ffffff> - Smashes
+[ 2017.02.12 02:58:45 ] (combat) <color=0xffcc0000><b>31</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Tower Sentry Gallente I</b><font size=10><color=0x77ffffff> - Smashes
+[ 2017.02.12 02:58:45 ] (combat) <color=0xffcc0000><b>25</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Tower Sentry Gallente I</b><font size=10><color=0x77ffffff> - Penetrates
+[ 2017.02.12 02:58:48 ] (combat) <color=0xffcc0000><b>116</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Gallente Light Missile Battery</b><font size=10><color=0x77ffffff> - Inferno Light Missile - Hits
+[ 2017.02.12 02:58:48 ] (combat) <color=0xffcc0000><b>16</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Tower Sentry Gallente I</b><font size=10><color=0x77ffffff> - Glances Off
+[ 2017.02.12 02:58:48 ] (combat) <color=0xffcc0000><b>31</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Tower Sentry Gallente I</b><font size=10><color=0x77ffffff> - Smashes
+[ 2017.02.12 02:58:49 ] (combat) <color=0xffcc0000><b>116</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Gallente Light Missile Battery</b><font size=10><color=0x77ffffff> - Inferno Light Missile - Hits
+[ 2017.02.12 02:58:50 ] (combat) <color=0xffcc0000><b>17</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Tower Sentry Gallente I</b><font size=10><color=0x77ffffff> - Hits
+[ 2017.02.12 02:58:50 ] (combat) <color=0xffcc0000><b>31</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Tower Sentry Gallente I</b><font size=10><color=0x77ffffff> - Smashes
+[ 2017.02.12 02:58:51 ] (notify) Drones engaging Gallente Stasis Tower
+[ 2017.02.12 02:58:53 ] (combat) <color=0xffcc0000><b>30</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Tower Sentry Gallente I</b><font size=10><color=0x77ffffff> - Smashes
+[ 2017.02.12 02:58:53 ] (combat) <color=0xffcc0000><b>28</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Tower Sentry Gallente I</b><font size=10><color=0x77ffffff> - Smashes
+[ 2017.02.12 02:58:55 ] (combat) <color=0xffcc0000><b>17</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Tower Sentry Gallente I</b><font size=10><color=0x77ffffff> - Hits
+[ 2017.02.12 02:58:55 ] (combat) <color=0xffcc0000><b>21</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Tower Sentry Gallente I</b><font size=10><color=0x77ffffff> - Hits
+[ 2017.02.12 02:58:57 ] (combat) <color=0xff00ffff><b>95</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Gallente Stasis Tower</b><font size=10><color=0x77ffffff> - Hobgoblin II - Hits
+[ 2017.02.12 02:58:57 ] (combat) <color=0xff00ffff><b>95</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Gallente Stasis Tower</b><font size=10><color=0x77ffffff> - Hobgoblin II - Hits
+[ 2017.02.12 02:58:58 ] (combat) <color=0xff00ffff><b>129</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Gallente Stasis Tower</b><font size=10><color=0x77ffffff> - Hammerhead II - Hits
+[ 2017.02.12 02:58:58 ] (combat) <color=0xff00ffff><b>172</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Gallente Stasis Tower</b><font size=10><color=0x77ffffff> - Hammerhead II - Penetrates
+[ 2017.02.12 02:58:58 ] (combat) <color=0xffcc0000><b>17</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Tower Sentry Gallente I</b><font size=10><color=0x77ffffff> - Hits
+[ 2017.02.12 02:58:58 ] (combat) <color=0xffcc0000><b>30</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Tower Sentry Gallente I</b><font size=10><color=0x77ffffff> - Smashes
+[ 2017.02.12 02:59:01 ] (combat) <color=0xff00ffff><b>60</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Gallente Stasis Tower</b><font size=10><color=0x77ffffff> - Hobgoblin II - Glances Off
+[ 2017.02.12 02:59:01 ] (combat) <color=0xff00ffff><b>124</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Gallente Stasis Tower</b><font size=10><color=0x77ffffff> - Hobgoblin II - Smashes
+[ 2017.02.12 02:59:01 ] (combat) <color=0xffcc0000><b>14</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Tower Sentry Gallente I</b><font size=10><color=0x77ffffff> - Glances Off
+[ 2017.02.12 02:59:01 ] (combat) <color=0xffcc0000><b>16</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Tower Sentry Gallente I</b><font size=10><color=0x77ffffff> - Glances Off
+[ 2017.02.12 02:59:02 ] (combat) Your Ogre II misses Gallente Stasis Tower completely - Ogre II
+[ 2017.02.12 02:59:02 ] (combat) <color=0xff00ffff><b>103</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Gallente Stasis Tower</b><font size=10><color=0x77ffffff> - Hammerhead II - Glances Off
+[ 2017.02.12 02:59:02 ] (combat) <color=0xff00ffff><b>114</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Gallente Stasis Tower</b><font size=10><color=0x77ffffff> - Hammerhead II - Hits
+[ 2017.02.12 02:59:03 ] (combat) <color=0xffcc0000><b>24</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Tower Sentry Gallente I</b><font size=10><color=0x77ffffff> - Penetrates
+[ 2017.02.12 02:59:03 ] (combat) <color=0xffcc0000><b>32</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Tower Sentry Gallente I</b><font size=10><color=0x77ffffff> - Smashes
+[ 2017.02.12 02:59:05 ] (combat) <color=0xff00ffff><b>176</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Gallente Stasis Tower</b><font size=10><color=0x77ffffff> - Hobgoblin II - Smashes
+[ 2017.02.12 02:59:06 ] (combat) <color=0xff00ffff><b>479</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Gallente Stasis Tower</b><font size=10><color=0x77ffffff> - Ogre II - Penetrates
+[ 2017.02.12 02:59:06 ] (combat) <color=0xff00ffff><b>213</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Gallente Stasis Tower</b><font size=10><color=0x77ffffff> - Hammerhead II - Smashes
+[ 2017.02.12 02:59:06 ] (combat) <color=0xffcc0000><b>22</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Tower Sentry Gallente I</b><font size=10><color=0x77ffffff> - Penetrates
+[ 2017.02.12 02:59:06 ] (combat) <color=0xffcc0000><b>18</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Tower Sentry Gallente I</b><font size=10><color=0x77ffffff> - Hits
+[ 2017.02.12 02:59:08 ] (combat) <color=0xffcc0000><b>116</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Gallente Light Missile Battery</b><font size=10><color=0x77ffffff> - Inferno Light Missile - Hits
+[ 2017.02.12 02:59:08 ] (combat) <color=0xffcc0000><b>92</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Gallente Light Missile Battery</b><font size=10><color=0x77ffffff> - Inferno Light Missile - Hits
+[ 2017.02.12 02:59:08 ] (combat) <color=0xffcc0000><b>16</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Tower Sentry Gallente I</b><font size=10><color=0x77ffffff> - Glances Off
+[ 2017.02.12 02:59:08 ] (combat) <color=0xffcc0000><b>11</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Tower Sentry Gallente I</b><font size=10><color=0x77ffffff> - Grazes
+[ 2017.02.12 02:59:11 ] (combat) <color=0xff00ffff><b>200</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Tower Sentry Gallente I</b><font size=10><color=0x77ffffff> - Hammerhead II - Penetrates
+[ 2017.02.12 02:59:11 ] (combat) <color=0xffcc0000><b>19</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Tower Sentry Gallente I</b><font size=10><color=0x77ffffff> - Hits
+[ 2017.02.12 02:59:11 ] (combat) <color=0xffcc0000><b>29</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Tower Sentry Gallente I</b><font size=10><color=0x77ffffff> - Smashes
+[ 2017.02.12 02:59:13 ] (combat) <color=0xffcc0000><b>15</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Tower Sentry Gallente I</b><font size=10><color=0x77ffffff> - Glances Off
+[ 2017.02.12 02:59:13 ] (combat) <color=0xffcc0000><b>29</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Tower Sentry Gallente I</b><font size=10><color=0x77ffffff> - Smashes
+[ 2017.02.12 02:59:15 ] (combat) Your Hammerhead II misses Tower Sentry Gallente I completely - Hammerhead II
+[ 2017.02.12 02:59:16 ] (combat) <color=0xff00ffff><b>207</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Tower Sentry Gallente I</b><font size=10><color=0x77ffffff> - Hammerhead II - Smashes
+[ 2017.02.12 02:59:16 ] (combat) <color=0xffcc0000><b>17</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Tower Sentry Gallente I</b><font size=10><color=0x77ffffff> - Hits
+[ 2017.02.12 02:59:16 ] (combat) <color=0xffcc0000><b>64</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Tower Sentry Gallente I</b><font size=10><color=0x77ffffff> - Wrecks
+[ 2017.02.12 02:59:18 ] (combat) <color=0xffcc0000><b>17</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Tower Sentry Gallente I</b><font size=10><color=0x77ffffff> - Hits
+[ 2017.02.12 02:59:18 ] (combat) <color=0xffcc0000><b>21</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Tower Sentry Gallente I</b><font size=10><color=0x77ffffff> - Hits
+[ 2017.02.12 02:59:19 ] (combat) <color=0xff00ffff><b>140</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Tower Sentry Gallente I</b><font size=10><color=0x77ffffff> - Hammerhead II - Penetrates
+[ 2017.02.12 02:59:20 ] (combat) Your Hammerhead II misses Tower Sentry Gallente I completely - Hammerhead II
+[ 2017.02.12 02:59:21 ] (combat) <color=0xffcc0000><b>11</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Tower Sentry Gallente I</b><font size=10><color=0x77ffffff> - Grazes
+[ 2017.02.12 02:59:21 ] (combat) <color=0xffcc0000><b>22</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Tower Sentry Gallente I</b><font size=10><color=0x77ffffff> - Penetrates
+[ 2017.02.12 02:59:23 ] (combat) <color=0xff00ffff><b>86</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Tower Sentry Gallente I</b><font size=10><color=0x77ffffff> - Hammerhead II - Grazes
+[ 2017.02.12 02:59:23 ] (combat) <color=0xffcc0000><b>26</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Tower Sentry Gallente I</b><font size=10><color=0x77ffffff> - Penetrates
+[ 2017.02.12 02:59:23 ] (combat) <color=0xffcc0000><b>25</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Tower Sentry Gallente I</b><font size=10><color=0x77ffffff> - Penetrates
+[ 2017.02.12 02:59:24 ] (combat) Your Hammerhead II misses Tower Sentry Gallente I completely - Hammerhead II
+[ 2017.02.12 02:59:26 ] (combat) <color=0xffcc0000><b>11</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Tower Sentry Gallente I</b><font size=10><color=0x77ffffff> - Grazes
+[ 2017.02.12 02:59:26 ] (combat) <color=0xffcc0000><b>26</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Tower Sentry Gallente I</b><font size=10><color=0x77ffffff> - Penetrates
+[ 2017.02.12 02:59:27 ] (combat) <color=0xffcc0000><b>92</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Gallente Light Missile Battery</b><font size=10><color=0x77ffffff> - Inferno Light Missile - Hits
+[ 2017.02.12 02:59:27 ] (combat) Your Hammerhead II misses Tower Sentry Gallente I completely - Hammerhead II
+[ 2017.02.12 02:59:28 ] (combat) <color=0xffcc0000><b>92</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Gallente Light Missile Battery</b><font size=10><color=0x77ffffff> - Inferno Light Missile - Hits
+[ 2017.02.12 02:59:28 ] (combat) <color=0xff00ffff><b>140</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Tower Sentry Gallente I</b><font size=10><color=0x77ffffff> - Hammerhead II - Penetrates
+[ 2017.02.12 02:59:28 ] (combat) <color=0xffcc0000><b>11</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Tower Sentry Gallente I</b><font size=10><color=0x77ffffff> - Grazes
+[ 2017.02.12 02:59:28 ] (combat) <color=0xffcc0000><b>14</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Tower Sentry Gallente I</b><font size=10><color=0x77ffffff> - Glances Off
+[ 2017.02.12 02:59:31 ] (combat) <color=0xff00ffff><b>81</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Tower Sentry Gallente I</b><font size=10><color=0x77ffffff> - Hammerhead II - Grazes
+[ 2017.02.12 02:59:31 ] (combat) <color=0xffcc0000><b>28</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Tower Sentry Gallente I</b><font size=10><color=0x77ffffff> - Smashes
+[ 2017.02.12 02:59:31 ] (combat) <color=0xffcc0000><b>19</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Tower Sentry Gallente I</b><font size=10><color=0x77ffffff> - Hits
+[ 2017.02.12 02:59:32 ] (combat) <color=0xff00ffff><b>244</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Tower Sentry Gallente I</b><font size=10><color=0x77ffffff> - Hammerhead II - Smashes
+[ 2017.02.12 02:59:33 ] (combat) <color=0xffcc0000><b>12</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Tower Sentry Gallente I</b><font size=10><color=0x77ffffff> - Grazes
+[ 2017.02.12 02:59:33 ] (combat) <color=0xffcc0000><b>13</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Tower Sentry Gallente I</b><font size=10><color=0x77ffffff> - Glances Off
+[ 2017.02.12 02:59:35 ] (combat) <color=0xff00ffff><b>173</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Tower Sentry Gallente I</b><font size=10><color=0x77ffffff> - Hammerhead II - Hits
+[ 2017.02.12 02:59:36 ] (combat) <color=0xff00ffff><b>231</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Tower Sentry Gallente I</b><font size=10><color=0x77ffffff> - Hammerhead II - Penetrates
+[ 2017.02.12 02:59:36 ] (combat) <color=0xff00ffff><b>151</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Tower Sentry Gallente I</b><font size=10><color=0x77ffffff> - Dual 150mm Railgun II - Glances Off
+[ 2017.02.12 02:59:36 ] (combat) <color=0xffcc0000><b>21</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Tower Sentry Gallente I</b><font size=10><color=0x77ffffff> - Penetrates
+[ 2017.02.12 02:59:36 ] (combat) <color=0xffcc0000><b>30</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Tower Sentry Gallente I</b><font size=10><color=0x77ffffff> - Smashes
+[ 2017.02.12 02:59:39 ] (combat) <color=0xffcc0000><b>29</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Tower Sentry Gallente I</b><font size=10><color=0x77ffffff> - Smashes
+[ 2017.02.12 02:59:39 ] (combat) <color=0xffcc0000><b>15</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Tower Sentry Gallente I</b><font size=10><color=0x77ffffff> - Glances Off
+[ 2017.02.12 02:59:39 ] (combat) <color=0xff00ffff><b>129</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Tower Sentry Gallente I</b><font size=10><color=0x77ffffff> - Dual 150mm Railgun II - Hits
+[ 2017.02.12 02:59:41 ] (combat) <color=0xffcc0000><b>18</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Tower Sentry Gallente I</b><font size=10><color=0x77ffffff> - Hits
+[ 2017.02.12 02:59:43 ] (combat) <color=0xff00ffff><b>106</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Tower Sentry Gallente I</b><font size=10><color=0x77ffffff> - Hammerhead II - Grazes
+[ 2017.02.12 02:59:44 ] (combat) <color=0xffcc0000><b>25</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Tower Sentry Gallente I</b><font size=10><color=0x77ffffff> - Penetrates
+[ 2017.02.12 02:59:44 ] (combat) <color=0xff00ffff><b>89</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Tower Sentry Gallente I</b><font size=10><color=0x77ffffff> - Hammerhead II - Grazes
+[ 2017.02.12 02:59:46 ] (combat) <color=0xffcc0000><b>92</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Gallente Light Missile Battery</b><font size=10><color=0x77ffffff> - Inferno Light Missile - Hits
+[ 2017.02.12 02:59:46 ] (combat) <color=0xffcc0000><b>18</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Tower Sentry Gallente I</b><font size=10><color=0x77ffffff> - Hits
+[ 2017.02.12 02:59:47 ] (combat) <color=0xffcc0000><b>92</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Gallente Light Missile Battery</b><font size=10><color=0x77ffffff> - Inferno Light Missile - Hits
+[ 2017.02.12 02:59:47 ] (combat) <color=0xff00ffff><b>183</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Tower Sentry Gallente I</b><font size=10><color=0x77ffffff> - Hammerhead II - Penetrates
+[ 2017.02.12 02:59:47 ] (combat) <color=0xff00ffff><b>102</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Tower Sentry Gallente I</b><font size=10><color=0x77ffffff> - Hammerhead II - Glances Off
+[ 2017.02.12 02:59:48 ] (combat) <color=0xff00ffff><b>159</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Tower Sentry Gallente I</b><font size=10><color=0x77ffffff> - Hammerhead II - Penetrates
+[ 2017.02.12 02:59:48 ] (combat) <color=0xff00ffff><b>137</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Tower Sentry Gallente I</b><font size=10><color=0x77ffffff> - Hammerhead II - Hits
+[ 2017.02.12 02:59:48 ] (combat) <color=0xff00ffff><b>106</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Tower Sentry Gallente I</b><font size=10><color=0x77ffffff> - Hammerhead II - Glances Off
+[ 2017.02.12 02:59:49 ] (combat) <color=0xffcc0000><b>12</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Tower Sentry Gallente I</b><font size=10><color=0x77ffffff> - Grazes
+[ 2017.02.12 02:59:51 ] (combat) Your Hammerhead II misses Tower Sentry Gallente I completely - Hammerhead II
+[ 2017.02.12 02:59:51 ] (combat) <color=0xffcc0000><b>17</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Tower Sentry Gallente I</b><font size=10><color=0x77ffffff> - Hits
+[ 2017.02.12 02:59:51 ] (combat) <color=0xff00ffff><b>101</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Tower Sentry Gallente I</b><font size=10><color=0x77ffffff> - Hammerhead II - Grazes
+[ 2017.02.12 02:59:52 ] (combat) <color=0xff00ffff><b>91</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Tower Sentry Gallente I</b><font size=10><color=0x77ffffff> - Hammerhead II - Glances Off
+[ 2017.02.12 02:59:52 ] (combat) <color=0xff00ffff><b>294</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Tower Sentry Gallente I</b><font size=10><color=0x77ffffff> - Hammerhead II - Smashes
+[ 2017.02.12 02:59:52 ] (combat) <color=0xff00ffff><b>280</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Tower Sentry Gallente I</b><font size=10><color=0x77ffffff> - Hammerhead II - Smashes
+[ 2017.02.12 02:59:54 ] (notify) Drones engaging Gallente Light Missile Battery
+[ 2017.02.12 02:59:54 ] (combat) <color=0xffcc0000><b>27</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Tower Sentry Gallente I</b><font size=10><color=0x77ffffff> - Smashes
+[ 2017.02.12 02:59:55 ] (notify) Targeting attempt failed as the designated object is no longer present.
+[ 2017.02.12 02:59:55 ] (combat) <color=0xff00ffff><b>135</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Tower Sentry Gallente I</b><font size=10><color=0x77ffffff> - Hammerhead II - Glances Off
+[ 2017.02.12 02:59:55 ] (combat) <color=0xff00ffff><b>43</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Gallente Light Missile Battery</b><font size=10><color=0x77ffffff> - Dual 150mm Railgun II - Grazes
+[ 2017.02.12 02:59:55 ] (combat) <color=0xff00ffff><b>36</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Tower Sentry Gallente I</b><font size=10><color=0x77ffffff> - Hammerhead II - Penetrates
+[ 2017.02.12 02:59:58 ] (combat) <color=0xff00ffff><b>178</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Gallente Light Missile Battery</b><font size=10><color=0x77ffffff> - Hammerhead II - Penetrates
+[ 2017.02.12 02:59:58 ] (combat) <color=0xff00ffff><b>78</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Gallente Light Missile Battery</b><font size=10><color=0x77ffffff> - Dual 150mm Railgun II - Grazes
+[ 2017.02.12 02:59:59 ] (combat) <color=0xff00ffff><b>418</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Gallente Light Missile Battery</b><font size=10><color=0x77ffffff> - Hammerhead II - Wrecks
+[ 2017.02.12 03:00:00 ] (combat) <color=0xff00ffff><b>100</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Gallente Light Missile Battery</b><font size=10><color=0x77ffffff> - Hammerhead II - Glances Off
+[ 2017.02.12 03:00:00 ] (combat) <color=0xff00ffff><b>202</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Gallente Light Missile Battery</b><font size=10><color=0x77ffffff> - Hammerhead II - Penetrates
+[ 2017.02.12 03:00:00 ] (combat) <color=0xff00ffff><b>122</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Gallente Light Missile Battery</b><font size=10><color=0x77ffffff> - Hammerhead II - Glances Off
+[ 2017.02.12 03:00:01 ] (combat) <color=0xff00ffff><b>85</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Gallente Light Missile Battery</b><font size=10><color=0x77ffffff> - Dual 150mm Railgun II - Grazes
+[ 2017.02.12 03:00:02 ] (combat) Your Hammerhead II misses Gallente Light Missile Battery completely - Hammerhead II
+[ 2017.02.12 03:00:03 ] (combat) <color=0xff00ffff><b>132</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Gallente Light Missile Battery</b><font size=10><color=0x77ffffff> - Hammerhead II - Hits
+[ 2017.02.12 03:00:04 ] (combat) <color=0xff00ffff><b>130</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Gallente Light Missile Battery</b><font size=10><color=0x77ffffff> - Hammerhead II - Grazes
+[ 2017.02.12 03:00:04 ] (combat) Your Hammerhead II misses Gallente Light Missile Battery completely - Hammerhead II
+[ 2017.02.12 03:00:04 ] (combat) Your Hammerhead II misses Gallente Light Missile Battery completely - Hammerhead II
+[ 2017.02.12 03:00:04 ] (combat) <color=0xff00ffff><b>82</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Gallente Light Missile Battery</b><font size=10><color=0x77ffffff> - Dual 150mm Railgun II - Grazes
+[ 2017.02.12 03:00:05 ] (combat) <color=0xffcc0000><b>92</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Gallente Light Missile Battery</b><font size=10><color=0x77ffffff> - Inferno Light Missile - Hits
+[ 2017.02.12 03:00:06 ] (combat) <color=0xffcc0000><b>92</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Gallente Light Missile Battery</b><font size=10><color=0x77ffffff> - Inferno Light Missile - Hits
+[ 2017.02.12 03:00:06 ] (combat) <color=0xff00ffff><b>280</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Gallente Light Missile Battery</b><font size=10><color=0x77ffffff> - Hammerhead II - Smashes
+[ 2017.02.12 03:00:09 ] (notify) Drones engaging Gallente Light Missile Battery
+[ 2017.02.12 03:00:11 ] (combat) <color=0xff00ffff><b>189</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Gallente Light Missile Battery</b><font size=10><color=0x77ffffff> - Hammerhead II - Penetrates
+[ 2017.02.12 03:00:11 ] (combat) <color=0xff00ffff><b>81</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Gallente Light Missile Battery</b><font size=10><color=0x77ffffff> - Dual 150mm Railgun II - Grazes
+[ 2017.02.12 03:00:12 ] (combat) <color=0xff00ffff><b>103</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Gallente Light Missile Battery</b><font size=10><color=0x77ffffff> - Hammerhead II - Glances Off
+[ 2017.02.12 03:00:12 ] (combat) <color=0xff00ffff><b>131</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Gallente Light Missile Battery</b><font size=10><color=0x77ffffff> - Hammerhead II - Hits
+[ 2017.02.12 03:00:12 ] (combat) <color=0xff00ffff><b>157</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Gallente Light Missile Battery</b><font size=10><color=0x77ffffff> - Hammerhead II - Penetrates
+[ 2017.02.12 03:00:13 ] (combat) <color=0xff00ffff><b>143</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Gallente Light Missile Battery</b><font size=10><color=0x77ffffff> - Hammerhead II - Penetrates
+[ 2017.02.12 03:00:14 ] (combat) <color=0xff00ffff><b>114</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Gallente Light Missile Battery</b><font size=10><color=0x77ffffff> - Dual 150mm Railgun II - Glances Off
+[ 2017.02.12 03:00:15 ] (combat) <color=0xff00ffff><b>174</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Gallente Light Missile Battery</b><font size=10><color=0x77ffffff> - Hammerhead II - Hits
+[ 2017.02.12 03:00:16 ] (combat) <color=0xff00ffff><b>218</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Gallente Light Missile Battery</b><font size=10><color=0x77ffffff> - Hammerhead II - Smashes
+[ 2017.02.12 03:00:16 ] (combat) <color=0xff00ffff><b>277</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Gallente Light Missile Battery</b><font size=10><color=0x77ffffff> - Hammerhead II - Smashes
+[ 2017.02.12 03:00:16 ] (combat) <color=0xff00ffff><b>266</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Gallente Light Missile Battery</b><font size=10><color=0x77ffffff> - Hammerhead II - Smashes
+[ 2017.02.12 03:01:04 ] (combat) <color=0xffcc0000><b>24</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Tower Sentry Gallente I</b><font size=10><color=0x77ffffff> - Penetrates
+[ 2017.02.12 03:01:04 ] (combat) <color=0xffcc0000><b>14</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Tower Sentry Gallente I</b><font size=10><color=0x77ffffff> - Grazes
+[ 2017.02.12 03:01:06 ] (combat) <color=0xffcc0000><b>22</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Tower Sentry Gallente I</b><font size=10><color=0x77ffffff> - Penetrates
+[ 2017.02.12 03:01:06 ] (combat) <color=0xffcc0000><b>19</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Tower Sentry Gallente I</b><font size=10><color=0x77ffffff> - Hits
+[ 2017.02.12 03:01:08 ] (combat) <color=0xffcc0000><b>92</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Gallente Light Missile Battery</b><font size=10><color=0x77ffffff> - Inferno Light Missile - Hits
+[ 2017.02.12 03:01:09 ] (combat) <color=0xffcc0000><b>92</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Gallente Light Missile Battery</b><font size=10><color=0x77ffffff> - Inferno Light Missile - Hits
+[ 2017.02.12 03:01:09 ] (combat) <color=0xffcc0000><b>14</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Tower Sentry Gallente I</b><font size=10><color=0x77ffffff> - Glances Off
+[ 2017.02.12 03:01:09 ] (combat) <color=0xffcc0000><b>29</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Tower Sentry Gallente I</b><font size=10><color=0x77ffffff> - Smashes
+[ 2017.02.12 03:01:11 ] (combat) <color=0xffcc0000><b>13</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Tower Sentry Gallente I</b><font size=10><color=0x77ffffff> - Grazes
+[ 2017.02.12 03:01:11 ] (combat) <color=0xffcc0000><b>28</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Tower Sentry Gallente I</b><font size=10><color=0x77ffffff> - Smashes
+[ 2017.02.12 03:01:14 ] (combat) <color=0xffcc0000><b>19</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Tower Sentry Gallente I</b><font size=10><color=0x77ffffff> - Hits
+[ 2017.02.12 03:01:14 ] (combat) <color=0xffcc0000><b>30</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Tower Sentry Gallente I</b><font size=10><color=0x77ffffff> - Smashes
+[ 2017.02.12 03:01:16 ] (combat) <color=0xffcc0000><b>21</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Tower Sentry Gallente I</b><font size=10><color=0x77ffffff> - Hits
+[ 2017.02.12 03:01:16 ] (combat) <color=0xffcc0000><b>21</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Tower Sentry Gallente I</b><font size=10><color=0x77ffffff> - Penetrates
+[ 2017.02.12 03:01:19 ] (combat) <color=0xffcc0000><b>18</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Tower Sentry Gallente I</b><font size=10><color=0x77ffffff> - Hits
+[ 2017.02.12 03:01:19 ] (combat) <color=0xffcc0000><b>12</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Tower Sentry Gallente I</b><font size=10><color=0x77ffffff> - Grazes
+[ 2017.02.12 03:01:21 ] (combat) <color=0xffcc0000><b>11</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Tower Sentry Gallente I</b><font size=10><color=0x77ffffff> - Grazes
+[ 2017.02.12 03:01:21 ] (combat) <color=0xffcc0000><b>30</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Tower Sentry Gallente I</b><font size=10><color=0x77ffffff> - Smashes
+[ 2017.02.12 03:01:24 ] (notify) Drones engaging Gallente Stasis Tower
+[ 2017.02.12 03:01:24 ] (combat) <color=0xffcc0000><b>30</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Tower Sentry Gallente I</b><font size=10><color=0x77ffffff> - Smashes
+[ 2017.02.12 03:01:24 ] (combat) <color=0xffcc0000><b>13</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Tower Sentry Gallente I</b><font size=10><color=0x77ffffff> - Grazes
+[ 2017.02.12 03:01:25 ] (combat) <color=0xff00ffff><b>189</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Gallente Stasis Tower</b><font size=10><color=0x77ffffff> - Dual 150mm Railgun II - Penetrates
+[ 2017.02.12 03:01:26 ] (combat) <color=0xffcc0000><b>32</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Tower Sentry Gallente I</b><font size=10><color=0x77ffffff> - Smashes
+[ 2017.02.12 03:01:26 ] (combat) <color=0xffcc0000><b>22</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Tower Sentry Gallente I</b><font size=10><color=0x77ffffff> - Penetrates
+[ 2017.02.12 03:01:28 ] (combat) <color=0xffcc0000><b>92</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Gallente Light Missile Battery</b><font size=10><color=0x77ffffff> - Inferno Light Missile - Hits
+[ 2017.02.12 03:01:28 ] (combat) <color=0xff00ffff><b>179</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Gallente Stasis Tower</b><font size=10><color=0x77ffffff> - Dual 150mm Railgun II - Penetrates
+[ 2017.02.12 03:01:28 ] (combat) Your Hammerhead II misses Gallente Stasis Tower completely - Hammerhead II
+[ 2017.02.12 03:01:29 ] (combat) <color=0xffcc0000><b>92</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Gallente Light Missile Battery</b><font size=10><color=0x77ffffff> - Inferno Light Missile - Hits
+[ 2017.02.12 03:01:29 ] (combat) <color=0xff00ffff><b>112</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Gallente Stasis Tower</b><font size=10><color=0x77ffffff> - Hammerhead II - Hits
+[ 2017.02.12 03:01:29 ] (combat) <color=0xff00ffff><b>194</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Gallente Stasis Tower</b><font size=10><color=0x77ffffff> - Hammerhead II - Smashes
+[ 2017.02.12 03:01:29 ] (combat) <color=0xffcc0000><b>22</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Tower Sentry Gallente I</b><font size=10><color=0x77ffffff> - Penetrates
+[ 2017.02.12 03:01:29 ] (combat) <color=0xffcc0000><b>12</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Tower Sentry Gallente I</b><font size=10><color=0x77ffffff> - Grazes
+[ 2017.02.12 03:01:30 ] (combat) <color=0xff00ffff><b>143</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Gallente Stasis Tower</b><font size=10><color=0x77ffffff> - Hammerhead II - Penetrates
+[ 2017.02.12 03:01:30 ] (combat) <color=0xff00ffff><b>123</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Gallente Stasis Tower</b><font size=10><color=0x77ffffff> - Hammerhead II - Hits
+[ 2017.02.12 03:01:30 ] (combat) <color=0xff00ffff><b>141</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Gallente Stasis Tower</b><font size=10><color=0x77ffffff> - Dual 150mm Railgun II - Hits
+[ 2017.02.12 03:01:31 ] (combat) <color=0xffcc0000><b>27</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Tower Sentry Gallente I</b><font size=10><color=0x77ffffff> - Smashes
+[ 2017.02.12 03:01:31 ] (combat) <color=0xffcc0000><b>29</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Tower Sentry Gallente I</b><font size=10><color=0x77ffffff> - Smashes
+[ 2017.02.12 03:01:32 ] (combat) <color=0xff00ffff><b>157</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Gallente Stasis Tower</b><font size=10><color=0x77ffffff> - Hammerhead II - Glances Off
+[ 2017.02.12 03:01:33 ] (combat) Your Hammerhead II misses Gallente Stasis Tower completely - Hammerhead II
+[ 2017.02.12 03:01:33 ] (combat) Your Hammerhead II misses Gallente Stasis Tower completely - Hammerhead II
+[ 2017.02.12 03:01:33 ] (combat) <color=0xff00ffff><b>108</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Gallente Stasis Tower</b><font size=10><color=0x77ffffff> - Dual 150mm Railgun II - Grazes
+[ 2017.02.12 03:01:34 ] (combat) Your Hammerhead II misses Gallente Stasis Tower completely - Hammerhead II
+[ 2017.02.12 03:01:34 ] (combat) <color=0xff00ffff><b>113</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Gallente Stasis Tower</b><font size=10><color=0x77ffffff> - Hammerhead II - Grazes
+[ 2017.02.12 03:01:34 ] (combat) <color=0xffcc0000><b>11</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Tower Sentry Gallente I</b><font size=10><color=0x77ffffff> - Grazes
+[ 2017.02.12 03:01:34 ] (combat) <color=0xffcc0000><b>26</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Tower Sentry Gallente I</b><font size=10><color=0x77ffffff> - Penetrates
+[ 2017.02.12 03:01:36 ] (combat) <color=0xff00ffff><b>181</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Gallente Stasis Tower</b><font size=10><color=0x77ffffff> - Hammerhead II - Hits
+[ 2017.02.12 03:01:36 ] (combat) <color=0xff00ffff><b>194</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Gallente Stasis Tower</b><font size=10><color=0x77ffffff> - Dual 150mm Railgun II - Hits
+[ 2017.02.12 03:01:36 ] (combat) <color=0xffcc0000><b>15</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Tower Sentry Gallente I</b><font size=10><color=0x77ffffff> - Glances Off
+[ 2017.02.12 03:01:36 ] (combat) <color=0xffcc0000><b>12</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Tower Sentry Gallente I</b><font size=10><color=0x77ffffff> - Grazes
+[ 2017.02.12 03:01:39 ] (combat) <color=0xffcc0000><b>27</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Tower Sentry Gallente I</b><font size=10><color=0x77ffffff> - Smashes
+[ 2017.02.12 03:01:39 ] (combat) <color=0xffcc0000><b>30</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Tower Sentry Gallente I</b><font size=10><color=0x77ffffff> - Smashes
+[ 2017.02.12 03:01:42 ] (combat) <color=0xff00ffff><b>101</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Tower Sentry Gallente I</b><font size=10><color=0x77ffffff> - Hammerhead II - Grazes
+[ 2017.02.12 03:01:42 ] (combat) <color=0xffcc0000><b>16</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Tower Sentry Gallente I</b><font size=10><color=0x77ffffff> - Glances Off
+[ 2017.02.12 03:01:42 ] (combat) <color=0xffcc0000><b>25</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Tower Sentry Gallente I</b><font size=10><color=0x77ffffff> - Penetrates
+[ 2017.02.12 03:01:43 ] (combat) <color=0xff00ffff><b>134</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Tower Sentry Gallente I</b><font size=10><color=0x77ffffff> - Hammerhead II - Hits
+[ 2017.02.12 03:01:44 ] (combat) <color=0xff00ffff><b>184</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Tower Sentry Gallente I</b><font size=10><color=0x77ffffff> - Hammerhead II - Smashes
+[ 2017.02.12 03:01:44 ] (combat) <color=0xff00ffff><b>153</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Tower Sentry Gallente I</b><font size=10><color=0x77ffffff> - Hammerhead II - Penetrates
+[ 2017.02.12 03:01:44 ] (combat) <color=0xffcc0000><b>64</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Tower Sentry Gallente I</b><font size=10><color=0x77ffffff> - Wrecks
+[ 2017.02.12 03:01:44 ] (combat) <color=0xffcc0000><b>23</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Tower Sentry Gallente I</b><font size=10><color=0x77ffffff> - Penetrates
+[ 2017.02.12 03:01:45 ] (combat) Federation Hoplon misses you completely
+[ 2017.02.12 03:01:46 ] (combat) Federation Hoplon misses you completely
+[ 2017.02.12 03:01:46 ] (combat) <color=0xff00ffff><b>76</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Tower Sentry Gallente I</b><font size=10><color=0x77ffffff> - Hammerhead II - Grazes
+[ 2017.02.12 03:01:47 ] (combat) <color=0xff00ffff><b>174</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Tower Sentry Gallente I</b><font size=10><color=0x77ffffff> - Hammerhead II - Penetrates
+[ 2017.02.12 03:01:47 ] (combat) Your Hammerhead II misses Tower Sentry Gallente I completely - Hammerhead II
+[ 2017.02.12 03:01:47 ] (combat) <color=0xffcc0000><b>32</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Tower Sentry Gallente I</b><font size=10><color=0x77ffffff> - Smashes
+[ 2017.02.12 03:01:47 ] (combat) <color=0xffcc0000><b>29</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Tower Sentry Gallente I</b><font size=10><color=0x77ffffff> - Smashes
+[ 2017.02.12 03:01:47 ] (combat) Federation Hoplon misses you completely
+[ 2017.02.12 03:01:48 ] (combat) <color=0xffcc0000><b>92</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Gallente Light Missile Battery</b><font size=10><color=0x77ffffff> - Inferno Light Missile - Hits
+[ 2017.02.12 03:01:48 ] (combat) Federation Hoplon misses you completely
+[ 2017.02.12 03:01:48 ] (combat) Your Hammerhead II misses Tower Sentry Gallente I completely - Hammerhead II
+[ 2017.02.12 03:01:48 ] (combat) Your Hammerhead II misses Tower Sentry Gallente I completely - Hammerhead II
+[ 2017.02.12 03:01:48 ] (combat) Federation Hoplon misses you completely
+[ 2017.02.12 03:01:49 ] (combat) <color=0xffcc0000><b>92</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Gallente Light Missile Battery</b><font size=10><color=0x77ffffff> - Inferno Light Missile - Hits
+[ 2017.02.12 03:01:49 ] (combat) Federation Kontos misses you completely
+[ 2017.02.12 03:01:49 ] (combat) <color=0xffcc0000><b>12</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Tower Sentry Gallente I</b><font size=10><color=0x77ffffff> - Grazes
+[ 2017.02.12 03:01:49 ] (combat) <color=0xffcc0000><b>13</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Tower Sentry Gallente I</b><font size=10><color=0x77ffffff> - Glances Off
+[ 2017.02.12 03:01:50 ] (combat) <color=0xff00ffff><b>146</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Tower Sentry Gallente I</b><font size=10><color=0x77ffffff> - Hammerhead II - Hits
+[ 2017.02.12 03:01:50 ] (combat) Federation Hoplon misses you completely
+[ 2017.02.12 03:01:50 ] (combat) Federation Hoplon misses you completely
+[ 2017.02.12 03:01:51 ] (combat) Your Hammerhead II misses Tower Sentry Gallente I completely - Hammerhead II
+[ 2017.02.12 03:01:51 ] (combat) <color=0xff00ffff><b>253</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Tower Sentry Gallente I</b><font size=10><color=0x77ffffff> - Hammerhead II - Smashes
+[ 2017.02.12 03:01:51 ] (combat) Federation Hoplon misses you completely
+[ 2017.02.12 03:01:51 ] (combat) Federation Kontos misses you completely
+[ 2017.02.12 03:01:52 ] (combat) <color=0xff00ffff><b>279</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Tower Sentry Gallente I</b><font size=10><color=0x77ffffff> - Hammerhead II - Smashes
+[ 2017.02.12 03:01:52 ] (combat) <color=0xff00ffff><b>118</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Tower Sentry Gallente I</b><font size=10><color=0x77ffffff> - Hammerhead II - Grazes
+[ 2017.02.12 03:01:52 ] (combat) <color=0xffcc0000><b>15</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Tower Sentry Gallente I</b><font size=10><color=0x77ffffff> - Glances Off
+[ 2017.02.12 03:01:52 ] (combat) <color=0xffcc0000><b>31</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Tower Sentry Gallente I</b><font size=10><color=0x77ffffff> - Smashes
+[ 2017.02.12 03:01:53 ] (combat) Federation Hoplon misses you completely
+[ 2017.02.12 03:01:53 ] (combat) Federation Hoplon misses you completely
+[ 2017.02.12 03:01:54 ] (combat) <color=0xff00ffff><b>95</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Tower Sentry Gallente I</b><font size=10><color=0x77ffffff> - Hammerhead II - Glances Off
+[ 2017.02.12 03:01:54 ] (combat) Federation Hoplon misses you completely
+[ 2017.02.12 03:01:54 ] (combat) Federation Kontos misses you completely
+[ 2017.02.12 03:01:54 ] (combat) <color=0xffcc0000><b>17</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Tower Sentry Gallente I</b><font size=10><color=0x77ffffff> - Hits
+[ 2017.02.12 03:01:54 ] (combat) <color=0xffcc0000><b>29</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Tower Sentry Gallente I</b><font size=10><color=0x77ffffff> - Smashes
+[ 2017.02.12 03:01:55 ] (combat) <color=0xff00ffff><b>139</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Tower Sentry Gallente I</b><font size=10><color=0x77ffffff> - Hammerhead II - Hits
+[ 2017.02.12 03:01:56 ] (combat) Federation Hoplon misses you completely
+[ 2017.02.12 03:01:56 ] (combat) <color=0xffcc0000><b>19</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Federation Hoplon</b><font size=10><color=0x77ffffff> - Wrecks
+[ 2017.02.12 03:01:57 ] (combat) Federation Hoplon misses you completely
+[ 2017.02.12 03:01:57 ] (combat) <color=0xffcc0000><b>13</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Tower Sentry Gallente I</b><font size=10><color=0x77ffffff> - Grazes
+[ 2017.02.12 03:01:57 ] (combat) Federation Kontos misses you completely
+[ 2017.02.12 03:01:58 ] (combat) Federation Hoplon misses you completely
+[ 2017.02.12 03:01:59 ] (combat) Federation Hoplon misses you completely
+[ 2017.02.12 03:01:59 ] (combat) <color=0xff00ffff><b>132</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Tower Sentry Gallente I</b><font size=10><color=0x77ffffff> - Hammerhead II - Hits
+[ 2017.02.12 03:01:59 ] (combat) <color=0xffcc0000><b>16</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Tower Sentry Gallente I</b><font size=10><color=0x77ffffff> - Glances Off
+[ 2017.02.12 03:01:59 ] (combat) Federation Hoplon misses you completely
+[ 2017.02.12 03:02:00 ] (combat) Federation Kontos misses you completely
+[ 2017.02.12 03:02:00 ] (combat) <color=0xff00ffff><b>90</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Tower Sentry Gallente I</b><font size=10><color=0x77ffffff> - Hammerhead II - Grazes
+[ 2017.02.12 03:02:00 ] (combat) <color=0xff00ffff><b>104</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Tower Sentry Gallente I</b><font size=10><color=0x77ffffff> - Hammerhead II - Glances Off
+[ 2017.02.12 03:02:00 ] (combat) <color=0xff00ffff><b>116</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Tower Sentry Gallente I</b><font size=10><color=0x77ffffff> - Hammerhead II - Hits
+[ 2017.02.12 03:02:01 ] (combat) <color=0xffcc0000><b>19</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Federation Hoplon</b><font size=10><color=0x77ffffff> - Wrecks
+[ 2017.02.12 03:02:01 ] (combat) Federation Hoplon misses you completely
+[ 2017.02.12 03:02:02 ] (notify) Drones engaging Federation Hoplon
+[ 2017.02.12 03:02:02 ] (combat) <color=0xffcc0000><b>31</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Tower Sentry Gallente I</b><font size=10><color=0x77ffffff> - Smashes
+[ 2017.02.12 03:02:02 ] (combat) Federation Hoplon misses you completely
+[ 2017.02.12 03:02:02 ] (combat) Federation Kontos misses you completely
+[ 2017.02.12 03:02:03 ] (combat) <color=0xff00ffff><b>173</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Tower Sentry Gallente I</b><font size=10><color=0x77ffffff> - Hammerhead II - Penetrates
+[ 2017.02.12 03:02:04 ] (combat) Your group of Dual 150mm Railgun II misses Federation Hoplon completely - Dual 150mm Railgun II
+[ 2017.02.12 03:02:04 ] (combat) <color=0xff00ffff><b>91</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Tower Sentry Gallente I</b><font size=10><color=0x77ffffff> - Hammerhead II - Glances Off
+[ 2017.02.12 03:02:04 ] (combat) <color=0xffcc0000><b>5</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Federation Hoplon</b><font size=10><color=0x77ffffff> - Hits
+[ 2017.02.12 03:02:04 ] (combat) <color=0xffcc0000><b>4</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Federation Hoplon</b><font size=10><color=0x77ffffff> - Glances Off
+[ 2017.02.12 03:02:04 ] (combat) <color=0xffcc0000><b>13</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Tower Sentry Gallente I</b><font size=10><color=0x77ffffff> - Grazes
+[ 2017.02.12 03:02:05 ] (combat) <color=0xffcc0000><b>3</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Federation Hoplon</b><font size=10><color=0x77ffffff> - Grazes
+[ 2017.02.12 03:02:05 ] (combat) <color=0xffcc0000><b>3</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Federation Kontos</b><font size=10><color=0x77ffffff> - Grazes
+[ 2017.02.12 03:02:06 ] (combat) Your group of Dual 150mm Railgun II misses Federation Hoplon completely - Dual 150mm Railgun II
+[ 2017.02.12 03:02:07 ] (combat) <color=0xffcc0000><b>92</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Gallente Light Missile Battery</b><font size=10><color=0x77ffffff> - Inferno Light Missile - Hits
+[ 2017.02.12 03:02:07 ] (combat) <color=0xff00ffff><b>263</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Federation Hoplon</b><font size=10><color=0x77ffffff> - Hammerhead II - Smashes
+[ 2017.02.12 03:02:07 ] (combat) <color=0xffcc0000><b>7</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Federation Hoplon</b><font size=10><color=0x77ffffff> - Penetrates
+[ 2017.02.12 03:02:07 ] (combat) <color=0xffcc0000><b>30</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Tower Sentry Gallente I</b><font size=10><color=0x77ffffff> - Smashes
+[ 2017.02.12 03:02:07 ] (combat) <color=0xffcc0000><b>6</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Federation Hoplon</b><font size=10><color=0x77ffffff> - Penetrates
+[ 2017.02.12 03:02:08 ] (combat) <color=0xffcc0000><b>92</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Gallente Light Missile Battery</b><font size=10><color=0x77ffffff> - Inferno Light Missile - Hits
+[ 2017.02.12 03:02:08 ] (combat) <color=0xff00ffff><b>62</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Federation Hoplon</b><font size=10><color=0x77ffffff> - Hammerhead II - Hits
+[ 2017.02.12 03:02:08 ] (combat) Federation Kontos misses you completely
+[ 2017.02.12 03:02:09 ] (combat) <color=0xffcc0000><b>30</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Tower Sentry Gallente I</b><font size=10><color=0x77ffffff> - Smashes
+[ 2017.02.12 03:02:10 ] (combat) <color=0xffcc0000><b>6</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Federation Hoplon</b><font size=10><color=0x77ffffff> - Penetrates
+[ 2017.02.12 03:02:10 ] (combat) <color=0xffcc0000><b>5</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Federation Hoplon</b><font size=10><color=0x77ffffff> - Hits
+[ 2017.02.12 03:02:10 ] (combat) <color=0xff00ffff><b>119</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Tower Sentry Gallente I</b><font size=10><color=0x77ffffff> - Hammerhead II - Hits
+[ 2017.02.12 03:02:10 ] (combat) <color=0xff00ffff><b>205</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Tower Sentry Gallente I</b><font size=10><color=0x77ffffff> - Hammerhead II - Smashes
+[ 2017.02.12 03:02:11 ] (notify) Drones engaging Federation Hoplon
+[ 2017.02.12 03:02:12 ] (combat) <color=0xffcc0000><b>24</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Tower Sentry Gallente I</b><font size=10><color=0x77ffffff> - Penetrates
+[ 2017.02.12 03:02:14 ] (combat) <color=0xffcc0000><b>24</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Tower Sentry Gallente I</b><font size=10><color=0x77ffffff> - Penetrates
+[ 2017.02.12 03:02:15 ] (combat) <color=0xff00ffff><b>211</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Federation Hoplon</b><font size=10><color=0x77ffffff> - Hammerhead II - Penetrates
+[ 2017.02.12 03:02:15 ] (combat) <color=0xff00ffff><b>114</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Federation Hoplon</b><font size=10><color=0x77ffffff> - Hammerhead II - Glances Off
+[ 2017.02.12 03:02:16 ] (combat) <color=0xff00ffff><b>143</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Federation Hastarius</b><font size=10><color=0x77ffffff> - Dual 150mm Railgun II - Hits
+[ 2017.02.12 03:02:17 ] (combat) <color=0xffcc0000><b>30</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Tower Sentry Gallente I</b><font size=10><color=0x77ffffff> - Smashes
+[ 2017.02.12 03:02:19 ] (combat) <color=0xff00ffff><b>196</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Federation Hastarius</b><font size=10><color=0x77ffffff> - Dual 150mm Railgun II - Penetrates
+[ 2017.02.12 03:02:19 ] (notify) Drones engaging Federation Hastarius
+[ 2017.02.12 03:02:20 ] (combat) <color=0xffcc0000><b>26</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Tower Sentry Gallente I</b><font size=10><color=0x77ffffff> - Penetrates
+[ 2017.02.12 03:02:20 ] (combat) <color=0xff00ffff><b>170</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Federation Hastarius</b><font size=10><color=0x77ffffff> - Hammerhead II - Penetrates
+[ 2017.02.12 03:02:20 ] (combat) <color=0xff00ffff><b>90</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Federation Hastarius</b><font size=10><color=0x77ffffff> - Hammerhead II - Grazes
+[ 2017.02.12 03:02:22 ] (combat) <color=0xff00ffff><b>154</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Federation Hastarius</b><font size=10><color=0x77ffffff> - Dual 150mm Railgun II - Hits
+[ 2017.02.12 03:02:22 ] (combat) <color=0xffcc0000><b>27</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Tower Sentry Gallente I</b><font size=10><color=0x77ffffff> - Penetrates
+[ 2017.02.12 03:02:23 ] (combat) <color=0xff00ffff><b>170</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Federation Hastarius</b><font size=10><color=0x77ffffff> - Hammerhead II - Penetrates
+[ 2017.02.12 03:02:24 ] (combat) <color=0xff00ffff><b>122</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Federation Hastarius</b><font size=10><color=0x77ffffff> - Hammerhead II - Hits
+[ 2017.02.12 03:02:24 ] (combat) <color=0xff00ffff><b>134</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Federation Hastarius</b><font size=10><color=0x77ffffff> - Hammerhead II - Hits
+[ 2017.02.12 03:02:24 ] (combat) <color=0xff00ffff><b>211</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Federation Hastarius</b><font size=10><color=0x77ffffff> - Hammerhead II - Smashes
+[ 2017.02.12 03:02:24 ] (combat) <color=0xff00ffff><b>152</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Federation Hastarius</b><font size=10><color=0x77ffffff> - Hammerhead II - Penetrates
+[ 2017.02.12 03:02:25 ] (combat) Federation Loras misses you completely
+[ 2017.02.12 03:02:25 ] (combat) <color=0xffcc0000><b>16</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Tower Sentry Gallente I</b><font size=10><color=0x77ffffff> - Glances Off
+[ 2017.02.12 03:02:25 ] (combat) <color=0xff00ffff><b>217</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Federation Hastarius</b><font size=10><color=0x77ffffff> - Dual 150mm Railgun II - Hits
+[ 2017.02.12 03:02:27 ] (combat) <color=0xffcc0000><b>92</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Gallente Light Missile Battery</b><font size=10><color=0x77ffffff> - Inferno Light Missile - Hits
+[ 2017.02.12 03:02:27 ] (combat) Federation Loras misses you completely
+[ 2017.02.12 03:02:27 ] (combat) <color=0xffcc0000><b>17</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Tower Sentry Gallente I</b><font size=10><color=0x77ffffff> - Hits
+[ 2017.02.12 03:02:27 ] (combat) <color=0xff00ffff><b>315</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Federation Hastarius</b><font size=10><color=0x77ffffff> - Hammerhead II - Smashes
+[ 2017.02.12 03:02:28 ] (combat) <color=0xffcc0000><b>92</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Gallente Light Missile Battery</b><font size=10><color=0x77ffffff> - Inferno Light Missile - Hits
+[ 2017.02.12 03:02:28 ] (combat) <color=0xff00ffff><b>120</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Federation Hastarius</b><font size=10><color=0x77ffffff> - Hammerhead II - Grazes
+[ 2017.02.12 03:02:28 ] (combat) <color=0xff00ffff><b>131</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Federation Hastarius</b><font size=10><color=0x77ffffff> - Hammerhead II - Grazes
+[ 2017.02.12 03:02:28 ] (combat) <color=0xff00ffff><b>134</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Federation Hastarius</b><font size=10><color=0x77ffffff> - Dual 150mm Railgun II - Penetrates
+[ 2017.02.12 03:02:30 ] (combat) <color=0xffcc0000><b>16</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Federation Loras</b><font size=10><color=0x77ffffff> - Grazes
+[ 2017.02.12 03:02:30 ] (combat) <color=0xffcc0000><b>25</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Tower Sentry Gallente I</b><font size=10><color=0x77ffffff> - Penetrates
+[ 2017.02.12 03:02:31 ] (notify) Drones engaging Federation Hoplon
+[ 2017.02.12 03:02:32 ] (combat) <color=0xff00ffff><b>298</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Tower Sentry Gallente I</b><font size=10><color=0x77ffffff> - Hammerhead II - Smashes
+[ 2017.02.12 03:02:32 ] (combat) <color=0xff00ffff><b>224</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Tower Sentry Gallente I</b><font size=10><color=0x77ffffff> - Hammerhead II - Penetrates
+[ 2017.02.12 03:02:32 ] (combat) Federation Loras misses you completely
+[ 2017.02.12 03:02:32 ] (combat) <color=0xffcc0000><b>23</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Tower Sentry Gallente I</b><font size=10><color=0x77ffffff> - Penetrates
+[ 2017.02.12 03:02:35 ] (combat) Federation Loras misses you completely
+[ 2017.02.12 03:02:35 ] (combat) <color=0xffcc0000><b>19</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Tower Sentry Gallente I</b><font size=10><color=0x77ffffff> - Hits
+[ 2017.02.12 03:02:36 ] (combat) Your Hammerhead II misses Federation Hoplon completely - Hammerhead II
+[ 2017.02.12 03:02:36 ] (combat) Your group of Dual 150mm Railgun II misses Federation Hoplon completely - Dual 150mm Railgun II
+[ 2017.02.12 03:02:37 ] (combat) Your Hammerhead II misses Federation Hoplon completely - Hammerhead II
+[ 2017.02.12 03:02:37 ] (combat) Your Hammerhead II misses Federation Hoplon completely - Hammerhead II
+[ 2017.02.12 03:02:37 ] (combat) Your Hammerhead II misses Federation Hoplon completely - Hammerhead II
+[ 2017.02.12 03:02:37 ] (combat) <color=0xffcc0000><b>21</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Federation Loras</b><font size=10><color=0x77ffffff> - Glances Off
+[ 2017.02.12 03:02:37 ] (combat) <color=0xffcc0000><b>29</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Tower Sentry Gallente I</b><font size=10><color=0x77ffffff> - Smashes
+[ 2017.02.12 03:02:39 ] (combat) Your group of Dual 150mm Railgun II misses Federation Hoplon completely - Dual 150mm Railgun II
+[ 2017.02.12 03:02:40 ] (combat) Your Hammerhead II misses Federation Hoplon completely - Hammerhead II
+[ 2017.02.12 03:02:40 ] (combat) Federation Loras misses you completely
+[ 2017.02.12 03:02:40 ] (combat) <color=0xffcc0000><b>19</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Tower Sentry Gallente I</b><font size=10><color=0x77ffffff> - Hits
+[ 2017.02.12 03:02:41 ] (combat) Your Hammerhead II misses Federation Hoplon completely - Hammerhead II
+[ 2017.02.12 03:02:41 ] (combat) Your Hammerhead II misses Federation Hoplon completely - Hammerhead II
+[ 2017.02.12 03:02:41 ] (combat) Your Hammerhead II misses Federation Hoplon completely - Hammerhead II
+[ 2017.02.12 03:02:42 ] (combat) Your group of Dual 150mm Railgun II misses Federation Hoplon completely - Dual 150mm Railgun II
+[ 2017.02.12 03:02:42 ] (combat) <color=0xffcc0000><b>21</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Federation Loras</b><font size=10><color=0x77ffffff> - Glances Off
+[ 2017.02.12 03:02:42 ] (combat) <color=0xffcc0000><b>28</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Tower Sentry Gallente I</b><font size=10><color=0x77ffffff> - Smashes
+[ 2017.02.12 03:02:44 ] (combat) <color=0xff00ffff><b>106</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Federation Hoplon</b><font size=10><color=0x77ffffff> - Hammerhead II - Grazes
+[ 2017.02.12 03:02:45 ] (combat) <color=0xff00ffff><b>126</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Federation Hoplon</b><font size=10><color=0x77ffffff> - Hammerhead II - Glances Off
+[ 2017.02.12 03:02:45 ] (combat) Your Hammerhead II misses Federation Hoplon completely - Hammerhead II
+[ 2017.02.12 03:02:45 ] (combat) <color=0xff00ffff><b>92</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Federation Hoplon</b><font size=10><color=0x77ffffff> - Hammerhead II - Glances Off
+[ 2017.02.12 03:02:45 ] (combat) <color=0xffcc0000><b>20</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Federation Loras</b><font size=10><color=0x77ffffff> - Glances Off
+[ 2017.02.12 03:02:45 ] (combat) <color=0xffcc0000><b>24</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Tower Sentry Gallente I</b><font size=10><color=0x77ffffff> - Penetrates
+[ 2017.02.12 03:02:47 ] (combat) <color=0xffcc0000><b>92</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Gallente Light Missile Battery</b><font size=10><color=0x77ffffff> - Inferno Light Missile - Hits
+[ 2017.02.12 03:02:47 ] (combat) <color=0xffcc0000><b>92</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Gallente Light Missile Battery</b><font size=10><color=0x77ffffff> - Inferno Light Missile - Hits
+[ 2017.02.12 03:02:47 ] (combat) Federation Loras misses you completely
+[ 2017.02.12 03:02:47 ] (combat) <color=0xffcc0000><b>14</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Tower Sentry Gallente I</b><font size=10><color=0x77ffffff> - Glances Off
+[ 2017.02.12 03:02:49 ] (notify) Drones engaging Federation Kontos
+[ 2017.02.12 03:02:50 ] (combat) Federation Loras misses you completely
+[ 2017.02.12 03:02:50 ] (combat) <color=0xffcc0000><b>23</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Tower Sentry Gallente I</b><font size=10><color=0x77ffffff> - Penetrates
+[ 2017.02.12 03:02:51 ] (combat) Your group of Dual 150mm Railgun II misses Federation Kontos completely - Dual 150mm Railgun II
+[ 2017.02.12 03:02:52 ] (combat) <color=0xffcc0000><b>19</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Federation Loras</b><font size=10><color=0x77ffffff> - Glances Off
+[ 2017.02.12 03:02:52 ] (combat) <color=0xffcc0000><b>23</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Tower Sentry Gallente I</b><font size=10><color=0x77ffffff> - Penetrates
+[ 2017.02.12 03:02:53 ] (combat) <color=0xff00ffff><b>174</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Federation Kontos</b><font size=10><color=0x77ffffff> - Hammerhead II - Hits
+[ 2017.02.12 03:02:53 ] (combat) <color=0xff00ffff><b>76</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Federation Kontos</b><font size=10><color=0x77ffffff> - Hammerhead II - Glances Off
+[ 2017.02.12 03:02:55 ] (combat) Federation Loras misses you completely
+[ 2017.02.12 03:02:55 ] (combat) <color=0xffcc0000><b>20</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Tower Sentry Gallente I</b><font size=10><color=0x77ffffff> - Hits
+[ 2017.02.12 03:02:57 ] (combat) Federation Loras misses you completely
+[ 2017.02.12 03:02:57 ] (combat) <color=0xffcc0000><b>19</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Tower Sentry Gallente I</b><font size=10><color=0x77ffffff> - Hits
+[ 2017.02.12 03:02:57 ] (notify) Drones engaging Federation Loras
+[ 2017.02.12 03:02:59 ] (combat) <color=0xff00ffff><b>23</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Federation Loras</b><font size=10><color=0x77ffffff> - Dual 150mm Railgun II - Grazes
+[ 2017.02.12 03:03:00 ] (combat) <color=0xffcc0000><b>16</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Tower Sentry Gallente I</b><font size=10><color=0x77ffffff> - Glances Off
+[ 2017.02.12 03:03:00 ] (combat) Federation Loras misses you completely
+[ 2017.02.12 03:03:02 ] (combat) <color=0xff00ffff><b>174</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Federation Loras</b><font size=10><color=0x77ffffff> - Hammerhead II - Penetrates
+[ 2017.02.12 03:03:02 ] (combat) <color=0xff00ffff><b>208</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Federation Loras</b><font size=10><color=0x77ffffff> - Hammerhead II - Smashes
+[ 2017.02.12 03:03:02 ] (combat) <color=0xff00ffff><b>184</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Federation Loras</b><font size=10><color=0x77ffffff> - Hammerhead II - Penetrates
+[ 2017.02.12 03:03:02 ] (combat) <color=0xff00ffff><b>222</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Federation Loras</b><font size=10><color=0x77ffffff> - Hammerhead II - Smashes
+[ 2017.02.12 03:03:02 ] (combat) <color=0xff00ffff><b>27</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Federation Loras</b><font size=10><color=0x77ffffff> - Dual 150mm Railgun II - Grazes
+[ 2017.02.12 03:03:02 ] (combat) <color=0xffcc0000><b>24</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Tower Sentry Gallente I</b><font size=10><color=0x77ffffff> - Penetrates
+[ 2017.02.12 03:03:02 ] (combat) Federation Loras misses you completely
+[ 2017.02.12 03:03:03 ] (combat) <color=0xff00ffff><b>171</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Federation Loras</b><font size=10><color=0x77ffffff> - Hammerhead II - Penetrates
+[ 2017.02.12 03:03:05 ] (combat) <color=0xff00ffff><b>131</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Federation Loras</b><font size=10><color=0x77ffffff> - Dual 150mm Railgun II - Hits
+[ 2017.02.12 03:03:05 ] (combat) <color=0xffcc0000><b>28</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Tower Sentry Gallente I</b><font size=10><color=0x77ffffff> - Smashes
+[ 2017.02.12 03:03:05 ] (combat) Federation Loras misses you completely
+[ 2017.02.12 03:03:06 ] (combat) <color=0xff00ffff><b>125</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Federation Loras</b><font size=10><color=0x77ffffff> - Hammerhead II - Hits
+[ 2017.02.12 03:03:06 ] (combat) <color=0xff00ffff><b>254</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Federation Loras</b><font size=10><color=0x77ffffff> - Hammerhead II - Smashes
+[ 2017.02.12 03:03:06 ] (combat) <color=0xff00ffff><b>112</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Federation Loras</b><font size=10><color=0x77ffffff> - Hammerhead II - Grazes
+[ 2017.02.12 03:03:06 ] (combat) <color=0xff00ffff><b>128</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Federation Loras</b><font size=10><color=0x77ffffff> - Hammerhead II - Grazes
+[ 2017.02.12 03:03:07 ] (combat) <color=0xffcc0000><b>92</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Gallente Light Missile Battery</b><font size=10><color=0x77ffffff> - Inferno Light Missile - Hits
+[ 2017.02.12 03:03:07 ] (combat) <color=0xffcc0000><b>92</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Gallente Light Missile Battery</b><font size=10><color=0x77ffffff> - Inferno Light Missile - Hits
+[ 2017.02.12 03:03:07 ] (combat) <color=0xff00ffff><b>131</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Federation Loras</b><font size=10><color=0x77ffffff> - Hammerhead II - Grazes
+[ 2017.02.12 03:03:08 ] (combat) <color=0xffcc0000><b>23</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Tower Sentry Gallente I</b><font size=10><color=0x77ffffff> - Penetrates
+[ 2017.02.12 03:03:08 ] (combat) Federation Loras misses you completely
+[ 2017.02.12 03:03:08 ] (combat) <color=0xff00ffff><b>96</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Federation Loras</b><font size=10><color=0x77ffffff> - Dual 150mm Railgun II - Grazes
+[ 2017.02.12 03:03:10 ] (combat) <color=0xff00ffff><b>162</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Federation Loras</b><font size=10><color=0x77ffffff> - Hammerhead II - Smashes
+[ 2017.02.12 03:03:10 ] (combat) <color=0xffcc0000><b>18</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Tower Sentry Gallente I</b><font size=10><color=0x77ffffff> - Hits
+[ 2017.02.12 03:03:13 ] (combat) <color=0xffcc0000><b>17</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Tower Sentry Gallente I</b><font size=10><color=0x77ffffff> - Hits
+[ 2017.02.12 03:03:15 ] (combat) <color=0xffcc0000><b>28</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Tower Sentry Gallente I</b><font size=10><color=0x77ffffff> - Smashes
+[ 2017.02.12 03:03:16 ] (combat) <color=0xff00ffff><b>113</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Gallente Light Missile Battery</b><font size=10><color=0x77ffffff> - Hammerhead II - Glances Off
+[ 2017.02.12 03:03:17 ] (combat) <color=0xff00ffff><b>239</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Tower Sentry Gallente I</b><font size=10><color=0x77ffffff> - Hammerhead II - Penetrates
+[ 2017.02.12 03:03:17 ] (combat) <color=0xff00ffff><b>83</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Tower Sentry Gallente I</b><font size=10><color=0x77ffffff> - Hammerhead II - Grazes
+[ 2017.02.12 03:03:17 ] (combat) <color=0xff00ffff><b>226</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Communications Tower</b><font size=10><color=0x77ffffff> - Dual 150mm Railgun II - Hits
+[ 2017.02.12 03:03:18 ] (combat) <color=0xff00ffff><b>205</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Gallente Light Missile Battery</b><font size=10><color=0x77ffffff> - Hammerhead II - Smashes
+[ 2017.02.12 03:03:18 ] (notify) Drones engaging Communications Tower
+[ 2017.02.12 03:03:19 ] (combat) <color=0xff00ffff><b>185</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Communications Tower</b><font size=10><color=0x77ffffff> - Dual 150mm Railgun II - Hits
+[ 2017.02.12 03:03:20 ] (combat) Your Hammerhead II misses Gallente Light Missile Battery completely - Hammerhead II
+[ 2017.02.12 03:03:22 ] (combat) <color=0xff00ffff><b>276</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Communications Tower</b><font size=10><color=0x77ffffff> - Hammerhead II - Smashes
+[ 2017.02.12 03:03:22 ] (combat) <color=0xff00ffff><b>172</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Communications Tower</b><font size=10><color=0x77ffffff> - Hammerhead II - Hits
+[ 2017.02.12 03:03:22 ] (combat) <color=0xff00ffff><b>243</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Communications Tower</b><font size=10><color=0x77ffffff> - Dual 150mm Railgun II - Penetrates
+[ 2017.02.12 03:03:24 ] (combat) Your Hammerhead II misses Communications Tower completely - Hammerhead II
+[ 2017.02.12 03:03:25 ] (combat) <color=0xff00ffff><b>244</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Communications Tower</b><font size=10><color=0x77ffffff> - Dual 150mm Railgun II - Penetrates
+[ 2017.02.12 03:03:26 ] (combat) <color=0xff00ffff><b>252</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Communications Tower</b><font size=10><color=0x77ffffff> - Hammerhead II - Penetrates
+[ 2017.02.12 03:03:26 ] (combat) <color=0xff00ffff><b>199</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Communications Tower</b><font size=10><color=0x77ffffff> - Hammerhead II - Hits
+[ 2017.02.12 03:03:26 ] (combat) <color=0xff00ffff><b>276</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Communications Tower</b><font size=10><color=0x77ffffff> - Hammerhead II - Smashes
+[ 2017.02.12 03:03:27 ] (combat) <color=0xffcc0000><b>93</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Gallente Light Missile Battery</b><font size=10><color=0x77ffffff> - Inferno Light Missile - Hits
+[ 2017.02.12 03:03:27 ] (combat) <color=0xffcc0000><b>92</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Gallente Light Missile Battery</b><font size=10><color=0x77ffffff> - Inferno Light Missile - Hits
+[ 2017.02.12 03:03:28 ] (combat) <color=0xff00ffff><b>228</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Communications Tower</b><font size=10><color=0x77ffffff> - Hammerhead II - Penetrates
+[ 2017.02.12 03:03:28 ] (combat) <color=0xff00ffff><b>287</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Communications Tower</b><font size=10><color=0x77ffffff> - Hammerhead II - Smashes
+[ 2017.02.12 03:03:28 ] (combat) <color=0xff00ffff><b>250</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Communications Tower</b><font size=10><color=0x77ffffff> - Dual 150mm Railgun II - Penetrates
+[ 2017.02.12 03:03:30 ] (combat) <color=0xff00ffff><b>194</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Communications Tower</b><font size=10><color=0x77ffffff> - Hammerhead II - Hits
+[ 2017.02.12 03:03:30 ] (combat) <color=0xff00ffff><b>262</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Communications Tower</b><font size=10><color=0x77ffffff> - Hammerhead II - Penetrates
+[ 2017.02.12 03:03:30 ] (combat) <color=0xff00ffff><b>120</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Communications Tower</b><font size=10><color=0x77ffffff> - Hammerhead II - Grazes
+[ 2017.02.12 03:03:31 ] (combat) <color=0xff00ffff><b>207</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Communications Tower</b><font size=10><color=0x77ffffff> - Dual 150mm Railgun II - Hits
+[ 2017.02.12 03:03:32 ] (combat) <color=0xff00ffff><b>288</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Communications Tower</b><font size=10><color=0x77ffffff> - Hammerhead II - Smashes
+[ 2017.02.12 03:03:32 ] (combat) <color=0xff00ffff><b>153</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Communications Tower</b><font size=10><color=0x77ffffff> - Hammerhead II - Glances Off
+[ 2017.02.12 03:03:34 ] (combat) <color=0xff00ffff><b>179</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Communications Tower</b><font size=10><color=0x77ffffff> - Hammerhead II - Hits
+[ 2017.02.12 03:03:34 ] (combat) <color=0xff00ffff><b>196</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Communications Tower</b><font size=10><color=0x77ffffff> - Dual 150mm Railgun II - Hits
+[ 2017.02.12 03:03:34 ] (combat) <color=0xff00ffff><b>115</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Communications Tower</b><font size=10><color=0x77ffffff> - Hammerhead II - Grazes
+[ 2017.02.12 03:03:34 ] (combat) <color=0xff00ffff><b>226</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Communications Tower</b><font size=10><color=0x77ffffff> - Hammerhead II - Penetrates
+[ 2017.02.12 03:03:36 ] (combat) <color=0xff00ffff><b>239</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Communications Tower</b><font size=10><color=0x77ffffff> - Hammerhead II - Penetrates
+[ 2017.02.12 03:03:36 ] (combat) <color=0xff00ffff><b>138</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Communications Tower</b><font size=10><color=0x77ffffff> - Hammerhead II - Glances Off
+[ 2017.02.12 03:03:37 ] (combat) <color=0xff00ffff><b>220</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Communications Tower</b><font size=10><color=0x77ffffff> - Dual 150mm Railgun II - Hits
+[ 2017.02.12 03:03:38 ] (combat) <color=0xff00ffff><b>130</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Communications Tower</b><font size=10><color=0x77ffffff> - Hammerhead II - Grazes
+[ 2017.02.12 03:03:38 ] (combat) <color=0xff00ffff><b>160</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Communications Tower</b><font size=10><color=0x77ffffff> - Hammerhead II - Glances Off
+[ 2017.02.12 03:03:38 ] (combat) <color=0xff00ffff><b>298</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Communications Tower</b><font size=10><color=0x77ffffff> - Hammerhead II - Smashes
+[ 2017.02.12 03:03:39 ] (combat) <color=0xff00ffff><b>232</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Communications Tower</b><font size=10><color=0x77ffffff> - Dual 150mm Railgun II - Hits
+[ 2017.02.12 03:03:40 ] (combat) <color=0xff00ffff><b>311</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Communications Tower</b><font size=10><color=0x77ffffff> - Hammerhead II - Smashes
+[ 2017.02.12 03:03:40 ] (combat) <color=0xff00ffff><b>312</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Communications Tower</b><font size=10><color=0x77ffffff> - Hammerhead II - Smashes
+[ 2017.02.12 03:03:42 ] (combat) <color=0xff00ffff><b>224</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Communications Tower</b><font size=10><color=0x77ffffff> - Hammerhead II - Penetrates
+[ 2017.02.12 03:03:42 ] (combat) <color=0xff00ffff><b>219</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Communications Tower</b><font size=10><color=0x77ffffff> - Dual 150mm Railgun II - Hits
+[ 2017.02.12 03:03:42 ] (combat) <color=0xff00ffff><b>177</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Communications Tower</b><font size=10><color=0x77ffffff> - Hammerhead II - Hits
+[ 2017.02.12 03:03:42 ] (combat) <color=0xff00ffff><b>132</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Communications Tower</b><font size=10><color=0x77ffffff> - Hammerhead II - Grazes
+[ 2017.02.12 03:03:44 ] (combat) <color=0xff00ffff><b>239</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Communications Tower</b><font size=10><color=0x77ffffff> - Hammerhead II - Penetrates
+[ 2017.02.12 03:03:44 ] (combat) <color=0xff00ffff><b>181</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Communications Tower</b><font size=10><color=0x77ffffff> - Hammerhead II - Hits
+[ 2017.02.12 03:03:45 ] (combat) <color=0xff00ffff><b>198</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Communications Tower</b><font size=10><color=0x77ffffff> - Dual 150mm Railgun II - Hits
+[ 2017.02.12 03:03:46 ] (combat) <color=0xff00ffff><b>307</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Communications Tower</b><font size=10><color=0x77ffffff> - Hammerhead II - Smashes
+[ 2017.02.12 03:03:46 ] (combat) <color=0xff00ffff><b>219</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Communications Tower</b><font size=10><color=0x77ffffff> - Hammerhead II - Penetrates
+[ 2017.02.12 03:03:46 ] (combat) <color=0xff00ffff><b>230</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Communications Tower</b><font size=10><color=0x77ffffff> - Hammerhead II - Penetrates
+[ 2017.02.12 03:03:47 ] (combat) <color=0xffcc0000><b>94</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Gallente Light Missile Battery</b><font size=10><color=0x77ffffff> - Inferno Light Missile - Hits
+[ 2017.02.12 03:03:47 ] (combat) <color=0xffcc0000><b>92</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Gallente Light Missile Battery</b><font size=10><color=0x77ffffff> - Inferno Light Missile - Hits
+[ 2017.02.12 03:03:48 ] (combat) <color=0xff00ffff><b>113</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Communications Tower</b><font size=10><color=0x77ffffff> - Hammerhead II - Grazes
+[ 2017.02.12 03:03:48 ] (combat) <color=0xff00ffff><b>227</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Communications Tower</b><font size=10><color=0x77ffffff> - Hammerhead II - Penetrates
+[ 2017.02.12 03:03:48 ] (combat) <color=0xff00ffff><b>222</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Communications Tower</b><font size=10><color=0x77ffffff> - Dual 150mm Railgun II - Hits
+[ 2017.02.12 03:03:50 ] (combat) <color=0xff00ffff><b>254</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Communications Tower</b><font size=10><color=0x77ffffff> - Hammerhead II - Penetrates
+[ 2017.02.12 03:03:50 ] (combat) <color=0xff00ffff><b>138</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Communications Tower</b><font size=10><color=0x77ffffff> - Hammerhead II - Glances Off
+[ 2017.02.12 03:03:50 ] (combat) <color=0xff00ffff><b>115</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Communications Tower</b><font size=10><color=0x77ffffff> - Hammerhead II - Grazes
+[ 2017.02.12 03:03:51 ] (combat) <color=0xff00ffff><b>243</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Communications Tower</b><font size=10><color=0x77ffffff> - Dual 150mm Railgun II - Penetrates
+[ 2017.02.12 03:03:52 ] (combat) <color=0xff00ffff><b>171</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Communications Tower</b><font size=10><color=0x77ffffff> - Hammerhead II - Hits
+[ 2017.02.12 03:03:52 ] (combat) <color=0xff00ffff><b>264</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Communications Tower</b><font size=10><color=0x77ffffff> - Hammerhead II - Penetrates
+[ 2017.02.12 03:03:54 ] (combat) <color=0xff00ffff><b>217</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Communications Tower</b><font size=10><color=0x77ffffff> - Dual 150mm Railgun II - Hits
+[ 2017.02.12 03:03:54 ] (combat) <color=0xff00ffff><b>215</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Communications Tower</b><font size=10><color=0x77ffffff> - Hammerhead II - Penetrates
+[ 2017.02.12 03:03:54 ] (combat) <color=0xff00ffff><b>233</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Communications Tower</b><font size=10><color=0x77ffffff> - Hammerhead II - Penetrates
+[ 2017.02.12 03:03:54 ] (combat) <color=0xff00ffff><b>225</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Communications Tower</b><font size=10><color=0x77ffffff> - Hammerhead II - Penetrates
+[ 2017.02.12 03:03:56 ] (combat) <color=0xff00ffff><b>185</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Communications Tower</b><font size=10><color=0x77ffffff> - Hammerhead II - Hits
+[ 2017.02.12 03:03:56 ] (combat) <color=0xff00ffff><b>273</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Communications Tower</b><font size=10><color=0x77ffffff> - Hammerhead II - Smashes
+[ 2017.02.12 03:03:56 ] (combat) <color=0xff00ffff><b>178</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Communications Tower</b><font size=10><color=0x77ffffff> - Dual 150mm Railgun II - Hits
+[ 2017.02.12 03:03:58 ] (combat) <color=0xff00ffff><b>108</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Communications Tower</b><font size=10><color=0x77ffffff> - Hammerhead II - Grazes
+[ 2017.02.12 03:03:58 ] (combat) <color=0xff00ffff><b>318</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Communications Tower</b><font size=10><color=0x77ffffff> - Hammerhead II - Smashes
+[ 2017.02.12 03:03:58 ] (combat) <color=0xff00ffff><b>232</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Communications Tower</b><font size=10><color=0x77ffffff> - Hammerhead II - Penetrates
+[ 2017.02.12 03:03:59 ] (combat) <color=0xff00ffff><b>242</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Communications Tower</b><font size=10><color=0x77ffffff> - Dual 150mm Railgun II - Penetrates
+[ 2017.02.12 03:04:00 ] (combat) <color=0xff00ffff><b>179</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Communications Tower</b><font size=10><color=0x77ffffff> - Hammerhead II - Hits
+[ 2017.02.12 03:04:00 ] (combat) <color=0xff00ffff><b>292</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Communications Tower</b><font size=10><color=0x77ffffff> - Hammerhead II - Smashes
+[ 2017.02.12 03:04:02 ] (combat) <color=0xff00ffff><b>295</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Communications Tower</b><font size=10><color=0x77ffffff> - Hammerhead II - Smashes
+[ 2017.02.12 03:04:02 ] (combat) <color=0xff00ffff><b>232</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Communications Tower</b><font size=10><color=0x77ffffff> - Dual 150mm Railgun II - Hits
+[ 2017.02.12 03:04:02 ] (combat) <color=0xff00ffff><b>302</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Communications Tower</b><font size=10><color=0x77ffffff> - Hammerhead II - Smashes
+[ 2017.02.12 03:04:02 ] (combat) <color=0xff00ffff><b>127</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Communications Tower</b><font size=10><color=0x77ffffff> - Hammerhead II - Grazes
+[ 2017.02.12 03:04:04 ] (combat) <color=0xff00ffff><b>319</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Communications Tower</b><font size=10><color=0x77ffffff> - Hammerhead II - Smashes
+[ 2017.02.12 03:04:04 ] (combat) <color=0xff00ffff><b>298</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Communications Tower</b><font size=10><color=0x77ffffff> - Hammerhead II - Smashes
+[ 2017.02.12 03:04:05 ] (combat) <color=0xff00ffff><b>241</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Communications Tower</b><font size=10><color=0x77ffffff> - Dual 150mm Railgun II - Penetrates
+[ 2017.02.12 03:04:06 ] (combat) <color=0xff00ffff><b>180</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Communications Tower</b><font size=10><color=0x77ffffff> - Hammerhead II - Hits
+[ 2017.02.12 03:04:07 ] (combat) <color=0xffcc0000><b>94</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Gallente Light Missile Battery</b><font size=10><color=0x77ffffff> - Inferno Light Missile - Hits
+[ 2017.02.12 03:04:07 ] (combat) <color=0xffcc0000><b>92</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Gallente Light Missile Battery</b><font size=10><color=0x77ffffff> - Inferno Light Missile - Hits
+[ 2017.02.12 03:04:07 ] (combat) <color=0xff00ffff><b>163</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Communications Tower</b><font size=10><color=0x77ffffff> - Hammerhead II - Hits
+[ 2017.02.12 03:04:07 ] (combat) <color=0xff00ffff><b>305</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Communications Tower</b><font size=10><color=0x77ffffff> - Hammerhead II - Smashes
+[ 2017.02.12 03:04:08 ] (combat) <color=0xff00ffff><b>180</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Communications Tower</b><font size=10><color=0x77ffffff> - Hammerhead II - Hits
+[ 2017.02.12 03:04:08 ] (combat) <color=0xff00ffff><b>223</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Communications Tower</b><font size=10><color=0x77ffffff> - Dual 150mm Railgun II - Hits
+[ 2017.02.12 03:04:08 ] (combat) <color=0xff00ffff><b>193</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Communications Tower</b><font size=10><color=0x77ffffff> - Hammerhead II - Hits
+[ 2017.02.12 03:04:10 ] (combat) <color=0xff00ffff><b>243</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Communications Tower</b><font size=10><color=0x77ffffff> - Hammerhead II - Penetrates
+[ 2017.02.12 03:04:11 ] (combat) <color=0xff00ffff><b>267</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Communications Tower</b><font size=10><color=0x77ffffff> - Hammerhead II - Penetrates
+[ 2017.02.12 03:04:11 ] (combat) <color=0xff00ffff><b>246</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Communications Tower</b><font size=10><color=0x77ffffff> - Hammerhead II - Penetrates
+[ 2017.02.12 03:04:11 ] (combat) <color=0xff00ffff><b>219</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Communications Tower</b><font size=10><color=0x77ffffff> - Dual 150mm Railgun II - Hits
+[ 2017.02.12 03:04:12 ] (combat) <color=0xff00ffff><b>170</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Communications Tower</b><font size=10><color=0x77ffffff> - Hammerhead II - Hits
+[ 2017.02.12 03:04:12 ] (combat) <color=0xff00ffff><b>316</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Communications Tower</b><font size=10><color=0x77ffffff> - Hammerhead II - Smashes
+[ 2017.02.12 03:04:13 ] (combat) <color=0xff00ffff><b>189</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Communications Tower</b><font size=10><color=0x77ffffff> - Dual 150mm Railgun II - Hits
+[ 2017.02.12 03:04:14 ] (combat) <color=0xff00ffff><b>117</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Communications Tower</b><font size=10><color=0x77ffffff> - Hammerhead II - Grazes
+[ 2017.02.12 03:04:15 ] (combat) <color=0xff00ffff><b>258</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Communications Tower</b><font size=10><color=0x77ffffff> - Hammerhead II - Penetrates
+[ 2017.02.12 03:04:15 ] (combat) <color=0xff00ffff><b>201</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Communications Tower</b><font size=10><color=0x77ffffff> - Hammerhead II - Hits
+[ 2017.02.12 03:04:16 ] (combat) <color=0xff00ffff><b>302</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Communications Tower</b><font size=10><color=0x77ffffff> - Hammerhead II - Smashes
+[ 2017.02.12 03:04:16 ] (combat) <color=0xff00ffff><b>122</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Communications Tower</b><font size=10><color=0x77ffffff> - Hammerhead II - Grazes
+[ 2017.02.12 03:04:16 ] (combat) <color=0xff00ffff><b>249</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Communications Tower</b><font size=10><color=0x77ffffff> - Dual 150mm Railgun II - Penetrates
+[ 2017.02.12 03:04:18 ] (combat) <color=0xff00ffff><b>171</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Communications Tower</b><font size=10><color=0x77ffffff> - Hammerhead II - Hits
+[ 2017.02.12 03:04:19 ] (combat) <color=0xff00ffff><b>303</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Communications Tower</b><font size=10><color=0x77ffffff> - Hammerhead II - Smashes
+[ 2017.02.12 03:04:19 ] (combat) <color=0xff00ffff><b>108</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Communications Tower</b><font size=10><color=0x77ffffff> - Hammerhead II - Grazes
+[ 2017.02.12 03:04:19 ] (combat) <color=0xff00ffff><b>184</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Communications Tower</b><font size=10><color=0x77ffffff> - Dual 150mm Railgun II - Hits
+[ 2017.02.12 03:04:20 ] (combat) <color=0xff00ffff><b>295</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Communications Tower</b><font size=10><color=0x77ffffff> - Hammerhead II - Smashes
+[ 2017.02.12 03:04:20 ] (combat) <color=0xff00ffff><b>258</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Communications Tower</b><font size=10><color=0x77ffffff> - Hammerhead II - Penetrates
+[ 2017.02.12 03:04:22 ] (combat) <color=0xff00ffff><b>235</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Communications Tower</b><font size=10><color=0x77ffffff> - Hammerhead II - Penetrates
+[ 2017.02.12 03:04:22 ] (combat) <color=0xff00ffff><b>265</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Communications Tower</b><font size=10><color=0x77ffffff> - Dual 150mm Railgun II - Penetrates
+[ 2017.02.12 03:04:23 ] (combat) <color=0xff00ffff><b>142</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Communications Tower</b><font size=10><color=0x77ffffff> - Hammerhead II - Glances Off
+[ 2017.02.12 03:04:23 ] (combat) <color=0xff00ffff><b>314</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Communications Tower</b><font size=10><color=0x77ffffff> - Hammerhead II - Smashes
+[ 2017.02.12 03:04:24 ] (combat) <color=0xff00ffff><b>237</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Communications Tower</b><font size=10><color=0x77ffffff> - Hammerhead II - Penetrates
+[ 2017.02.12 03:04:24 ] (combat) <color=0xff00ffff><b>305</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Communications Tower</b><font size=10><color=0x77ffffff> - Hammerhead II - Smashes
+[ 2017.02.12 03:04:25 ] (combat) <color=0xff00ffff><b>255</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Communications Tower</b><font size=10><color=0x77ffffff> - Dual 150mm Railgun II - Penetrates
+[ 2017.02.12 03:04:26 ] (combat) <color=0xff00ffff><b>217</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Communications Tower</b><font size=10><color=0x77ffffff> - Hammerhead II - Penetrates
+[ 2017.02.12 03:04:27 ] (combat) <color=0xffcc0000><b>94</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Gallente Light Missile Battery</b><font size=10><color=0x77ffffff> - Inferno Light Missile - Hits
+[ 2017.02.12 03:04:27 ] (combat) <color=0xffcc0000><b>92</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Gallente Light Missile Battery</b><font size=10><color=0x77ffffff> - Inferno Light Missile - Hits
+[ 2017.02.12 03:04:27 ] (combat) <color=0xff00ffff><b>299</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Communications Tower</b><font size=10><color=0x77ffffff> - Hammerhead II - Smashes
+[ 2017.02.12 03:04:27 ] (combat) <color=0xff00ffff><b>312</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Communications Tower</b><font size=10><color=0x77ffffff> - Hammerhead II - Smashes
+[ 2017.02.12 03:04:28 ] (combat) <color=0xff00ffff><b>189</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Communications Tower</b><font size=10><color=0x77ffffff> - Dual 150mm Railgun II - Hits
+[ 2017.02.12 03:04:28 ] (combat) <color=0xff00ffff><b>316</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Communications Tower</b><font size=10><color=0x77ffffff> - Hammerhead II - Smashes
+[ 2017.02.12 03:04:28 ] (combat) <color=0xff00ffff><b>307</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Communications Tower</b><font size=10><color=0x77ffffff> - Hammerhead II - Smashes
+[ 2017.02.12 03:04:30 ] (combat) <color=0xff00ffff><b>216</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Communications Tower</b><font size=10><color=0x77ffffff> - Hammerhead II - Penetrates
+[ 2017.02.12 03:04:31 ] (combat) <color=0xff00ffff><b>209</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Communications Tower</b><font size=10><color=0x77ffffff> - Dual 150mm Railgun II - Hits
+[ 2017.02.12 03:04:31 ] (combat) <color=0xff00ffff><b>147</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Communications Tower</b><font size=10><color=0x77ffffff> - Hammerhead II - Glances Off
+[ 2017.02.12 03:04:31 ] (combat) <color=0xff00ffff><b>170</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Communications Tower</b><font size=10><color=0x77ffffff> - Hammerhead II - Smashes
+[ 2017.02.12 03:04:47 ] (combat) <color=0xffcc0000><b>94</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Gallente Light Missile Battery</b><font size=10><color=0x77ffffff> - Inferno Light Missile - Hits
+[ 2017.02.12 03:04:48 ] (combat) <color=0xffcc0000><b>92</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Gallente Light Missile Battery</b><font size=10><color=0x77ffffff> - Inferno Light Missile - Hits
+[ 2017.02.12 03:05:14 ] (notify) Loading the Advanced Railgun Charge into the Hybrid Weapon; this will take approximately 5 seconds.
+[ 2017.02.12 03:05:32 ] (None) Jumping from Toshabia to Irnin
+[ 2017.02.12 03:06:10 ] (None) Jumping from Irnin to Amarr
+[ 2017.02.12 03:06:28 ] (notify) Autopilot engaged
+[ 2017.02.12 03:07:12 ] (notify) Requested to dock at Amarr VI (Zorast) - Moon 2 - Theology Council Tribunal station
+[ 2017.02.12 03:07:12 ] (notify) Setting course to docking perimeter
+[ 2017.02.12 03:07:20 ] (notify) Your docking request has been accepted. Your ship will be towed into station.
+[ 2017.02.12 03:07:23 ] (notify) Autopilot disabled - Waypoint reached
+[ 2017.02.12 03:08:49 ] (None) Undocking from Amarr VI (Zorast) - Moon 2 - Theology Council Tribunal to Amarr solar system.
+[ 2017.02.12 03:09:46 ] (notify) Session change already in progress.
+[ 2017.02.12 03:10:41 ] (combat) <color=0xff00ffff><b>56</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Pithum Ascriber</b><font size=10><color=0x77ffffff> - Dual 150mm Railgun II - Grazes
+[ 2017.02.12 03:10:43 ] (notify) Drones engaging Pithum Ascriber
+[ 2017.02.12 03:10:44 ] (combat) <color=0xff00ffff><b>86</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Pithum Ascriber</b><font size=10><color=0x77ffffff> - Dual 150mm Railgun II - Grazes
+[ 2017.02.12 03:10:47 ] (combat) <color=0xff00ffff><b>107</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Pithum Ascriber</b><font size=10><color=0x77ffffff> - Dual 150mm Railgun II - Grazes
+[ 2017.02.12 03:10:50 ] (combat) <color=0xff00ffff><b>127</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Pithum Ascriber</b><font size=10><color=0x77ffffff> - Dual 150mm Railgun II - Glances Off
+[ 2017.02.12 03:10:52 ] (combat) <color=0xff00ffff><b>161</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Pithum Ascriber</b><font size=10><color=0x77ffffff> - Dual 150mm Railgun II - Hits
+[ 2017.02.12 03:10:53 ] (combat) <color=0xff00ffff><b>203</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Pithum Ascriber</b><font size=10><color=0x77ffffff> - Hammerhead II - Smashes
+[ 2017.02.12 03:10:53 ] (combat) <color=0xff00ffff><b>97</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Pithum Ascriber</b><font size=10><color=0x77ffffff> - Hammerhead II - Glances Off
+[ 2017.02.12 03:10:54 ] (combat) <color=0xff00ffff><b>124</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Pithum Ascriber</b><font size=10><color=0x77ffffff> - Hammerhead II - Hits
+[ 2017.02.12 03:10:54 ] (combat) <color=0xff00ffff><b>200</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Pithum Ascriber</b><font size=10><color=0x77ffffff> - Hammerhead II - Smashes
+[ 2017.02.12 03:10:54 ] (combat) <color=0xff00ffff><b>142</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Pithum Ascriber</b><font size=10><color=0x77ffffff> - Hammerhead II - Hits
+[ 2017.02.12 03:10:55 ] (combat) <color=0xff00ffff><b>125</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Pithum Ascriber</b><font size=10><color=0x77ffffff> - Dual 150mm Railgun II - Glances Off
+[ 2017.02.12 03:10:57 ] (combat) <color=0xff00ffff><b>115</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Pithum Ascriber</b><font size=10><color=0x77ffffff> - Hammerhead II - Hits
+[ 2017.02.12 03:10:57 ] (combat) <color=0xff00ffff><b>123</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Pithum Ascriber</b><font size=10><color=0x77ffffff> - Hammerhead II - Glances Off
+[ 2017.02.12 03:10:58 ] (combat) Your Hammerhead II misses Pithum Ascriber completely - Hammerhead II
+[ 2017.02.12 03:10:58 ] (combat) <color=0xff00ffff><b>305</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Pithum Ascriber</b><font size=10><color=0x77ffffff> - Hammerhead II - Smashes
+[ 2017.02.12 03:10:58 ] (combat) <color=0xff00ffff><b>173</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Pithum Ascriber</b><font size=10><color=0x77ffffff> - Hammerhead II - Hits
+[ 2017.02.12 03:10:58 ] (combat) <color=0xff00ffff><b>141</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Pithum Ascriber</b><font size=10><color=0x77ffffff> - Dual 150mm Railgun II - Grazes
+[ 2017.02.12 03:11:00 ] (combat) Pithum Ascriber misses you completely
+[ 2017.02.12 03:11:01 ] (combat) <color=0xff00ffff><b>119</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Pithum Ascriber</b><font size=10><color=0x77ffffff> - Hammerhead II - Glances Off
+[ 2017.02.12 03:11:03 ] (notify) Drones engaging Pithi Wrecker
+[ 2017.02.12 03:11:04 ] (combat) <color=0xff00ffff><b>201</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Pithi Wrecker</b><font size=10><color=0x77ffffff> - Dual 150mm Railgun II - Hits
+[ 2017.02.12 03:11:06 ] (combat) Pithior Anarchist misses you completely
+[ 2017.02.12 03:11:07 ] (combat) <color=0xff00ffff><b>205</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Pithi Wrecker</b><font size=10><color=0x77ffffff> - Dual 150mm Railgun II - Hits
+[ 2017.02.12 03:11:09 ] (combat) Pithior Anarchist misses you completely
+[ 2017.02.12 03:11:10 ] (combat) Pithior Guerilla misses you completely
+[ 2017.02.12 03:11:10 ] (combat) Your group of Dual 150mm Railgun II misses Pithi Wrecker completely - Dual 150mm Railgun II
+[ 2017.02.12 03:11:10 ] (combat) Pithi Destructor misses you completely
+[ 2017.02.12 03:11:11 ] (combat) Pithior Anarchist misses you completely
+[ 2017.02.12 03:11:13 ] (combat) <color=0xffcc0000><b>24</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Pithior Guerilla</b><font size=10><color=0x77ffffff> - Glances Off
+[ 2017.02.12 03:11:13 ] (combat) Your group of Dual 150mm Railgun II misses Pithi Wrecker completely - Dual 150mm Railgun II
+[ 2017.02.12 03:11:14 ] (combat) Pithi Destructor misses you completely
+[ 2017.02.12 03:11:14 ] (combat) Pithior Anarchist misses you completely
+[ 2017.02.12 03:11:15 ] (combat) <color=0xffcc0000><b>24</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Pithior Guerilla</b><font size=10><color=0x77ffffff> - Glances Off
+[ 2017.02.12 03:11:16 ] (combat) <color=0xffcc0000><b>44</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Pithi Destructor</b><font size=10><color=0x77ffffff> - Scourge Light Missile - Hits
+[ 2017.02.12 03:11:16 ] (combat) <color=0xff00ffff><b>103</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Pithi Wrecker</b><font size=10><color=0x77ffffff> - Hammerhead II - Grazes
+[ 2017.02.12 03:11:16 ] (combat) Your group of Dual 150mm Railgun II misses Pithi Wrecker completely - Dual 150mm Railgun II
+[ 2017.02.12 03:11:16 ] (combat) Pithior Anarchist misses you completely
+[ 2017.02.12 03:11:17 ] (combat) Your Hammerhead II misses Pithi Wrecker completely - Hammerhead II
+[ 2017.02.12 03:11:17 ] (combat) <color=0xff00ffff><b>143</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Pithi Wrecker</b><font size=10><color=0x77ffffff> - Hammerhead II - Smashes
+[ 2017.02.12 03:11:17 ] (combat) Pithi Destructor misses you completely
+[ 2017.02.12 03:11:17 ] (notify) Drones engaging Pithi Plunderer
+[ 2017.02.12 03:11:18 ] (combat) <color=0xffcc0000><b>29</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Pithior Guerilla</b><font size=10><color=0x77ffffff> - Hits
+[ 2017.02.12 03:11:19 ] (combat) Pithior Anarchist misses you completely
+[ 2017.02.12 03:11:20 ] (combat) Your group of Dual 150mm Railgun II misses Pithi Plunderer completely - Dual 150mm Railgun II
+[ 2017.02.12 03:11:21 ] (combat) Pithi Destructor misses you completely
+[ 2017.02.12 03:11:21 ] (combat) <color=0xffcc0000><b>20</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Pithior Guerilla</b><font size=10><color=0x77ffffff> - Grazes
+[ 2017.02.12 03:11:21 ] (combat) Pithior Anarchist misses you completely
+[ 2017.02.12 03:11:22 ] (combat) <color=0xff00ffff><b>137</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Pithi Plunderer</b><font size=10><color=0x77ffffff> - Hammerhead II - Hits
+[ 2017.02.12 03:11:22 ] (combat) <color=0xff00ffff><b>152</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Pithi Plunderer</b><font size=10><color=0x77ffffff> - Hammerhead II - Hits
+[ 2017.02.12 03:11:22 ] (combat) <color=0xff00ffff><b>107</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Pithi Plunderer</b><font size=10><color=0x77ffffff> - Hammerhead II - Grazes
+[ 2017.02.12 03:11:22 ] (combat) <color=0xff00ffff><b>150</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Pithi Plunderer</b><font size=10><color=0x77ffffff> - Hammerhead II - Hits
+[ 2017.02.12 03:11:24 ] (combat) <color=0xffcc0000><b>36</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Pithior Guerilla</b><font size=10><color=0x77ffffff> - Hits
+[ 2017.02.12 03:11:24 ] (combat) Pithior Anarchist misses you completely
+[ 2017.02.12 03:11:24 ] (combat) Pithi Destructor misses you completely
+[ 2017.02.12 03:11:25 ] (notify) Drones engaging Pithi Destructor
+[ 2017.02.12 03:11:26 ] (combat) Your Hammerhead II misses Pithi Plunderer completely - Hammerhead II
+[ 2017.02.12 03:11:27 ] (combat) Pithior Guerilla misses you completely
+[ 2017.02.12 03:11:27 ] (combat) Pithior Anarchist misses you completely
+[ 2017.02.12 03:11:27 ] (combat) Your group of Dual 150mm Railgun II misses Pithi Destructor completely - Dual 150mm Railgun II
+[ 2017.02.12 03:11:28 ] (combat) Pithi Destructor misses you completely
+[ 2017.02.12 03:11:29 ] (combat) Pithior Anarchist misses you completely
+[ 2017.02.12 03:11:29 ] (combat) Pithior Guerilla misses you completely
+[ 2017.02.12 03:11:30 ] (combat) Your group of Dual 150mm Railgun II misses Pithi Destructor completely - Dual 150mm Railgun II
+[ 2017.02.12 03:11:30 ] (combat) <color=0xff00ffff><b>88</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Pithi Destructor</b><font size=10><color=0x77ffffff> - Hammerhead II - Grazes
+[ 2017.02.12 03:11:31 ] (combat) Pithi Destructor misses you completely
+[ 2017.02.12 03:11:32 ] (combat) Pithior Anarchist misses you completely
+[ 2017.02.12 03:11:32 ] (combat) Pithi Destructor misses you completely
+[ 2017.02.12 03:11:32 ] (combat) <color=0xffcc0000><b>42</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Pithior Guerilla</b><font size=10><color=0x77ffffff> - Penetrates
+[ 2017.02.12 03:11:33 ] (combat) <color=0xff00ffff><b>91</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Pithi Destructor</b><font size=10><color=0x77ffffff> - Hammerhead II - Grazes
+[ 2017.02.12 03:11:33 ] (combat) Your group of Dual 150mm Railgun II misses Pithi Destructor completely - Dual 150mm Railgun II
+[ 2017.02.12 03:11:34 ] (combat) Your Hammerhead II misses Pithi Destructor completely - Hammerhead II
+[ 2017.02.12 03:11:34 ] (combat) Pithior Anarchist misses you completely
+[ 2017.02.12 03:11:35 ] (combat) <color=0xffcc0000><b>44</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Pithi Destructor</b><font size=10><color=0x77ffffff> - Scourge Light Missile - Hits
+[ 2017.02.12 03:11:35 ] (combat) Your Hammerhead II misses Pithi Destructor completely - Hammerhead II
+[ 2017.02.12 03:11:35 ] (combat) <color=0xff00ffff><b>160</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Pithi Destructor</b><font size=10><color=0x77ffffff> - Hammerhead II - Hits
+[ 2017.02.12 03:11:35 ] (combat) <color=0xff00ffff><b>221</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Pithi Destructor</b><font size=10><color=0x77ffffff> - Hammerhead II - Penetrates
+[ 2017.02.12 03:11:35 ] (combat) Pithi Destructor misses you completely
+[ 2017.02.12 03:11:35 ] (combat) Pithior Guerilla misses you completely
+[ 2017.02.12 03:11:35 ] (combat) <color=0xffcc0000><b>11</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Pithi Destructor</b><font size=10><color=0x77ffffff> - Grazes
+[ 2017.02.12 03:11:35 ] (combat) Your group of Dual 150mm Railgun II misses Pithi Destructor completely - Dual 150mm Railgun II
+[ 2017.02.12 03:11:37 ] (combat) <color=0xffcc0000><b>44</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Pithi Destructor</b><font size=10><color=0x77ffffff> - Scourge Light Missile - Hits
+[ 2017.02.12 03:11:37 ] (combat) Your Hammerhead II misses Pithi Destructor completely - Hammerhead II
+[ 2017.02.12 03:11:37 ] (combat) Pithior Anarchist misses you completely
+[ 2017.02.12 03:11:38 ] (combat) <color=0xffcc0000><b>35</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Pithi Plunderer</b><font size=10><color=0x77ffffff> - Scourge Rocket - Hits
+[ 2017.02.12 03:11:38 ] (combat) <color=0xffcc0000><b>42</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Pithior Guerilla</b><font size=10><color=0x77ffffff> - Penetrates
+[ 2017.02.12 03:11:38 ] (combat) Your Hammerhead II misses Pithi Destructor completely - Hammerhead II
+[ 2017.02.12 03:11:38 ] (combat) Your group of Dual 150mm Railgun II misses Pithi Destructor completely - Dual 150mm Railgun II
+[ 2017.02.12 03:11:38 ] (combat) Pithi Destructor misses you completely
+[ 2017.02.12 03:11:39 ] (combat) <color=0xffcc0000><b>0</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Pithi Plunderer</b><font size=10><color=0x77ffffff> - Hits
+[ 2017.02.12 03:11:39 ] (combat) <color=0xff00ffff><b>153</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Pithi Destructor</b><font size=10><color=0x77ffffff> - Hammerhead II - Glances Off
+[ 2017.02.12 03:11:39 ] (combat) <color=0xff00ffff><b>24</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Pithi Destructor</b><font size=10><color=0x77ffffff> - Hammerhead II - Glances Off
+[ 2017.02.12 03:11:39 ] (combat) Pithi Destructor misses you completely
+[ 2017.02.12 03:11:39 ] (combat) <color=0xffcc0000><b>20</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Pithior Anarchist</b><font size=10><color=0x77ffffff> - Glances Off
+[ 2017.02.12 03:11:40 ] (combat) <color=0xffcc0000><b>23</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Pithior Guerilla</b><font size=10><color=0x77ffffff> - Glances Off
+[ 2017.02.12 03:11:42 ] (combat) <color=0xffcc0000><b>35</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Pithi Plunderer</b><font size=10><color=0x77ffffff> - Scourge Rocket - Hits
+[ 2017.02.12 03:11:42 ] (combat) <color=0xffcc0000><b>0</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Pithi Plunderer</b><font size=10><color=0x77ffffff> - Hits
+[ 2017.02.12 03:11:42 ] (combat) Pithior Anarchist misses you completely
+[ 2017.02.12 03:11:42 ] (combat) Pithi Destructor misses you completely
+[ 2017.02.12 03:11:42 ] (notify) Drones engaging Pithi Plunderer
+[ 2017.02.12 03:11:43 ] (combat) <color=0xffcc0000><b>39</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Pithior Guerilla</b><font size=10><color=0x77ffffff> - Penetrates
+[ 2017.02.12 03:11:44 ] (combat) <color=0xffcc0000><b>35</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Pithi Plunderer</b><font size=10><color=0x77ffffff> - Scourge Rocket - Hits
+[ 2017.02.12 03:11:44 ] (combat) Your group of Dual 150mm Railgun II misses Pithi Plunderer completely - Dual 150mm Railgun II
+[ 2017.02.12 03:11:44 ] (combat) Pithior Anarchist misses you completely
+[ 2017.02.12 03:11:46 ] (combat) Pithi Destructor misses you completely
+[ 2017.02.12 03:11:46 ] (combat) <color=0xffcc0000><b>36</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Pithior Guerilla</b><font size=10><color=0x77ffffff> - Penetrates
+[ 2017.02.12 03:11:47 ] (combat) <color=0xffcc0000><b>35</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Pithi Plunderer</b><font size=10><color=0x77ffffff> - Scourge Rocket - Hits
+[ 2017.02.12 03:11:47 ] (combat) <color=0xff00ffff><b>140</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Pithi Plunderer</b><font size=10><color=0x77ffffff> - Hammerhead II - Hits
+[ 2017.02.12 03:11:47 ] (combat) Your group of Dual 150mm Railgun II misses Pithi Plunderer completely - Dual 150mm Railgun II
+[ 2017.02.12 03:11:47 ] (combat) Pithior Anarchist misses you completely
+[ 2017.02.12 03:11:49 ] (combat) Your Hammerhead II misses Pithi Plunderer completely - Hammerhead II
+[ 2017.02.12 03:11:49 ] (combat) <color=0xffcc0000><b>32</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Pithior Guerilla</b><font size=10><color=0x77ffffff> - Hits
+[ 2017.02.12 03:11:49 ] (combat) <color=0xffcc0000><b>24</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Pithior Anarchist</b><font size=10><color=0x77ffffff> - Hits
+[ 2017.02.12 03:11:50 ] (combat) <color=0xff00ffff><b>143</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Pithi Plunderer</b><font size=10><color=0x77ffffff> - Hammerhead II - Hits
+[ 2017.02.12 03:11:50 ] (combat) Pithi Demolisher misses you completely
+[ 2017.02.12 03:11:50 ] (combat) Your Hammerhead II misses Pithi Plunderer completely - Hammerhead II
+[ 2017.02.12 03:11:50 ] (combat) <color=0xff00ffff><b>138</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Pithi Plunderer</b><font size=10><color=0x77ffffff> - Hammerhead II - Glances Off
+[ 2017.02.12 03:11:50 ] (combat) Your group of Dual 150mm Railgun II misses Pithi Plunderer completely - Dual 150mm Railgun II
+[ 2017.02.12 03:11:51 ] (combat) Your Hammerhead II misses Pithi Plunderer completely - Hammerhead II
+[ 2017.02.12 03:11:51 ] (combat) <color=0xffcc0000><b>19</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Pithior Guerilla</b><font size=10><color=0x77ffffff> - Grazes
+[ 2017.02.12 03:11:52 ] (combat) Pithior Anarchist misses you completely
+[ 2017.02.12 03:11:52 ] (combat) Your group of Dual 150mm Railgun II misses Pithi Plunderer completely - Dual 150mm Railgun II
+[ 2017.02.12 03:11:53 ] (combat) <color=0xff00ffff><b>130</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Pithi Plunderer</b><font size=10><color=0x77ffffff> - Hammerhead II - Penetrates
+[ 2017.02.12 03:11:53 ] (combat) Pithi Demolisher misses you completely
+[ 2017.02.12 03:11:54 ] (combat) <color=0xffcc0000><b>50</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Pithior Guerilla</b><font size=10><color=0x77ffffff> - Smashes
+[ 2017.02.12 03:11:54 ] (combat) <color=0xffcc0000><b>21</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Pithior Anarchist</b><font size=10><color=0x77ffffff> - Hits
+[ 2017.02.12 03:11:56 ] (notify) Drones engaging Pithi Plunderer
+[ 2017.02.12 03:11:57 ] (combat) Pithi Demolisher misses you completely
+[ 2017.02.12 03:11:57 ] (combat) Pithior Anarchist misses you completely
+[ 2017.02.12 03:11:57 ] (combat) <color=0xffcc0000><b>20</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Pithior Guerilla</b><font size=10><color=0x77ffffff> - Grazes
+[ 2017.02.12 03:11:58 ] (combat) Your Hammerhead II misses Pithi Plunderer completely - Hammerhead II
+[ 2017.02.12 03:11:58 ] (combat) <color=0xff00ffff><b>95</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Pithi Plunderer</b><font size=10><color=0x77ffffff> - Hammerhead II - Grazes
+[ 2017.02.12 03:11:58 ] (combat) <color=0xff00ffff><b>121</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Pithi Plunderer</b><font size=10><color=0x77ffffff> - Hammerhead II - Glances Off
+[ 2017.02.12 03:11:58 ] (combat) Your Hammerhead II misses Pithi Plunderer completely - Hammerhead II
+[ 2017.02.12 03:11:58 ] (combat) Your group of Dual 150mm Railgun II misses Pithi Plunderer completely - Dual 150mm Railgun II
+[ 2017.02.12 03:11:59 ] (combat) Pithior Anarchist misses you completely
+[ 2017.02.12 03:12:00 ] (combat) <color=0xffcc0000><b>39</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Pithior Guerilla</b><font size=10><color=0x77ffffff> - Penetrates
+[ 2017.02.12 03:12:00 ] (combat) Pithi Demolisher misses you completely
+[ 2017.02.12 03:12:00 ] (combat) <color=0xff00ffff><b>93</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Pithi Plunderer</b><font size=10><color=0x77ffffff> - Hammerhead II - Grazes
+[ 2017.02.12 03:12:01 ] (combat) Your group of Dual 150mm Railgun II misses Pithi Plunderer completely - Dual 150mm Railgun II
+[ 2017.02.12 03:12:02 ] (combat) <color=0xffcc0000><b>17</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Pithior Anarchist</b><font size=10><color=0x77ffffff> - Grazes
+[ 2017.02.12 03:12:02 ] (combat) <color=0xff00ffff><b>115</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Pithi Plunderer</b><font size=10><color=0x77ffffff> - Hammerhead II - Glances Off
+[ 2017.02.12 03:12:02 ] (combat) <color=0xff00ffff><b>150</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Pithi Plunderer</b><font size=10><color=0x77ffffff> - Hammerhead II - Penetrates
+[ 2017.02.12 03:12:03 ] (combat) <color=0xffcc0000><b>38</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Pithior Guerilla</b><font size=10><color=0x77ffffff> - Penetrates
+[ 2017.02.12 03:12:04 ] (combat) Pithi Demolisher misses you completely
+[ 2017.02.12 03:12:04 ] (combat) Pithior Anarchist misses you completely
+[ 2017.02.12 03:12:05 ] (combat) <color=0xffcc0000><b>49</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Pithior Guerilla</b><font size=10><color=0x77ffffff> - Smashes
+[ 2017.02.12 03:12:06 ] (combat) <color=0xffcc0000><b>12</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Pithi Destructor</b><font size=10><color=0x77ffffff> - Glances Off
+[ 2017.02.12 03:12:07 ] (combat) Pithior Anarchist misses you completely
+[ 2017.02.12 03:12:07 ] (combat) Your group of Dual 150mm Railgun II misses Pithior Anarchist completely - Dual 150mm Railgun II
+[ 2017.02.12 03:12:07 ] (combat) Pithi Demolisher misses you completely
+[ 2017.02.12 03:12:08 ] (combat) <color=0xffcc0000><b>28</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Pithior Guerilla</b><font size=10><color=0x77ffffff> - Hits
+[ 2017.02.12 03:12:09 ] (combat) <color=0xffcc0000><b>10</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Pithi Destructor</b><font size=10><color=0x77ffffff> - Grazes
+[ 2017.02.12 03:12:10 ] (combat) <color=0xff00ffff><b>135</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Pithior Anarchist</b><font size=10><color=0x77ffffff> - Hammerhead II - Hits
+[ 2017.02.12 03:12:10 ] (combat) <color=0xffcc0000><b>17</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Pithior Anarchist</b><font size=10><color=0x77ffffff> - Grazes
+[ 2017.02.12 03:12:10 ] (combat) Your group of Dual 150mm Railgun II misses Pithior Anarchist completely - Dual 150mm Railgun II
+[ 2017.02.12 03:12:11 ] (combat) <color=0xff00ffff><b>153</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Pithi Destructor</b><font size=10><color=0x77ffffff> - Hammerhead II - Hits
+[ 2017.02.12 03:12:11 ] (combat) Pithi Demolisher misses you completely
+[ 2017.02.12 03:12:11 ] (combat) Pithior Guerilla misses you completely
+[ 2017.02.12 03:12:12 ] (combat) Pithior Anarchist misses you completely
+[ 2017.02.12 03:12:12 ] (notify) Drones engaging Pithior Anarchist
+[ 2017.02.12 03:12:13 ] (combat) <color=0xff00ffff><b>123</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Pithior Anarchist</b><font size=10><color=0x77ffffff> - Hammerhead II - Glances Off
+[ 2017.02.12 03:12:13 ] (combat) <color=0xff00ffff><b>145</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Pithi Destructor</b><font size=10><color=0x77ffffff> - Hammerhead II - Hits
+[ 2017.02.12 03:12:13 ] (combat) Pithi Destructor misses you completely
+[ 2017.02.12 03:12:13 ] (combat) Your group of Dual 150mm Railgun II misses Pithior Anarchist completely - Dual 150mm Railgun II
+[ 2017.02.12 03:12:14 ] (combat) <color=0xff00ffff><b>219</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Pithior Anarchist</b><font size=10><color=0x77ffffff> - Hammerhead II - Smashes
+[ 2017.02.12 03:12:14 ] (combat) <color=0xffcc0000><b>41</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Pithior Guerilla</b><font size=10><color=0x77ffffff> - Penetrates
+[ 2017.02.12 03:12:14 ] (combat) Pithi Demolisher misses you completely
+[ 2017.02.12 03:12:15 ] (combat) <color=0xffcc0000><b>17</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Pithior Anarchist</b><font size=10><color=0x77ffffff> - Glances Off
+[ 2017.02.12 03:12:16 ] (combat) <color=0xff00ffff><b>281</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Pithior Anarchist</b><font size=10><color=0x77ffffff> - Hammerhead II - Smashes
+[ 2017.02.12 03:12:16 ] (combat) Your group of Dual 150mm Railgun II misses Pithior Anarchist completely - Dual 150mm Railgun II
+[ 2017.02.12 03:12:16 ] (combat) <color=0xffcc0000><b>13</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Pithi Destructor</b><font size=10><color=0x77ffffff> - Glances Off
+[ 2017.02.12 03:12:16 ] (combat) <color=0xffcc0000><b>22</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Pithior Guerilla</b><font size=10><color=0x77ffffff> - Grazes
+[ 2017.02.12 03:12:17 ] (combat) <color=0xffcc0000><b>44</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Pithi Destructor</b><font size=10><color=0x77ffffff> - Scourge Light Missile - Hits
+[ 2017.02.12 03:12:17 ] (combat) Your Hammerhead II misses Pithior Anarchist completely - Hammerhead II
+[ 2017.02.12 03:12:17 ] (combat) <color=0xffcc0000><b>14</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Pithior Anarchist</b><font size=10><color=0x77ffffff> - Grazes
+[ 2017.02.12 03:12:18 ] (combat) <color=0xff00ffff><b>18</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Pithior Anarchist</b><font size=10><color=0x77ffffff> - Hammerhead II - Smashes
+[ 2017.02.12 03:12:18 ] (combat) <color=0xffcc0000><b>15</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Pithi Demolisher</b><font size=10><color=0x77ffffff> - Grazes
+[ 2017.02.12 03:12:19 ] (combat) <color=0xffcc0000><b>40</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Pithior Guerilla</b><font size=10><color=0x77ffffff> - Penetrates
+[ 2017.02.12 03:12:20 ] (combat) Pithi Destructor misses you completely
+[ 2017.02.12 03:12:21 ] (combat) Pithi Demolisher misses you completely
+[ 2017.02.12 03:12:21 ] (notify) Drones engaging Pithior Guerilla
+[ 2017.02.12 03:12:22 ] (combat) <color=0xffcc0000><b>19</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Pithior Guerilla</b><font size=10><color=0x77ffffff> - Grazes
+[ 2017.02.12 03:12:22 ] (combat) Your group of Dual 150mm Railgun II misses Pithior Guerilla completely - Dual 150mm Railgun II
+[ 2017.02.12 03:12:23 ] (combat) Pithi Destructor misses you completely
+[ 2017.02.12 03:12:25 ] (combat) Pithi Demolisher misses you completely
+[ 2017.02.12 03:12:25 ] (combat) <color=0xffcc0000><b>37</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Pithior Guerilla</b><font size=10><color=0x77ffffff> - Penetrates
+[ 2017.02.12 03:12:25 ] (combat) <color=0xff00ffff><b>62</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Pithior Guerilla</b><font size=10><color=0x77ffffff> - Dual 150mm Railgun II - Grazes
+[ 2017.02.12 03:12:27 ] (combat) Pithi Destructor misses you completely
+[ 2017.02.12 03:12:28 ] (combat) <color=0xffcc0000><b>36</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Pithior Guerilla</b><font size=10><color=0x77ffffff> - Penetrates
+[ 2017.02.12 03:12:28 ] (combat) <color=0xff00ffff><b>98</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Pithior Guerilla</b><font size=10><color=0x77ffffff> - Dual 150mm Railgun II - Grazes
+[ 2017.02.12 03:12:28 ] (combat) <color=0xffcc0000><b>19</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Pithi Demolisher</b><font size=10><color=0x77ffffff> - Glances Off
+[ 2017.02.12 03:12:30 ] (combat) <color=0xff00ffff><b>160</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Pithior Guerilla</b><font size=10><color=0x77ffffff> - Hammerhead II - Hits
+[ 2017.02.12 03:12:30 ] (combat) <color=0xffcc0000><b>12</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Pithi Destructor</b><font size=10><color=0x77ffffff> - Glances Off
+[ 2017.02.12 03:12:30 ] (combat) <color=0xffcc0000><b>45</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Pithior Guerilla</b><font size=10><color=0x77ffffff> - Penetrates
+[ 2017.02.12 03:12:31 ] (combat) <color=0xff00ffff><b>80</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Pithior Guerilla</b><font size=10><color=0x77ffffff> - Dual 150mm Railgun II - Grazes
+[ 2017.02.12 03:12:32 ] (notify) Drones engaging Pithior Guerilla
+[ 2017.02.12 03:12:32 ] (combat) <color=0xff00ffff><b>123</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Pithior Guerilla</b><font size=10><color=0x77ffffff> - Hammerhead II - Glances Off
+[ 2017.02.12 03:12:32 ] (combat) <color=0xff00ffff><b>213</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Pithior Guerilla</b><font size=10><color=0x77ffffff> - Hammerhead II - Penetrates
+[ 2017.02.12 03:12:32 ] (combat) Pithi Demolisher misses you completely
+[ 2017.02.12 03:12:33 ] (combat) <color=0xff00ffff><b>40</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Pithior Guerilla</b><font size=10><color=0x77ffffff> - Hammerhead II - Grazes
+[ 2017.02.12 03:12:34 ] (combat) <color=0xffcc0000><b>19</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Pithi Destructor</b><font size=10><color=0x77ffffff> - Penetrates
+[ 2017.02.12 03:12:35 ] (combat) Pithi Demolisher misses you completely
+[ 2017.02.12 03:12:36 ] (combat) <color=0xffcc0000><b>44</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Pithi Destructor</b><font size=10><color=0x77ffffff> - Scourge Light Missile - Hits
+[ 2017.02.12 03:12:37 ] (combat) Pithi Destructor misses you completely
+[ 2017.02.12 03:12:39 ] (combat) Pithi Demolisher misses you completely
+[ 2017.02.12 03:12:41 ] (combat) <color=0xffcc0000><b>39</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Pithi Wrecker</b><font size=10><color=0x77ffffff> - Scourge Rocket - Hits
+[ 2017.02.12 03:12:41 ] (combat) <color=0xff00ffff><b>127</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Pithi Destructor</b><font size=10><color=0x77ffffff> - Hammerhead II - Glances Off
+[ 2017.02.12 03:12:41 ] (combat) <color=0xffcc0000><b>13</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Pithi Destructor</b><font size=10><color=0x77ffffff> - Hits
+[ 2017.02.12 03:12:42 ] (combat) <color=0xffcc0000><b>76</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Pithi Demolisher</b><font size=10><color=0x77ffffff> - Wrecks
+[ 2017.02.12 03:12:43 ] (combat) Your Hammerhead II misses Pithi Destructor completely - Hammerhead II
+[ 2017.02.12 03:12:44 ] (combat) Your Hammerhead II misses Pithi Destructor completely - Hammerhead II
+[ 2017.02.12 03:12:44 ] (combat) <color=0xffcc0000><b>0</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Pithi Wrecker</b><font size=10><color=0x77ffffff> - Hits
+[ 2017.02.12 03:12:44 ] (combat) <color=0xff00ffff><b>153</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Pithi Destructor</b><font size=10><color=0x77ffffff> - Hammerhead II - Hits
+[ 2017.02.12 03:12:44 ] (combat) Your group of Dual 150mm Railgun II misses Pithi Destructor completely - Dual 150mm Railgun II
+[ 2017.02.12 03:12:44 ] (combat) <color=0xffcc0000><b>9</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Pithi Destructor</b><font size=10><color=0x77ffffff> - Grazes
+[ 2017.02.12 03:12:45 ] (combat) <color=0xff00ffff><b>130</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Pithi Destructor</b><font size=10><color=0x77ffffff> - Hammerhead II - Glances Off
+[ 2017.02.12 03:12:46 ] (combat) <color=0xffcc0000><b>39</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Pithi Wrecker</b><font size=10><color=0x77ffffff> - Scourge Rocket - Hits
+[ 2017.02.12 03:12:46 ] (combat) <color=0xffcc0000><b>20</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Pithi Demolisher</b><font size=10><color=0x77ffffff> - Hits
+[ 2017.02.12 03:12:49 ] (combat) <color=0xffcc0000><b>29</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Pithi Demolisher</b><font size=10><color=0x77ffffff> - Penetrates
+[ 2017.02.12 03:12:50 ] (combat) <color=0xffcc0000><b>39</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Pithi Wrecker</b><font size=10><color=0x77ffffff> - Scourge Rocket - Hits
+[ 2017.02.12 03:12:50 ] (notify) Drones engaging Pithi Wrecker
+[ 2017.02.12 03:12:52 ] (combat) Your group of Dual 150mm Railgun II misses Pithi Wrecker completely - Dual 150mm Railgun II
+[ 2017.02.12 03:12:53 ] (combat) <color=0xffcc0000><b>20</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Pithi Demolisher</b><font size=10><color=0x77ffffff> - Hits
+[ 2017.02.12 03:12:54 ] (combat) Your group of Dual 150mm Railgun II misses Pithi Wrecker completely - Dual 150mm Railgun II
+[ 2017.02.12 03:12:55 ] (combat) <color=0xffcc0000><b>39</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Pithi Wrecker</b><font size=10><color=0x77ffffff> - Scourge Rocket - Hits
+[ 2017.02.12 03:12:56 ] (combat) <color=0xff00ffff><b>180</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Pithi Wrecker</b><font size=10><color=0x77ffffff> - Hammerhead II - Penetrates
+[ 2017.02.12 03:12:56 ] (combat) <color=0xff00ffff><b>128</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Pithi Wrecker</b><font size=10><color=0x77ffffff> - Hammerhead II - Glances Off
+[ 2017.02.12 03:12:56 ] (combat) <color=0xff00ffff><b>148</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Pithi Wrecker</b><font size=10><color=0x77ffffff> - Hammerhead II - Hits
+[ 2017.02.12 03:12:56 ] (combat) <color=0xff00ffff><b>194</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Pithi Wrecker</b><font size=10><color=0x77ffffff> - Hammerhead II - Penetrates
+[ 2017.02.12 03:13:02 ] (combat) <color=0xff00ffff><b>89</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Pithi Demolisher</b><font size=10><color=0x77ffffff> - Hammerhead II - Grazes
+[ 2017.02.12 03:13:02 ] (combat) Your Hammerhead II misses Pithi Wrecker completely - Hammerhead II
+[ 2017.02.12 03:13:02 ] (combat) Your Hammerhead II misses Pithi Wrecker completely - Hammerhead II
+[ 2017.02.12 03:13:02 ] (combat) <color=0xff00ffff><b>214</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Pithi Wrecker</b><font size=10><color=0x77ffffff> - Hammerhead II - Penetrates
+[ 2017.02.12 03:13:02 ] (combat) <color=0xff00ffff><b>192</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Pithi Wrecker</b><font size=10><color=0x77ffffff> - Hammerhead II - Penetrates
+[ 2017.02.12 03:13:06 ] (combat) <color=0xff00ffff><b>104</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Pithi Demolisher</b><font size=10><color=0x77ffffff> - Hammerhead II - Grazes
+[ 2017.02.12 03:13:06 ] (combat) Your Hammerhead II misses Pithi Wrecker completely - Hammerhead II
+[ 2017.02.12 03:13:06 ] (combat) <color=0xff00ffff><b>164</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Pithi Wrecker</b><font size=10><color=0x77ffffff> - Hammerhead II - Hits
+[ 2017.02.12 03:13:06 ] (combat) <color=0xff00ffff><b>80</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Pithi Wrecker</b><font size=10><color=0x77ffffff> - Hammerhead II - Hits
+[ 2017.02.12 03:13:07 ] (combat) Your group of Dual 150mm Railgun II misses Pithi Plunderer completely - Dual 150mm Railgun II
+[ 2017.02.12 03:13:10 ] (combat) <color=0xff00ffff><b>194</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Pithi Demolisher</b><font size=10><color=0x77ffffff> - Hammerhead II - Penetrates
+[ 2017.02.12 03:13:10 ] (combat) Your group of Dual 150mm Railgun II misses Pithi Plunderer completely - Dual 150mm Railgun II
+[ 2017.02.12 03:13:13 ] (combat) Your Hammerhead II misses Pithi Demolisher completely - Hammerhead II
+[ 2017.02.12 03:13:13 ] (combat) Your group of Dual 150mm Railgun II misses Pithi Plunderer completely - Dual 150mm Railgun II
+[ 2017.02.12 03:13:14 ] (combat) <color=0xff00ffff><b>178</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Pithi Demolisher</b><font size=10><color=0x77ffffff> - Hammerhead II - Penetrates
+[ 2017.02.12 03:13:15 ] (combat) Your Hammerhead II misses Pithi Demolisher completely - Hammerhead II
+[ 2017.02.12 03:13:16 ] (combat) Your Hammerhead II misses Pithi Demolisher completely - Hammerhead II
+[ 2017.02.12 03:13:16 ] (combat) Your Hammerhead II misses Pithi Demolisher completely - Hammerhead II
+[ 2017.02.12 03:13:16 ] (combat) Your group of Dual 150mm Railgun II misses Pithi Plunderer completely - Dual 150mm Railgun II
+[ 2017.02.12 03:13:17 ] (combat) <color=0xff00ffff><b>200</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Pithi Demolisher</b><font size=10><color=0x77ffffff> - Hammerhead II - Hits
+[ 2017.02.12 03:13:18 ] (combat) Your Hammerhead II misses Pithi Demolisher completely - Hammerhead II
+[ 2017.02.12 03:13:19 ] (combat) Your Hammerhead II misses Pithi Demolisher completely - Hammerhead II
+[ 2017.02.12 03:13:19 ] (combat) Your group of Dual 150mm Railgun II misses Pithi Plunderer completely - Dual 150mm Railgun II
+[ 2017.02.12 03:13:20 ] (combat) <color=0xff00ffff><b>14</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Pithi Demolisher</b><font size=10><color=0x77ffffff> - Hammerhead II - Grazes
+[ 2017.02.12 03:13:21 ] (combat) Your group of Dual 150mm Railgun II misses Pithi Plunderer completely - Dual 150mm Railgun II
+[ 2017.02.12 03:13:21 ] (notify) Drones engaging Pithi Plunderer
+[ 2017.02.12 03:13:24 ] (combat) Your group of Dual 150mm Railgun II misses Pithi Plunderer completely - Dual 150mm Railgun II
+[ 2017.02.12 03:13:25 ] (combat) Your Hammerhead II misses Pithi Plunderer completely - Hammerhead II
+[ 2017.02.12 03:13:26 ] (combat) <color=0xff00ffff><b>150</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Pithi Plunderer</b><font size=10><color=0x77ffffff> - Hammerhead II - Hits
+[ 2017.02.12 03:13:26 ] (combat) <color=0xff00ffff><b>182</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Pithi Plunderer</b><font size=10><color=0x77ffffff> - Hammerhead II - Penetrates
+[ 2017.02.12 03:13:27 ] (combat) <color=0xff00ffff><b>126</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Pithi Plunderer</b><font size=10><color=0x77ffffff> - Hammerhead II - Glances Off
+[ 2017.02.12 03:13:27 ] (combat) <color=0xff00ffff><b>92</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Pithi Plunderer</b><font size=10><color=0x77ffffff> - Hammerhead II - Glances Off
+[ 2017.02.12 03:14:07 ] (notify) Loading the Advanced Railgun Charge into the Hybrid Weapon; this will take approximately 5 seconds.
+[ 2017.02.12 03:15:16 ] (notify) Drones engaging Pithum Silencer
+[ 2017.02.12 03:15:31 ] (combat) <color=0xff00ffff><b>188</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Pithum Silencer</b><font size=10><color=0x77ffffff> - Hammerhead II - Smashes
+[ 2017.02.12 03:15:31 ] (combat) <color=0xff00ffff><b>202</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Pithum Silencer</b><font size=10><color=0x77ffffff> - Hammerhead II - Smashes
+[ 2017.02.12 03:15:31 ] (combat) <color=0xff00ffff><b>152</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Pithum Silencer</b><font size=10><color=0x77ffffff> - Hammerhead II - Penetrates
+[ 2017.02.12 03:15:31 ] (combat) <color=0xff00ffff><b>126</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Pithum Silencer</b><font size=10><color=0x77ffffff> - Hammerhead II - Hits
+[ 2017.02.12 03:15:32 ] (combat) <color=0xff00ffff><b>135</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Pithum Silencer</b><font size=10><color=0x77ffffff> - Hammerhead II - Hits
+[ 2017.02.12 03:15:35 ] (combat) Your Hammerhead II misses Pithum Silencer completely - Hammerhead II
+[ 2017.02.12 03:15:35 ] (combat) <color=0xff00ffff><b>98</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Pithum Silencer</b><font size=10><color=0x77ffffff> - Hammerhead II - Glances Off
+[ 2017.02.12 03:15:35 ] (combat) Your Hammerhead II misses Pithum Silencer completely - Hammerhead II
+[ 2017.02.12 03:15:35 ] (combat) Your Hammerhead II misses Pithum Silencer completely - Hammerhead II
+[ 2017.02.12 03:15:36 ] (combat) Your Hammerhead II misses Pithum Silencer completely - Hammerhead II
+[ 2017.02.12 03:15:39 ] (combat) <color=0xff00ffff><b>108</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Pithum Silencer</b><font size=10><color=0x77ffffff> - Hammerhead II - Glances Off
+[ 2017.02.12 03:15:39 ] (combat) <color=0xff00ffff><b>195</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Pithum Silencer</b><font size=10><color=0x77ffffff> - Hammerhead II - Smashes
+[ 2017.02.12 03:15:39 ] (combat) <color=0xff00ffff><b>177</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Pithum Silencer</b><font size=10><color=0x77ffffff> - Hammerhead II - Penetrates
+[ 2017.02.12 03:15:39 ] (combat) <color=0xff00ffff><b>258</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Pithum Silencer</b><font size=10><color=0x77ffffff> - Hammerhead II - Penetrates
+[ 2017.02.12 03:15:40 ] (combat) Your Hammerhead II misses Pithum Silencer completely - Hammerhead II
+[ 2017.02.12 03:15:43 ] (combat) <color=0xff00ffff><b>134</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Pithum Silencer</b><font size=10><color=0x77ffffff> - Hammerhead II - Glances Off
+[ 2017.02.12 03:15:43 ] (combat) <color=0xff00ffff><b>199</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Pithum Silencer</b><font size=10><color=0x77ffffff> - Hammerhead II - Hits
+[ 2017.02.12 03:15:43 ] (combat) <color=0xff00ffff><b>109</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Pithum Silencer</b><font size=10><color=0x77ffffff> - Hammerhead II - Penetrates
+[ 2017.02.12 03:15:46 ] (notify) Drones engaging Pithi Wrecker
+[ 2017.02.12 03:15:48 ] (combat) <color=0xff00ffff><b>154</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Pithi Wrecker</b><font size=10><color=0x77ffffff> - Dual 150mm Railgun II - Hits
+[ 2017.02.12 03:15:50 ] (combat) <color=0xff00ffff><b>100</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Pithi Wrecker</b><font size=10><color=0x77ffffff> - Hammerhead II - Grazes
+[ 2017.02.12 03:15:50 ] (combat) <color=0xff00ffff><b>127</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Pithi Wrecker</b><font size=10><color=0x77ffffff> - Hammerhead II - Glances Off
+[ 2017.02.12 03:15:50 ] (combat) <color=0xff00ffff><b>270</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Pithi Wrecker</b><font size=10><color=0x77ffffff> - Hammerhead II - Smashes
+[ 2017.02.12 03:15:58 ] (notify) Drones engaging Pithi Demolisher
+[ 2017.02.12 03:15:59 ] (combat) Your Hammerhead II misses Pithi Demolisher completely - Hammerhead II
+[ 2017.02.12 03:15:59 ] (combat) Your group of Dual 150mm Railgun II misses Pithi Demolisher completely - Dual 150mm Railgun II
+[ 2017.02.12 03:16:01 ] (combat) <color=0xff00ffff><b>216</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Pithi Demolisher</b><font size=10><color=0x77ffffff> - Hammerhead II - Penetrates
+[ 2017.02.12 03:16:01 ] (combat) <color=0xff00ffff><b>201</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Pithi Demolisher</b><font size=10><color=0x77ffffff> - Hammerhead II - Penetrates
+[ 2017.02.12 03:16:02 ] (combat) <color=0xff00ffff><b>108</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Pithi Demolisher</b><font size=10><color=0x77ffffff> - Hammerhead II - Grazes
+[ 2017.02.12 03:16:02 ] (combat) <color=0xff00ffff><b>30</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Pithi Demolisher</b><font size=10><color=0x77ffffff> - Dual 150mm Railgun II - Grazes
+[ 2017.02.12 03:16:03 ] (combat) Your Hammerhead II misses Pithi Demolisher completely - Hammerhead II
+[ 2017.02.12 03:16:04 ] (combat) <color=0xff00ffff><b>135</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Pithi Demolisher</b><font size=10><color=0x77ffffff> - Hammerhead II - Glances Off
+[ 2017.02.12 03:16:05 ] (combat) <color=0xff00ffff><b>84</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Pithi Demolisher</b><font size=10><color=0x77ffffff> - Hammerhead II - Penetrates
+[ 2017.02.12 03:16:07 ] (combat) <color=0xff00ffff><b>132</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Pithi Wrecker</b><font size=10><color=0x77ffffff> - Hammerhead II - Glances Off
+[ 2017.02.12 03:16:08 ] (combat) <color=0xff00ffff><b>191</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Pithi Wrecker</b><font size=10><color=0x77ffffff> - Hammerhead II - Penetrates
+[ 2017.02.12 03:16:08 ] (combat) <color=0xff00ffff><b>145</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Pithi Wrecker</b><font size=10><color=0x77ffffff> - Hammerhead II - Hits
+[ 2017.02.12 03:16:08 ] (notify) Drones engaging Pithi Wrecker
+[ 2017.02.12 03:16:10 ] (combat) Your Hammerhead II misses Pithi Wrecker completely - Hammerhead II
+[ 2017.02.12 03:16:10 ] (combat) Your group of Dual 150mm Railgun II misses Pithi Wrecker completely - Dual 150mm Railgun II
+[ 2017.02.12 03:16:11 ] (combat) Your Hammerhead II misses Pithi Wrecker completely - Hammerhead II
+[ 2017.02.12 03:16:11 ] (combat) <color=0xff00ffff><b>138</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Pithi Wrecker</b><font size=10><color=0x77ffffff> - Hammerhead II - Glances Off
+[ 2017.02.12 03:16:12 ] (combat) <color=0xff00ffff><b>45</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Pithi Wrecker</b><font size=10><color=0x77ffffff> - Hammerhead II - Hits
+[ 2017.02.12 03:16:26 ] (combat) Your group of Dual 150mm Railgun II misses Pithi Infiltrator completely - Dual 150mm Railgun II
+[ 2017.02.12 03:16:29 ] (combat) Your group of Dual 150mm Railgun II misses Pithi Infiltrator completely - Dual 150mm Railgun II
+[ 2017.02.12 03:16:31 ] (combat) Your group of Dual 150mm Railgun II misses Pithi Infiltrator completely - Dual 150mm Railgun II
+[ 2017.02.12 03:16:31 ] (notify) Drones engaging Pithi Infiltrator
+[ 2017.02.12 03:16:34 ] (combat) Your group of Dual 150mm Railgun II misses Pithi Infiltrator completely - Dual 150mm Railgun II
+[ 2017.02.12 03:16:36 ] (combat) <color=0xff00ffff><b>130</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Pithi Infiltrator</b><font size=10><color=0x77ffffff> - Hammerhead II - Glances Off
+[ 2017.02.12 03:16:36 ] (combat) <color=0xff00ffff><b>95</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Pithi Infiltrator</b><font size=10><color=0x77ffffff> - Hammerhead II - Glances Off
+[ 2017.02.12 03:16:38 ] (notify) Drones engaging Pithi Plunderer
+[ 2017.02.12 03:16:42 ] (notify) Drones engaging Pithi Destructor
+[ 2017.02.12 03:16:45 ] (combat) <color=0xff00ffff><b>57</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Pithi Destructor</b><font size=10><color=0x77ffffff> - Dual 150mm Railgun II - Grazes
+[ 2017.02.12 03:16:46 ] (combat) <color=0xff00ffff><b>180</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Pithi Destructor</b><font size=10><color=0x77ffffff> - Hammerhead II - Penetrates
+[ 2017.02.12 03:16:46 ] (combat) Your Hammerhead II misses Pithi Destructor completely - Hammerhead II
+[ 2017.02.12 03:16:46 ] (combat) <color=0xff00ffff><b>119</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Pithi Destructor</b><font size=10><color=0x77ffffff> - Hammerhead II - Glances Off
+[ 2017.02.12 03:16:46 ] (combat) <color=0xff00ffff><b>148</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Pithi Destructor</b><font size=10><color=0x77ffffff> - Hammerhead II - Hits
+[ 2017.02.12 03:16:48 ] (combat) <color=0xff00ffff><b>114</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Pithi Destructor</b><font size=10><color=0x77ffffff> - Dual 150mm Railgun II - Grazes
+[ 2017.02.12 03:16:50 ] (combat) <color=0xff00ffff><b>57</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Pithi Destructor</b><font size=10><color=0x77ffffff> - Hammerhead II - Glances Off
+[ 2017.02.12 03:16:53 ] (notify) Drones engaging Pithi Invader
+[ 2017.02.12 03:16:55 ] (combat) <color=0xff00ffff><b>73</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Pithi Invader</b><font size=10><color=0x77ffffff> - Dual 150mm Railgun II - Grazes
+[ 2017.02.12 03:16:57 ] (combat) <color=0xff00ffff><b>93</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Pithi Invader</b><font size=10><color=0x77ffffff> - Hammerhead II - Grazes
+[ 2017.02.12 03:16:57 ] (combat) <color=0xff00ffff><b>151</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Pithi Invader</b><font size=10><color=0x77ffffff> - Hammerhead II - Penetrates
+[ 2017.02.12 03:17:04 ] (notify) Drones engaging Pithi Wrecker
+[ 2017.02.12 03:17:07 ] (combat) Your group of Dual 150mm Railgun II misses Pithi Wrecker completely - Dual 150mm Railgun II
+[ 2017.02.12 03:17:09 ] (combat) <color=0xff00ffff><b>179</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Pithi Wrecker</b><font size=10><color=0x77ffffff> - Hammerhead II - Penetrates
+[ 2017.02.12 03:17:09 ] (combat) <color=0xff00ffff><b>225</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Pithi Wrecker</b><font size=10><color=0x77ffffff> - Hammerhead II - Smashes
+[ 2017.02.12 03:17:09 ] (combat) <color=0xff00ffff><b>245</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Pithi Wrecker</b><font size=10><color=0x77ffffff> - Hammerhead II - Smashes
+[ 2017.02.12 03:17:12 ] (notify) Drones engaging Pithi Infiltrator
+[ 2017.02.12 03:17:14 ] (notify) You cannot activate that module as the target is no longer present.
+[ 2017.02.12 03:17:15 ] (combat) <color=0xff00ffff><b>138</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Pithi Infiltrator</b><font size=10><color=0x77ffffff> - Hammerhead II - Glances Off
+[ 2017.02.12 03:17:15 ] (combat) <color=0xff00ffff><b>87</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Pithi Infiltrator</b><font size=10><color=0x77ffffff> - Hammerhead II - Smashes
+[ 2017.02.12 03:17:17 ] (combat) <color=0xff00ffff><b>268</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Pithi Plunderer</b><font size=10><color=0x77ffffff> - Hammerhead II - Smashes
+[ 2017.02.12 03:17:17 ] (combat) <color=0xff00ffff><b>228</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Pithi Plunderer</b><font size=10><color=0x77ffffff> - Hammerhead II - Penetrates
+[ 2017.02.12 03:17:18 ] (notify) Drones engaging Pithi Plunderer
+[ 2017.02.12 03:17:20 ] (combat) Your group of Dual 150mm Railgun II misses Pithi Plunderer completely - Dual 150mm Railgun II
+[ 2017.02.12 03:17:20 ] (combat) <color=0xff00ffff><b>54</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Pithi Plunderer</b><font size=10><color=0x77ffffff> - Hammerhead II - Hits
+[ 2017.02.12 03:17:22 ] (notify) The target <b>Pithi Wrecker</b> is too far away. It must be within <b>60 km</b>.
+[ 2017.02.12 03:17:22 ] (notify) The target <b>Pithi Wrecker</b> is too far away. It must be within <b>60 km</b>.
+[ 2017.02.12 03:17:39 ] (notify) Drones engaging Pithum Mortifier
+[ 2017.02.12 03:17:42 ] (combat) Your group of Dual 150mm Railgun II misses Pithum Mortifier completely - Dual 150mm Railgun II
+[ 2017.02.12 03:17:44 ] (combat) Your group of Dual 150mm Railgun II misses Pithum Mortifier completely - Dual 150mm Railgun II
+[ 2017.02.12 03:17:47 ] (combat) Your group of Dual 150mm Railgun II misses Pithum Mortifier completely - Dual 150mm Railgun II
+[ 2017.02.12 03:17:50 ] (combat) <color=0xff00ffff><b>21</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Pithum Mortifier</b><font size=10><color=0x77ffffff> - Dual 150mm Railgun II - Grazes
+[ 2017.02.12 03:17:53 ] (combat) <color=0xff00ffff><b>24</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Pithum Mortifier</b><font size=10><color=0x77ffffff> - Dual 150mm Railgun II - Grazes
+[ 2017.02.12 03:17:56 ] (combat) <color=0xff00ffff><b>113</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Pithum Mortifier</b><font size=10><color=0x77ffffff> - Hammerhead II - Hits
+[ 2017.02.12 03:17:56 ] (combat) <color=0xff00ffff><b>145</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Pithum Mortifier</b><font size=10><color=0x77ffffff> - Hammerhead II - Penetrates
+[ 2017.02.12 03:17:56 ] (combat) <color=0xff00ffff><b>27</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Pithum Mortifier</b><font size=10><color=0x77ffffff> - Dual 150mm Railgun II - Grazes
+[ 2017.02.12 03:17:57 ] (combat) <color=0xff00ffff><b>109</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Pithum Mortifier</b><font size=10><color=0x77ffffff> - Hammerhead II - Hits
+[ 2017.02.12 03:17:57 ] (combat) <color=0xff00ffff><b>141</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Pithum Mortifier</b><font size=10><color=0x77ffffff> - Hammerhead II - Penetrates
+[ 2017.02.12 03:17:59 ] (combat) <color=0xff00ffff><b>21</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Pithum Mortifier</b><font size=10><color=0x77ffffff> - Dual 150mm Railgun II - Grazes
+[ 2017.02.12 03:18:00 ] (combat) <color=0xff00ffff><b>84</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Pithum Mortifier</b><font size=10><color=0x77ffffff> - Hammerhead II - Grazes
+[ 2017.02.12 03:18:00 ] (combat) <color=0xff00ffff><b>135</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Pithum Mortifier</b><font size=10><color=0x77ffffff> - Hammerhead II - Hits
+[ 2017.02.12 03:18:01 ] (combat) Your Hammerhead II misses Pithum Mortifier completely - Hammerhead II
+[ 2017.02.12 03:18:01 ] (combat) Your Hammerhead II misses Pithum Mortifier completely - Hammerhead II
+[ 2017.02.12 03:18:01 ] (combat) <color=0xff00ffff><b>84</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Pithum Mortifier</b><font size=10><color=0x77ffffff> - Dual 150mm Railgun II - Grazes
+[ 2017.02.12 03:18:04 ] (combat) <color=0xff00ffff><b>114</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Pithum Mortifier</b><font size=10><color=0x77ffffff> - Hammerhead II - Hits
+[ 2017.02.12 03:18:04 ] (combat) Your Hammerhead II misses Pithum Mortifier completely - Hammerhead II
+[ 2017.02.12 03:18:04 ] (combat) Your group of Dual 150mm Railgun II misses Pithum Mortifier completely - Dual 150mm Railgun II
+[ 2017.02.12 03:18:05 ] (combat) <color=0xff00ffff><b>180</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Pithum Mortifier</b><font size=10><color=0x77ffffff> - Hammerhead II - Smashes
+[ 2017.02.12 03:18:05 ] (combat) <color=0xff00ffff><b>108</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Pithum Mortifier</b><font size=10><color=0x77ffffff> - Hammerhead II - Hits
+[ 2017.02.12 03:18:07 ] (notify) Drones engaging Pithum Mortifier
+[ 2017.02.12 03:18:07 ] (combat) <color=0xff00ffff><b>37</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Pithum Mortifier</b><font size=10><color=0x77ffffff> - Dual 150mm Railgun II - Grazes
+[ 2017.02.12 03:18:08 ] (combat) <color=0xff00ffff><b>89</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Pithum Mortifier</b><font size=10><color=0x77ffffff> - Hammerhead II - Glances Off
+[ 2017.02.12 03:18:08 ] (combat) <color=0xff00ffff><b>136</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Pithum Mortifier</b><font size=10><color=0x77ffffff> - Hammerhead II - Hits
+[ 2017.02.12 03:18:09 ] (combat) <color=0xff00ffff><b>92</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Pithum Mortifier</b><font size=10><color=0x77ffffff> - Hammerhead II - Glances Off
+[ 2017.02.12 03:18:09 ] (combat) <color=0xff00ffff><b>113</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Pithum Mortifier</b><font size=10><color=0x77ffffff> - Hammerhead II - Hits
+[ 2017.02.12 03:18:10 ] (combat) <color=0xff00ffff><b>54</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Pithum Mortifier</b><font size=10><color=0x77ffffff> - Dual 150mm Railgun II - Grazes
+[ 2017.02.12 03:18:12 ] (combat) <color=0xff00ffff><b>151</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Pithum Mortifier</b><font size=10><color=0x77ffffff> - Hammerhead II - Penetrates
+[ 2017.02.12 03:18:12 ] (combat) <color=0xff00ffff><b>159</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Pithum Mortifier</b><font size=10><color=0x77ffffff> - Hammerhead II - Penetrates
+[ 2017.02.12 03:18:13 ] (combat) <color=0xff00ffff><b>147</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Pithum Mortifier</b><font size=10><color=0x77ffffff> - Hammerhead II - Penetrates
+[ 2017.02.12 03:18:13 ] (combat) <color=0xff00ffff><b>137</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Pithum Mortifier</b><font size=10><color=0x77ffffff> - Hammerhead II - Hits
+[ 2017.02.12 03:18:13 ] (combat) <color=0xff00ffff><b>21</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Pithum Mortifier</b><font size=10><color=0x77ffffff> - Dual 150mm Railgun II - Grazes
+[ 2017.02.12 03:18:16 ] (combat) <color=0xff00ffff><b>87</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Pithum Mortifier</b><font size=10><color=0x77ffffff> - Hammerhead II - Glances Off
+[ 2017.02.12 03:18:16 ] (combat) <color=0xff00ffff><b>104</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Pithum Mortifier</b><font size=10><color=0x77ffffff> - Hammerhead II - Hits
+[ 2017.02.12 03:18:16 ] (combat) <color=0xff00ffff><b>39</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Pithum Mortifier</b><font size=10><color=0x77ffffff> - Dual 150mm Railgun II - Grazes
+[ 2017.02.12 03:18:17 ] (combat) <color=0xff00ffff><b>98</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Pithum Mortifier</b><font size=10><color=0x77ffffff> - Hammerhead II - Glances Off
+[ 2017.02.12 03:18:17 ] (combat) <color=0xff00ffff><b>174</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Pithum Mortifier</b><font size=10><color=0x77ffffff> - Hammerhead II - Hits
+[ 2017.02.12 03:18:18 ] (combat) <color=0xff00ffff><b>190</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Pithum Mortifier</b><font size=10><color=0x77ffffff> - Dual 150mm Railgun II - Hits
+[ 2017.02.12 03:18:19 ] (combat) <color=0xffcc0000><b>0</b> <color=0x77ffffff><font size=10>from</font> <b><color=0xffffffff>Pithum Mortifier</b><font size=10><color=0x77ffffff> - Hits
+[ 2017.02.12 03:18:20 ] (combat) <color=0xff00ffff><b>242</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Pithum Mortifier</b><font size=10><color=0x77ffffff> - Hammerhead II - Smashes
+[ 2017.02.12 03:18:20 ] (combat) <color=0xff00ffff><b>246</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Pithum Mortifier</b><font size=10><color=0x77ffffff> - Hammerhead II - Penetrates
+[ 2017.02.12 03:18:21 ] (combat) <color=0xff00ffff><b>239</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Pithum Mortifier</b><font size=10><color=0x77ffffff> - Hammerhead II - Penetrates
+[ 2017.02.12 03:18:21 ] (combat) <color=0xff00ffff><b>181</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Pithum Mortifier</b><font size=10><color=0x77ffffff> - Hammerhead II - Hits
+[ 2017.02.12 03:18:22 ] (combat) Pithior Renegade misses you completely
+[ 2017.02.12 03:18:22 ] (notify) Drones engaging Pithior Renegade
+[ 2017.02.12 03:18:24 ] (combat) Pithior Renegade misses you completely
+[ 2017.02.12 03:18:24 ] (combat) <color=0xff00ffff><b>183</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Pithior Renegade</b><font size=10><color=0x77ffffff> - Dual 150mm Railgun II - Hits
+[ 2017.02.12 03:18:25 ] (combat) <color=0xff00ffff><b>122</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Pithior Renegade</b><font size=10><color=0x77ffffff> - Hammerhead II - Glances Off
+[ 2017.02.12 03:18:25 ] (combat) <color=0xff00ffff><b>198</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Pithior Renegade</b><font size=10><color=0x77ffffff> - Hammerhead II - Penetrates
+[ 2017.02.12 03:18:27 ] (combat) Pithior Renegade misses you completely
+[ 2017.02.12 03:18:27 ] (combat) <color=0xff00ffff><b>176</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Pithior Renegade</b><font size=10><color=0x77ffffff> - Dual 150mm Railgun II - Hits
+[ 2017.02.12 03:18:28 ] (combat) <color=0xff00ffff><b>96</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Pithior Renegade</b><font size=10><color=0x77ffffff> - Hammerhead II - Smashes
+[ 2017.02.12 03:18:31 ] (notify) Drones engaging Pithi Wrecker
+[ 2017.02.12 03:18:33 ] (combat) <color=0xff00ffff><b>32</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Pithi Wrecker</b><font size=10><color=0x77ffffff> - Dual 150mm Railgun II - Grazes
+[ 2017.02.12 03:18:36 ] (combat) <color=0xff00ffff><b>147</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Pithi Wrecker</b><font size=10><color=0x77ffffff> - Hammerhead II - Hits
+[ 2017.02.12 03:18:36 ] (combat) <color=0xff00ffff><b>214</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Pithi Wrecker</b><font size=10><color=0x77ffffff> - Dual 150mm Railgun II - Penetrates
+[ 2017.02.12 03:18:38 ] (combat) <color=0xff00ffff><b>254</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Pithi Wrecker</b><font size=10><color=0x77ffffff> - Hammerhead II - Penetrates
+[ 2017.02.12 03:18:38 ] (combat) <color=0xff00ffff><b>4</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Pithi Wrecker</b><font size=10><color=0x77ffffff> - Hammerhead II - Penetrates
+[ 2017.02.12 03:18:40 ] (notify) Drones engaging Pithi Wrecker
+[ 2017.02.12 03:18:42 ] (combat) <color=0xff00ffff><b>103</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Pithi Wrecker</b><font size=10><color=0x77ffffff> - Hammerhead II - Grazes
+[ 2017.02.12 03:18:42 ] (combat) <color=0xff00ffff><b>38</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Pithi Wrecker</b><font size=10><color=0x77ffffff> - Dual 150mm Railgun II - Grazes
+[ 2017.02.12 03:18:44 ] (combat) <color=0xff00ffff><b>210</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Pithi Wrecker</b><font size=10><color=0x77ffffff> - Hammerhead II - Penetrates
+[ 2017.02.12 03:18:44 ] (combat) <color=0xff00ffff><b>275</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Pithi Wrecker</b><font size=10><color=0x77ffffff> - Hammerhead II - Smashes
+[ 2017.02.12 03:18:44 ] (combat) <color=0xff00ffff><b>23</b> <color=0x77ffffff><font size=10>to</font> <b><color=0xffffffff>Pithi Wrecker</b><font size=10><color=0x77ffffff> - Hammerhead II - Glances Off
+[ 2017.02.12 03:19:04 ] (notify) You cannot do that while warping.
+[ 2017.02.12 03:19:41 ] (notify) Requested to dock at Amarr VI (Zorast) - Moon 2 - Theology Council Tribunal station
+[ 2017.02.12 03:19:42 ] (notify) Setting course to docking perimeter
+[ 2017.02.12 03:19:52 ] (notify) Your docking request has been accepted. Your ship will be towed into station.
+[ 2017.02.12 03:20:35 ] (question) Are you sure you want to log off?

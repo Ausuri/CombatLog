@@ -1481,7 +1481,8 @@ namespace CombatLog
 			SelectedIndexTimer.Tick += new EventHandler(SelectedIndexTimer_Tick);
 			AttackSelectedIndexTimer.Tick += new EventHandler(AttackSelectedIndexTimer_Tick);
 
-			DoAnalysisSummary();
+            //TODO: Fix This.
+			//DoAnalysisSummary();
 			tbPlayerNotes.Text = ThisGameLog.UserComment;
 		}
 
@@ -1879,17 +1880,18 @@ namespace CombatLog
 			{
 				Entries = cc.GetUniqueTargets();
 			}
+		    
+            //TODO: Fix this
+			//int itemCount = 0;
+			//foreach (string s in Entries)
+			//{
+			//	newItem = contextMenuTarget.MenuItems.Add(new TD.SandBar.MenuButtonItem(s, new System.EventHandler(this.contextMenu_Activate)));
 		
-			int itemCount = 0;
-			foreach (string s in Entries)
-			{
-				newItem = contextMenuTarget.MenuItems.Add(new TD.SandBar.MenuButtonItem(s, new System.EventHandler(this.contextMenu_Activate)));
-		
-				if ( itemCount == 0)
-					contextMenuTarget.MenuItems[newItem].BeginGroup = true;
+			//	if ( itemCount == 0)
+			//		contextMenuTarget.MenuItems[newItem].BeginGroup = true;
 						
-				itemCount++;
-			}
+			//	itemCount++;
+			//}
 		}
 		
 		private void PrepareWeaponContextMenu(CombatLogEntryCollection cc, GameLog g)
@@ -1953,18 +1955,19 @@ namespace CombatLog
 				Entries = cc.GetUniqueHitTypes();
 			}
 
-			string[] sortedEntries = HitTypeLib.Sort(Entries, SortOrder.Descending);
+            //TODO: Fix this.
+			//string[] sortedEntries = HitTypeLib.Sort(Entries, SortOrder.Descending);
 
-			int itemCount = 0;
-			foreach ( string s in sortedEntries )
-			{
-				newItem = contextMenuHitTypes.MenuItems.Add(new TD.SandBar.MenuButtonItem(s, new System.EventHandler(this.contextMenu_Activate)));
+			//int itemCount = 0;
+			//foreach ( string s in sortedEntries )
+			//{
+			//	newItem = contextMenuHitTypes.MenuItems.Add(new TD.SandBar.MenuButtonItem(s, new System.EventHandler(this.contextMenu_Activate)));
 		
-				if ( itemCount == 0 )
-					contextMenuHitTypes.MenuItems[newItem].BeginGroup = true;
+			//	if ( itemCount == 0 )
+			//		contextMenuHitTypes.MenuItems[newItem].BeginGroup = true;
 		
-				itemCount++;
-			}
+			//	itemCount++;
+			//}
 		}
 
 		private void DoCombatLog(GameLog g)
